@@ -23,7 +23,7 @@ db_name=afg
 ```bash
 
 psql -h aws-1-us-east-2.pooler.supabase.com -p 6543 -U tu_usuario -d afg
-
+```
 
 #### 2. Conectar usando pgAdmin
 2. Crear una nueva conexión servidor:
@@ -35,8 +35,8 @@ psql -h aws-1-us-east-2.pooler.supabase.com -p 6543 -U tu_usuario -d afg
 
 #### 3. String de Conexión
 El proyecto utiliza SQLAlchemy con el siguiente formato:
-```
-postgresql+psycopg2://usuario:contraseña@host:puerto/base_datos
+```bash
+   postgresql+psycopg2://usuario:contraseña@host:puerto/base_datos
 ```
 
 ### Verificar Tablas Creadas
