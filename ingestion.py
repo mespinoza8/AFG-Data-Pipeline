@@ -6,6 +6,7 @@ import pyodbc
 import logging
 from atenciones_urgencia import carga_atenciones_urgencia
 from carga_comunas import carga_comunas_gnn
+from temperaturas_rm import PipelineTemperaturasRM
 
 
 logging.basicConfig(level=logging.INFO)
@@ -31,7 +32,7 @@ class Ingestion:
                 return
             
             try:
-                dataframe.to_sql(table_name, schema='public', con=self.db_uri, if_exists='replace', index=False)
+                dataframe.to_sql(table_name, schema='public', con=self.db_uri, if_exists='replace', index=False,chunksize=10000)
                 logger.info(f"Data saved to {table_name} table in the database.")
             except Exception as e:
                 logger.error(f"Error saving DataFrame to {table_name}: {str(e)}")
@@ -61,10 +62,25 @@ if __name__ == "__main__":
     
     comunas_dict = carga_comunas_gnn()
     
+    pipeline_temp = PipelineTemperaturasRM(años_inicio=2019, años_fin=2026)
+    
+    try:
+        df_temperaturas = pipeline_temp.ejecutar_pipeline_completo(
+            forzar_descarga_api=False,
+            metodo_reconstruccion='knn'
+        )
+        print(f"Datos de temperatura extraídos: {df_temperaturas.shape if df_temperaturas is not None else 'None'}")
+    except Exception as e:
+        print(f"Error en pipeline de temperaturas: {e}")
+        df_temperaturas = None
+    
     tables_dict = {
         "atenciones_urgencias": df_au,
         **comunas_dict  
     }
+    
+    if df_temperaturas is not None:
+        tables_dict["temperaturas_rm"] = df_temperaturas
     
     print(f"\nTablas a cargar en PostgreSQL:")
     for table_name, df in tables_dict.items():

@@ -4,3 +4,8 @@ python-dotenv
 pyodbc
 psycopg2-binary
 pyarrow
+geopandas
+requests
+scikit-learn
+scipy
+numpy
