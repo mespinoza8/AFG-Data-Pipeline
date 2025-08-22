@@ -5,6 +5,7 @@ from sqlalchemy import create_engine, text
 import pyodbc
 import logging
 from atenciones_urgencia import carga_atenciones_urgencia
+from carga_comunas import carga_comunas_gnn
 
 
 logging.basicConfig(level=logging.INFO)
@@ -57,6 +58,16 @@ if __name__ == "__main__":
     ingestion=Ingestion(engine)
 
     df_au = carga_atenciones_urgencia()
-    tables_dict={"atenciones_urgencias":df_au}
+    
+    comunas_dict = carga_comunas_gnn()
+    
+    tables_dict = {
+        "atenciones_urgencias": df_au,
+        **comunas_dict  
+    }
+    
+    print(f"\nTablas a cargar en PostgreSQL:")
+    for table_name, df in tables_dict.items():
+        print(f"- {table_name}: {df.shape}")
 
     ingestion.save_to_db(tables_dict)
