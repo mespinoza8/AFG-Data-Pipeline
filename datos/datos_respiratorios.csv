@@ -1,0 +1,2600 @@
+source_file,Hospital Centinela,Total de casos,Nº casos positivos,VRS,Ad,Para,Inf A,Inf B,semana,año
+SE52_31-12-2019.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE52,2019
+SE52_31-12-2019.pdf,R.M. Occidente Félix Bulnes,32,2,0,0,2,0,0,SE52,2019
+SE52_31-12-2019.pdf,R.M. Occidente San Juan de Dios,33,0,0,0,0,0,0,SE52,2019
+SE52_31-12-2019.pdf,R.M. Suroriente Padre Hurtado,16,3,0,2,0,0,0,SE52,2019
+SE52_31-12-2019.pdf,R.M. Oriente Hospital del Torax,13,0,0,0,0,0,0,SE52,2019
+SE52_31-12-2019.pdf,R.M. Oriente Hospital Militar,8,0,0,0,0,0,0,SE52,2019
+SE52_31-12-2019.pdf,Otros R.M**,2,2,0,0,0,0,2,SE52,2019
+SE22_07-06-2022.pdf,R.M. Sur Exequiel González C.,81,33,26,0,1,0,0,SE22,2022
+SE22_07-06-2022.pdf,R.M. Occidente Félix Bulnes,133,90,62,1,8,0,0,SE22,2022
+SE22_07-06-2022.pdf,R.M. Occidente San Juan de Dios,66,22,7,0,3,6,0,SE22,2022
+SE22_07-06-2022.pdf,R.M. Suroriente Padre Hurtado,108,23,19,0,1,2,0,SE22,2022
+SE22_07-06-2022.pdf,R.M. Oriente Hospital del Tórax,13,1,0,0,0,0,0,SE22,2022
+SE22_07-06-2022.pdf,R.M. Oriente Hospital Militar,16,10,6,0,2,0,0,SE22,2022
+SE22_07-06-2022.pdf,"Santiago, Consultorio Steeger",2,2,0,0,2,0,0,SE22,2022
+SE22_07-06-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE22,2022
+SE22_07-06-2022.pdf,"Santiago, Consultorio 5",4,0,0,0,0,0,0,SE22,2022
+SE22_07-06-2022.pdf,"Santiago, Consultorio Ariztía",2,2,0,0,0,0,0,SE22,2022
+SE22_07-06-2022.pdf,Otros R.M**,12,12,0,0,0,12,0,SE22,2022
+SE09_08-03-2022.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE09,2022
+SE09_08-03-2022.pdf,R.M. Occidente Félix Bulnes,23,0,0,0,0,0,0,SE09,2022
+SE09_08-03-2022.pdf,R.M. Occidente San Juan de Dios,30,2,0,1,0,1,0,SE09,2022
+SE09_08-03-2022.pdf,R.M. Suroriente Padre Hurtado,7,7,0,1,0,0,0,SE09,2022
+SE09_08-03-2022.pdf,R.M. Oriente Hospital del Tórax,2,1,0,0,0,0,0,SE09,2022
+SE09_08-03-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE09,2022
+SE51_27-12-2022.pdf,R.M. Sur Exequiel González C.,14,0,0,0,0,0,0,SE51,2022
+SE51_27-12-2022.pdf,R.M. Occidente Félix Bulnes,63,6,0,2,3,1,0,SE51,2022
+SE51_27-12-2022.pdf,R.M. Occidente San Juan de Dios,60,13,0,0,2,3,2,SE51,2022
+SE51_27-12-2022.pdf,R.M. Suroriente Padre Hurtado,75,8,0,5,3,0,0,SE51,2022
+SE51_27-12-2022.pdf,R.M. Oriente Hospital del Tórax,25,1,0,1,0,0,0,SE51,2022
+SE51_27-12-2022.pdf,R.M. Oriente Hospital Militar,9,3,0,0,0,1,0,SE51,2022
+SE51_27-12-2022.pdf,"Santiago, Consultorio Steeger",6,2,1,1,0,0,0,SE51,2022
+SE51_27-12-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE51,2022
+SE51_27-12-2022.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE51,2022
+SE51_27-12-2022.pdf,Otros R.M**,5,5,0,0,0,5,0,SE51,2022
+SE12_26-03-2024.pdf,R.M. Sur Exequiel González C.,38,0,0,0,0,0,0,SE12,2024
+SE12_26-03-2024.pdf,R.M. Occidente Félix Bulnes,110,68,0,3,3,0,0,SE12,2024
+SE12_26-03-2024.pdf,R.M. Occidente San Juan de Dios,116,23,1,1,0,1,0,SE12,2024
+SE12_26-03-2024.pdf,R.M. Suroriente Padre Hurtado,92,9,0,0,0,1,0,SE12,2024
+SE12_26-03-2024.pdf,R.M. Oriente Hospital del Tórax,27,7,0,0,0,5,0,SE12,2024
+SE12_26-03-2024.pdf,R.M. Oriente Hospital Militar,3,1,0,0,0,0,0,SE12,2024
+SE12_26-03-2024.pdf,"Santiago, Consultorio Steeger",5,2,0,1,0,0,0,SE12,2024
+SE12_26-03-2024.pdf,"Santiago, Consultorio Avendaño",3,3,0,1,0,0,0,SE12,2024
+SE12_26-03-2024.pdf,"Santiago, Consultorio 5",20,7,1,0,0,1,0,SE12,2024
+SE12_26-03-2024.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE12,2024
+SE12_26-03-2024.pdf,"Santiago, Consultorio Ariztía",2,2,0,0,0,0,0,SE12,2024
+SE36_10-09-2024.pdf,R.M. Sur Exequiel González C.,99,55,4,4,11,2,1,SE36,2024
+SE36_10-09-2024.pdf,R.M. Occidente Félix Bulnes,155,98,14,8,6,1,1,SE36,2024
+SE36_10-09-2024.pdf,R.M. Occidente San Juan de Dios,129,39,6,1,4,0,1,SE36,2024
+SE36_10-09-2024.pdf,R.M. Suroriente Padre Hurtado,143,46,10,4,12,0,0,SE36,2024
+SE36_10-09-2024.pdf,R.M. Oriente Hospital del Tórax,13,5,1,1,0,0,0,SE36,2024
+SE36_10-09-2024.pdf,R.M. Oriente Hospital Militar,14,10,0,1,1,0,0,SE36,2024
+SE36_10-09-2024.pdf,"Santiago, Consultorio Steeger",5,3,0,0,1,0,1,SE36,2024
+SE36_10-09-2024.pdf,"Santiago, Consultorio Avendaño",5,3,0,1,0,0,0,SE36,2024
+SE36_10-09-2024.pdf,"Santiago, Consultorio 5",7,1,0,0,0,0,0,SE36,2024
+SE36_10-09-2024.pdf,"Santiago, Consultorio Barros Luco",6,0,0,0,0,0,0,SE36,2024
+SE36_10-09-2024.pdf,"Santiago, Consultorio Ariztía",6,6,0,0,1,0,1,SE36,2024
+SE07_23-02-2021.pdf,R.M. Sur Exequiel González C.,1,0,0,0,0,0,0,SE07,2021
+SE07_23-02-2021.pdf,R.M. Occidente Félix Bulnes,10,1,0,1,0,0,0,SE07,2021
+SE07_23-02-2021.pdf,R.M. Occidente San Juan de Dios,46,0,0,0,0,0,0,SE07,2021
+SE07_23-02-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE07,2021
+SE07_23-02-2021.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE07,2021
+SE07_23-02-2021.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE07,2021
+SE28_18-07-2023.pdf,R.M. Sur Exequiel González C.,47,30,17,0,2,0,1,SE28,2023
+SE28_18-07-2023.pdf,R.M. Occidente Félix Bulnes,136,68,30,2,5,1,2,SE28,2023
+SE28_18-07-2023.pdf,R.M. Occidente San Juan de Dios,133,28,13,3,3,1,1,SE28,2023
+SE28_18-07-2023.pdf,R.M. Suroriente Padre Hurtado,148,20,10,4,0,0,3,SE28,2023
+SE28_18-07-2023.pdf,R.M. Oriente Hospital del Tórax,35,5,3,0,0,0,0,SE28,2023
+SE28_18-07-2023.pdf,R.M. Oriente Hospital Militar,7,4,1,0,1,0,0,SE28,2023
+SE28_18-07-2023.pdf,"Santiago, Consultorio Steeger",8,3,1,0,0,0,0,SE28,2023
+SE28_18-07-2023.pdf,"Santiago, Consultorio Avendaño",2,0,0,0,0,0,0,SE28,2023
+SE28_18-07-2023.pdf,"Santiago, Consultorio Barros Luco",1,1,0,0,0,0,0,SE28,2023
+SE28_18-07-2023.pdf,"Santiago, Consultorio Ariztía",3,2,0,0,0,0,1,SE28,2023
+SE28_18-07-2023.pdf,Otros R.M**,2,2,0,0,0,0,2,SE28,2023
+SE03_24-01-2023.pdf,R.M. Sur Exequiel González C.,10,2,0,1,1,0,0,SE03,2023
+SE03_24-01-2023.pdf,R.M. Occidente Félix Bulnes,35,1,0,1,0,0,0,SE03,2023
+SE03_24-01-2023.pdf,R.M. Occidente San Juan de Dios,30,3,0,1,1,0,1,SE03,2023
+SE03_24-01-2023.pdf,R.M. Suroriente Padre Hurtado,70,3,0,3,0,0,0,SE03,2023
+SE03_24-01-2023.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE03,2023
+SE03_24-01-2023.pdf,R.M. Oriente Hospital Militar,4,1,0,0,0,0,0,SE03,2023
+SE03_24-01-2023.pdf,"Santiago, Consultorio Avendaño",2,1,0,1,0,0,0,SE03,2023
+SE03_24-01-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE03,2023
+SE03_24-01-2023.pdf,Otros R.M**,1,1,0,0,0,1,0,SE03,2023
+SE29_23-07-2019.pdf,R.M. Sur Exequiel González C.,136,108,102,0,1,2,1,SE29,2019
+SE29_23-07-2019.pdf,R.M. Occidente Félix Bulnes,145,108,87,3,8,3,5,SE29,2019
+SE29_23-07-2019.pdf,R.M. Occidente San Juan de Dios,175,60,26,0,4,8,22,SE29,2019
+SE29_23-07-2019.pdf,R.M. Suroriente Padre Hurtado,141,70,60,0,1,0,6,SE29,2019
+SE29_23-07-2019.pdf,R.M. Oriente Hospital del Tórax,53,7,1,0,1,2,1,SE29,2019
+SE29_23-07-2019.pdf,R.M. Oriente Hospital Militar,17,5,5,0,0,0,0,SE29,2019
+SE29_23-07-2019.pdf,"Santiago, Consultorio Steeger",2,1,0,0,0,0,1,SE29,2019
+SE29_23-07-2019.pdf,"Santiago, Consultorio Avendaño",7,3,1,1,0,0,1,SE29,2019
+SE29_23-07-2019.pdf,"Santiago, Consultorio 5",1,1,0,0,0,0,1,SE29,2019
+SE29_23-07-2019.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE29,2019
+SE29_23-07-2019.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE29,2019
+SE29_23-07-2019.pdf,Otros R.M**,23,23,0,0,0,10,13,SE29,2019
+SE16_23-04-2019.pdf,R.M. Sur Exequiel González C.,23,0,0,0,0,0,0,SE16,2019
+SE16_23-04-2019.pdf,R.M. Occidente Félix Bulnes,28,3,0,2,1,0,0,SE16,2019
+SE16_23-04-2019.pdf,R.M. Occidente San Juan de Dios,77,4,0,1,0,3,0,SE16,2019
+SE16_23-04-2019.pdf,R.M. Suroriente Padre Hurtado,21,2,0,0,1,1,0,SE16,2019
+SE16_23-04-2019.pdf,R.M. Oriente Hospital del Tórax,17,3,0,2,0,0,0,SE16,2019
+SE16_23-04-2019.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE16,2019
+SE16_23-04-2019.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE16,2019
+SE16_23-04-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE16,2019
+SE16_23-04-2019.pdf,Otros R.M**,9,9,0,0,0,9,0,SE16,2019
+SE05_07-02-2023.pdf,R.M. Sur Exequiel González C.,10,2,0,1,0,0,1,SE05,2023
+SE05_07-02-2023.pdf,R.M. Occidente Félix Bulnes,30,1,0,1,0,0,0,SE05,2023
+SE05_07-02-2023.pdf,R.M. Occidente San Juan de Dios,48,5,0,1,0,0,0,SE05,2023
+SE05_07-02-2023.pdf,R.M. Suroriente Padre Hurtado,69,10,0,9,0,0,1,SE05,2023
+SE05_07-02-2023.pdf,R.M. Oriente Hospital del Tórax,12,0,0,0,0,0,0,SE05,2023
+SE05_07-02-2023.pdf,R.M. Oriente Hospital Militar,8,1,0,0,0,0,0,SE05,2023
+SE05_07-02-2023.pdf,"Santiago, Consultorio Avendaño",2,1,0,1,0,0,0,SE05,2023
+SE05_07-02-2023.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE05,2023
+SE05_07-02-2023.pdf,"Santiago, Consultorio Ariztía",3,1,0,0,1,0,0,SE05,2023
+SE05_07-02-2023.pdf,Otros R.M**,3,3,0,0,0,0,3,SE05,2023
+SE25_29-06-2021.pdf,R.M. Sur Exequiel González C.,17,2,2,0,0,0,0,SE25,2021
+SE25_29-06-2021.pdf,R.M. Occidente Félix Bulnes,21,0,0,0,0,0,0,SE25,2021
+SE25_29-06-2021.pdf,R.M. Occidente San Juan de Dios,25,0,0,0,0,0,0,SE25,2021
+SE25_29-06-2021.pdf,R.M. Suroriente Padre Hurtado,1,1,1,0,0,0,0,SE25,2021
+SE25_29-06-2021.pdf,R.M. Oriente Hospital del Tórax,1,0,0,0,0,0,0,SE25,2021
+SE25_29-06-2021.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE25,2021
+SE40_12-10-2021.pdf,R.M. Sur Exequiel González C.,32,12,9,0,3,0,0,SE40,2021
+SE40_12-10-2021.pdf,R.M. Occidente Félix Bulnes,46,20,15,2,3,0,0,SE40,2021
+SE40_12-10-2021.pdf,R.M. Occidente San Juan de Dios,30,5,2,0,3,0,0,SE40,2021
+SE40_12-10-2021.pdf,R.M. Suroriente Padre Hurtado,44,17,14,3,0,0,0,SE40,2021
+SE40_12-10-2021.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE40,2021
+SE40_12-10-2021.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE40,2021
+SE11_17-03-2020.pdf,R.M. Sur Exequiel González C.,18,1,0,0,1,0,0,SE11,2020
+SE11_17-03-2020.pdf,R.M. Occidente Félix Bulnes,67,4,0,3,0,0,1,SE11,2020
+SE11_17-03-2020.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE11,2020
+SE11_17-03-2020.pdf,R.M. Suroriente Padre Hurtado,15,0,0,0,0,0,0,SE11,2020
+SE11_17-03-2020.pdf,R.M. Oriente Hospital del Tórax,45,0,0,0,0,0,0,SE11,2020
+SE11_17-03-2020.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE11,2020
+SE11_17-03-2020.pdf,Otros R.M**,3,3,0,0,0,2,1,SE11,2020
+SE15_20-04-2021.pdf,R.M. Sur Exequiel González C.,14,0,0,0,0,0,0,SE15,2021
+SE15_20-04-2021.pdf,R.M. Occidente Félix Bulnes,15,2,2,0,0,0,0,SE15,2021
+SE15_20-04-2021.pdf,R.M. Occidente San Juan de Dios,38,0,0,0,0,0,0,SE15,2021
+SE15_20-04-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE15,2021
+SE15_20-04-2021.pdf,R.M. Oriente Hospital del Tórax,9,0,0,0,0,0,0,SE15,2021
+SE15_20-04-2021.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE15,2021
+SE29_23-07-2024.pdf,R.M. Sur Exequiel González C.,100,58,39,1,7,0,0,SE29,2024
+SE29_23-07-2024.pdf,R.M. Occidente Félix Bulnes,138,88,54,3,4,0,0,SE29,2024
+SE29_23-07-2024.pdf,R.M. Occidente San Juan de Dios,132,25,14,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,R.M. Suroriente Padre Hurtado,182,55,40,1,0,3,0,SE29,2024
+SE29_23-07-2024.pdf,R.M. Oriente Hospital del Tórax,8,3,1,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,R.M. Oriente Hospital Militar,10,2,0,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,"Santiago, Consultorio Steeger",3,1,1,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,"Santiago, Consultorio Avendaño",5,5,0,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,"Santiago, Consultorio 5",4,0,0,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,"Santiago, Consultorio Barros Luco",5,0,0,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE29,2024
+SE29_23-07-2024.pdf,Otros R.M**,2,2,0,0,0,2,0,SE29,2024
+SE16_23-04-2024.pdf,R.M. Sur Exequiel Gonzalez C.,6,0,0,0,0,0,0,SE16,2024
+SE16_23-04-2024.pdf,R.M. Occidente Félix Bulnes,102,54,0,4,6,9,0,SE16,2024
+SE16_23-04-2024.pdf,R.M. Occidente San Juan de Dios,106,23,0,0,0,10,0,SE16,2024
+SE16_23-04-2024.pdf,R.M. Suroriente Padre Hurtado,167,37,0,0,0,22,0,SE16,2024
+SE16_23-04-2024.pdf,R.M. Oriente Hospital del Torax,7,2,0,0,0,0,0,SE16,2024
+SE16_23-04-2024.pdf,R.M. Oriente Hospital Militar,9,3,0,0,0,0,0,SE16,2024
+SE16_23-04-2024.pdf,"Santiago, Consultorio Steeger",3,3,0,0,0,1,0,SE16,2024
+SE16_23-04-2024.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,0,0,SE16,2024
+SE16_23-04-2024.pdf,"Santiago, Consultorio 5",24,0,0,0,0,0,0,SE16,2024
+SE16_23-04-2024.pdf,"Santiago, Consultorio Barros Luco",3,1,0,0,0,1,0,SE16,2024
+SE16_23-04-2024.pdf,"Santiago, Consultorio Ariztía",5,3,0,0,0,1,0,SE16,2024
+SE16_23-04-2024.pdf,Otros R.M**,6,6,0,0,0,6,0,SE16,2024
+SE35_06-09-2022.pdf,R.M. Sur Exequiel González C.,52,8,2,1,3,0,0,SE35,2022
+SE35_06-09-2022.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE35,2022
+SE35_06-09-2022.pdf,R.M. Occidente San Juan de Dios,66,15,1,0,2,7,0,SE35,2022
+SE35_06-09-2022.pdf,R.M. Suroriente Padre Hurtado,119,7,1,2,0,3,0,SE35,2022
+SE35_06-09-2022.pdf,R.M. Oriente Hospital del Tórax,32,8,1,1,2,3,0,SE35,2022
+SE35_06-09-2022.pdf,R.M. Oriente Hospital Militar,10,5,2,0,0,0,0,SE35,2022
+SE35_06-09-2022.pdf,"Santiago, Consultorio Steeger",7,3,0,2,0,0,0,SE35,2022
+SE35_06-09-2022.pdf,"Santiago, Consultorio Avendaño",10,4,0,1,2,0,0,SE35,2022
+SE35_06-09-2022.pdf,"Santiago, Consultorio 5",3,0,0,0,0,0,0,SE35,2022
+SE35_06-09-2022.pdf,"Santiago, Consultorio Barros Luco",10,0,0,0,0,0,0,SE35,2022
+SE35_06-09-2022.pdf,Otros R.M**,8,8,0,0,0,8,0,SE35,2022
+SE09_04-03-2025.pdf,R.M. Sur Exequiel González C.,37,12,0,0,0,1,0,SE09,2025
+SE09_04-03-2025.pdf,R.M. Occidente Félix Bulnes,60,10,0,0,0,0,0,SE09,2025
+SE09_04-03-2025.pdf,R.M. Occidente San Juan de Dios,71,18,0,0,0,0,1,SE09,2025
+SE09_04-03-2025.pdf,R.M. Suroriente Padre Hurtado,55,8,0,0,0,1,1,SE09,2025
+SE09_04-03-2025.pdf,R.M. Oriente Hospital del Tórax,2,0,0,0,0,0,0,SE09,2025
+SE09_04-03-2025.pdf,R.M. Oriente Hospital Militar,4,1,0,0,0,0,0,SE09,2025
+SE09_04-03-2025.pdf,"Santiago, Consultorio Steeger",3,2,0,0,0,0,0,SE09,2025
+SE09_04-03-2025.pdf,"Santiago, Consultorio Avendaño",4,4,0,0,0,0,0,SE09,2025
+SE09_04-03-2025.pdf,"Santiago, Consultorio 5",7,1,0,0,0,0,0,SE09,2025
+SE09_04-03-2025.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE09,2025
+SE09_04-03-2025.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE09,2025
+SE06_11-02-2025.pdf,R.M. Sur Exequiel González C.,26,8,0,1,0,0,0,SE06,2025
+SE06_11-02-2025.pdf,R.M. Occidente Félix Bulnes,46,9,0,0,0,0,0,SE06,2025
+SE06_11-02-2025.pdf,R.M. Occidente San Juan de Dios,58,11,0,1,0,0,1,SE06,2025
+SE06_11-02-2025.pdf,R.M. Suroriente Padre Hurtado,39,8,0,0,0,0,2,SE06,2025
+SE06_11-02-2025.pdf,R.M. Oriente Hospital del Tórax,4,1,0,0,0,0,0,SE06,2025
+SE06_11-02-2025.pdf,R.M. Oriente Hospital Militar,2,1,0,0,0,0,0,SE06,2025
+SE06_11-02-2025.pdf,"Santiago, Consultorio Avendaño",9,5,0,0,0,0,0,SE06,2025
+SE06_11-02-2025.pdf,"Santiago, Consultorio 5",2,1,1,0,0,0,0,SE06,2025
+SE06_11-02-2025.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE06,2025
+SE06_11-02-2025.pdf,Otros R.M**,2,2,0,0,0,2,0,SE06,2025
+SE04_31-01-2023.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE04,2023
+SE04_31-01-2023.pdf,R.M. Occidente Félix Bulnes,36,2,0,0,2,0,0,SE04,2023
+SE04_31-01-2023.pdf,R.M. Occidente San Juan de Dios,36,8,0,1,3,0,0,SE04,2023
+SE04_31-01-2023.pdf,R.M. Suroriente Padre Hurtado,53,4,0,2,0,1,1,SE04,2023
+SE04_31-01-2023.pdf,R.M. Oriente Hospital del Tórax,11,1,0,1,0,0,0,SE04,2023
+SE04_31-01-2023.pdf,R.M. Oriente Hospital Militar,8,1,0,0,0,0,0,SE04,2023
+SE04_31-01-2023.pdf,"Santiago, Consultorio Avendaño",3,2,0,1,0,0,1,SE04,2023
+SE04_31-01-2023.pdf,"Santiago, Consultorio Barros Luco",1,1,0,0,0,0,1,SE04,2023
+SE04_31-01-2023.pdf,"Santiago, Consultorio Ariztía",2,1,0,1,0,0,0,SE04,2023
+SE04_31-01-2023.pdf,Otros R.M**,1,1,0,0,0,1,0,SE04,2023
+SE36_10-09-2019.pdf,R.M. Sur Exequiel González C.,64,20,9,0,4,0,0,SE36,2019
+SE36_10-09-2019.pdf,R.M. Occidente Félix Bulnes,92,32,12,3,3,0,1,SE36,2019
+SE36_10-09-2019.pdf,R.M. Occidente San Juan de Dios,151,33,6,4,0,0,23,SE36,2019
+SE36_10-09-2019.pdf,R.M. Suroriente Padre Hurtado,82,23,5,3,1,0,4,SE36,2019
+SE36_10-09-2019.pdf,R.M. Oriente Hospital del Tórax,37,4,0,1,0,0,2,SE36,2019
+SE36_10-09-2019.pdf,R.M. Oriente Hospital Militar,9,2,1,0,0,0,0,SE36,2019
+SE36_10-09-2019.pdf,"Santiago, Consultorio Steeger",3,2,1,0,0,0,0,SE36,2019
+SE36_10-09-2019.pdf,"Santiago, Consultorio Avendaño",2,2,0,0,0,0,2,SE36,2019
+SE36_10-09-2019.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE36,2019
+SE36_10-09-2019.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,0,0,1,SE36,2019
+SE36_10-09-2019.pdf,Otros R.M**,19,19,0,0,0,4,15,SE36,2019
+SE27_11-07-2023.pdf,R.M. Sur Exequiel González C.,64,35,29,0,2,0,1,SE27,2023
+SE27_11-07-2023.pdf,R.M. Occidente Félix Bulnes,149,93,42,5,3,0,6,SE27,2023
+SE27_11-07-2023.pdf,R.M. Occidente San Juan de Dios,147,36,13,4,1,1,4,SE27,2023
+SE27_11-07-2023.pdf,R.M. Suroriente Padre Hurtado,163,31,21,2,0,0,1,SE27,2023
+SE27_11-07-2023.pdf,R.M. Oriente Hospital del Tórax,60,13,3,0,2,0,0,SE27,2023
+SE27_11-07-2023.pdf,R.M. Oriente Hospital Militar,10,6,3,0,0,0,0,SE27,2023
+SE27_11-07-2023.pdf,"Santiago, Consultorio Steeger",5,1,0,0,0,1,0,SE27,2023
+SE27_11-07-2023.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,0,1,0,SE27,2023
+SE27_11-07-2023.pdf,"Santiago, Consultorio 5",3,3,0,0,0,0,1,SE27,2023
+SE27_11-07-2023.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE27,2023
+SE27_11-07-2023.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,0,0,1,SE27,2023
+SE27_11-07-2023.pdf,Otros R.M**,2,2,0,0,0,1,1,SE27,2023
+SE12_26-03-2019.pdf,R.M. Sur Exequiel González C.,27,2,0,1,1,0,0,SE12,2019
+SE12_26-03-2019.pdf,R.M. Occidente Félix Bulnes,25,2,0,1,1,0,0,SE12,2019
+SE12_26-03-2019.pdf,R.M. Occidente San Juan de Dios,48,1,0,0,1,0,0,SE12,2019
+SE12_26-03-2019.pdf,R.M. Suroriente Padre Hurtado,26,1,0,0,1,0,0,SE12,2019
+SE12_26-03-2019.pdf,R.M. Oriente Hospital del Tórax,12,0,0,0,0,0,0,SE12,2019
+SE12_26-03-2019.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE12,2019
+SE12_26-03-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE12,2019
+SE12_26-03-2019.pdf,Otros R.M**,14,13,0,0,0,12,1,SE12,2019
+SE44_08-11-2022.pdf,R.M. Sur Exequiel González C.,23,4,0,1,2,1,0,SE44,2022
+SE44_08-11-2022.pdf,R.M. Occidente Félix Bulnes,61,11,0,2,0,9,0,SE44,2022
+SE44_08-11-2022.pdf,R.M. Occidente San Juan de Dios,67,12,0,0,0,7,0,SE44,2022
+SE44_08-11-2022.pdf,R.M. Suroriente Padre Hurtado,75,11,0,1,0,10,0,SE44,2022
+SE44_08-11-2022.pdf,R.M. Oriente Hospital del Tórax,20,3,0,0,0,2,0,SE44,2022
+SE44_08-11-2022.pdf,R.M. Oriente Hospital Militar,13,9,0,0,0,3,0,SE44,2022
+SE44_08-11-2022.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE44,2022
+SE44_08-11-2022.pdf,"Santiago, Consultorio Avendaño",6,2,0,1,0,1,0,SE44,2022
+SE44_08-11-2022.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE44,2022
+SE44_08-11-2022.pdf,"Santiago, Consultorio Ariztía",7,4,0,0,1,3,0,SE44,2022
+SE44_08-11-2022.pdf,Otros R.M**,14,14,0,0,0,13,1,SE44,2022
+SE48_06-12-2022.pdf,R.M. Sur Exequiel González C.,20,1,0,0,1,0,0,SE48,2022
+SE48_06-12-2022.pdf,R.M. Occidente Félix Bulnes,66,14,1,1,3,8,0,SE48,2022
+SE48_06-12-2022.pdf,R.M. Occidente San Juan de Dios,61,18,0,0,0,8,0,SE48,2022
+SE48_06-12-2022.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE48,2022
+SE48_06-12-2022.pdf,R.M. Oriente Hospital del Tórax,10,1,0,0,1,0,0,SE48,2022
+SE48_06-12-2022.pdf,R.M. Oriente Hospital Militar,7,2,0,0,1,0,0,SE48,2022
+SE48_06-12-2022.pdf,"Santiago, Consultorio Steeger",3,3,0,1,0,2,0,SE48,2022
+SE48_06-12-2022.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,0,1,0,SE48,2022
+SE48_06-12-2022.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE48,2022
+SE48_06-12-2022.pdf,"Santiago, Consultorio Barros Luco",5,0,0,0,0,0,0,SE48,2022
+SE48_06-12-2022.pdf,"Santiago, Consultorio Ariztía",5,0,0,0,0,0,0,SE48,2022
+SE48_06-12-2022.pdf,Otros R.M**,14,14,0,0,0,14,0,SE48,2022
+SE31_09-08-2022.pdf,R.M. Sur Exequiel González C.,46,13,9,0,2,1,0,SE31,2022
+SE31_09-08-2022.pdf,R.M. Occidente Félix Bulnes,110,42,16,0,6,10,0,SE31,2022
+SE31_09-08-2022.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE31,2022
+SE31_09-08-2022.pdf,R.M. Suroriente Padre Hurtado,160,18,8,0,1,7,0,SE31,2022
+SE31_09-08-2022.pdf,R.M. Oriente Hospital del Tórax,23,3,0,0,1,1,0,SE31,2022
+SE31_09-08-2022.pdf,"Santiago, Consultorio Barros Luco",6,0,0,0,0,0,0,SE31,2022
+SE31_09-08-2022.pdf,"Santiago, Consultorio Ariztía",8,5,0,1,1,3,0,SE31,2022
+SE31_09-08-2022.pdf,Otros R.M**,14,14,0,0,0,14,0,SE31,2022
+SE08_26-02-2019.pdf,R.M. Sur Exequiel González C.,14,2,0,0,2,0,0,SE08,2019
+SE08_26-02-2019.pdf,R.M. Occidente Félix Bulnes,32,2,0,1,1,0,0,SE08,2019
+SE08_26-02-2019.pdf,R.M. Occidente San Juan de Dios,18,2,0,1,0,1,0,SE08,2019
+SE08_26-02-2019.pdf,R.M. Suroriente Padre Hurtado,6,0,0,0,0,0,0,SE08,2019
+SE08_26-02-2019.pdf,R.M. Oriente Hospital del Tórax,6,1,0,0,0,1,0,SE08,2019
+SE08_26-02-2019.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE08,2019
+SE08_26-02-2019.pdf,"Santiago, Consultorio Ariztía",1,1,0,1,0,0,0,SE08,2019
+SE08_26-02-2019.pdf,Otros R.M**,5,5,0,0,0,5,0,SE08,2019
+SE33_24-08-2021.pdf,R.M. Sur Exequiel González C.,40,17,16,0,1,0,0,SE33,2021
+SE33_24-08-2021.pdf,R.M. Occidente Félix Bulnes,54,28,27,0,1,0,0,SE33,2021
+SE33_24-08-2021.pdf,R.M. Occidente San Juan de Dios,37,7,4,1,2,0,0,SE33,2021
+SE33_24-08-2021.pdf,R.M. Suroriente Padre Hurtado,27,13,12,1,0,0,0,SE33,2021
+SE33_24-08-2021.pdf,R.M. Oriente Hospital del Tórax,1,0,0,0,0,0,0,SE33,2021
+SE33_24-08-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE33,2021
+SE20_19-05-2020.pdf,R.M. Sur Exequiel González C.,6,0,0,0,0,0,0,SE20,2020
+SE20_19-05-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE20,2020
+SE20_19-05-2020.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE20,2020
+SE20_19-05-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE20,2020
+SE20_19-05-2020.pdf,R.M. Oriente Hospital del Tórax,46,8,0,0,0,1,0,SE20,2020
+SE20_19-05-2020.pdf,"Santiago, Consultorio Ariztía",136,5,0,0,0,0,0,SE20,2020
+SE35_03-09-2019.pdf,R.M. Sur Exequiel González C.,89,38,19,5,0,0,3,SE35,2019
+SE35_03-09-2019.pdf,R.M. Occidente Félix Bulnes,117,41,23,0,3,0,4,SE35,2019
+SE35_03-09-2019.pdf,R.M. Occidente San Juan de Dios,172,42,10,1,0,0,31,SE35,2019
+SE35_03-09-2019.pdf,R.M. Suroriente Padre Hurtado,2,2,2,0,0,0,0,SE35,2019
+SE35_03-09-2019.pdf,R.M. Oriente Hospital del Tórax,37,4,0,0,1,0,2,SE35,2019
+SE35_03-09-2019.pdf,R.M. Oriente Hospital Militar,13,3,0,1,0,0,1,SE35,2019
+SE35_03-09-2019.pdf,"Santiago, Consultorio Avendaño",5,4,0,0,0,0,4,SE35,2019
+SE35_03-09-2019.pdf,"Santiago, Consultorio Barros Luco",1,1,0,0,0,0,1,SE35,2019
+SE35_03-09-2019.pdf,"Santiago, Consultorio Ariztía",6,1,0,0,0,0,1,SE35,2019
+SE35_03-09-2019.pdf,Otros R.M**,10,10,0,0,0,2,8,SE35,2019
+SE07_18-02-2020.pdf,R.M. Sur Exequiel González C.,6,0,0,0,0,0,0,SE07,2020
+SE07_18-02-2020.pdf,R.M. Occidente Félix Bulnes,19,2,1,0,1,0,0,SE07,2020
+SE07_18-02-2020.pdf,R.M. Occidente San Juan de Dios,14,2,0,1,1,0,0,SE07,2020
+SE07_18-02-2020.pdf,R.M. Suroriente Padre Hurtado,19,3,0,1,1,0,0,SE07,2020
+SE07_18-02-2020.pdf,R.M. Oriente Hospital del Tórax,11,0,0,0,0,0,0,SE07,2020
+SE07_18-02-2020.pdf,R.M. Oriente Hospital Militar,1,0,0,0,0,0,0,SE07,2020
+SE07_18-02-2020.pdf,Otros R.M**,6,6,0,0,0,4,2,SE07,2020
+SE04_28-01-2025.pdf,R.M. Sur Exequiel González C.,20,6,0,0,0,0,0,SE04,2025
+SE04_28-01-2025.pdf,R.M. Occidente Félix Bulnes,56,8,0,0,0,0,1,SE04,2025
+SE04_28-01-2025.pdf,R.M. Occidente San Juan de Dios,44,5,0,0,0,0,0,SE04,2025
+SE04_28-01-2025.pdf,R.M. Suroriente Padre Hurtado,47,4,0,0,0,0,0,SE04,2025
+SE04_28-01-2025.pdf,R.M. Oriente Hospital del Tórax,7,0,0,0,0,0,0,SE04,2025
+SE04_28-01-2025.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE04,2025
+SE04_28-01-2025.pdf,"Santiago, Consultorio Avendaño",5,1,0,0,0,0,0,SE04,2025
+SE04_28-01-2025.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE04,2025
+SE04_28-01-2025.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,0,0,0,SE04,2025
+SE03_21-01-2025.pdf,R.M. Sur Exequiel González C.,24,14,0,1,1,0,1,SE03,2025
+SE03_21-01-2025.pdf,R.M. Occidente Félix Bulnes,58,11,0,1,0,0,0,SE03,2025
+SE03_21-01-2025.pdf,R.M. Occidente San Juan de Dios,58,13,0,0,0,2,3,SE03,2025
+SE03_21-01-2025.pdf,R.M. Suroriente Padre Hurtado,47,7,0,3,0,0,2,SE03,2025
+SE03_21-01-2025.pdf,R.M. Oriente Hospital del Tórax,5,1,0,0,0,0,0,SE03,2025
+SE03_21-01-2025.pdf,R.M. Oriente Hospital Militar,5,2,1,0,1,0,0,SE03,2025
+SE03_21-01-2025.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE03,2025
+SE03_21-01-2025.pdf,"Santiago, Consultorio 5",4,1,0,0,0,0,0,SE03,2025
+SE03_21-01-2025.pdf,"Santiago, Consultorio Barros Luco",5,1,0,0,0,0,1,SE03,2025
+SE03_21-01-2025.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE03,2025
+SE25_25-06-2024.pdf,R.M. Sur Exequiel González C.,97,53,34,2,3,1,1,SE25,2024
+SE25_25-06-2024.pdf,R.M. Occidente Félix Bulnes,164,89,36,5,3,8,1,SE25,2024
+SE25_25-06-2024.pdf,R.M. Occidente San Juan de Dios,135,30,3,1,0,17,1,SE25,2024
+SE25_25-06-2024.pdf,R.M. Suroriente Padre Hurtado,169,40,29,4,1,5,0,SE25,2024
+SE25_25-06-2024.pdf,R.M. Oriente Hospital del Tórax,16,5,1,0,0,3,0,SE25,2024
+SE25_25-06-2024.pdf,R.M. Oriente Hospital Militar,9,0,0,0,0,0,0,SE25,2024
+SE25_25-06-2024.pdf,"Santiago, Consultorio Avendaño",5,3,0,0,1,0,0,SE25,2024
+SE25_25-06-2024.pdf,"Santiago, Consultorio 5",5,1,0,0,0,0,0,SE25,2024
+SE25_25-06-2024.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE25,2024
+SE25_25-06-2024.pdf,"Santiago, Consultorio Ariztía",0,0,0,0,0,0,0,SE25,2024
+SE25_25-06-2024.pdf,Otros R.M**,6,6,0,0,0,6,0,SE25,2024
+SE04_02-02-2021.pdf,R.M. Sur Exequiel González C.,2,0,0,0,0,0,0,SE04,2021
+SE04_02-02-2021.pdf,R.M. Occidente Félix Bulnes,8,0,0,0,0,0,0,SE04,2021
+SE04_02-02-2021.pdf,R.M. Occidente San Juan de Dios,45,0,0,0,0,0,0,SE04,2021
+SE04_02-02-2021.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE04,2021
+SE04_02-02-2021.pdf,R.M. Oriente Hospital del Tórax,20,0,0,0,0,0,0,SE04,2021
+SE04_02-02-2021.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE04,2021
+SE18_11-05-2021.pdf,R.M. Sur Exequiel Gonzáles C.,9,0,0,0,0,0,0,SE18,2021
+SE18_11-05-2021.pdf,R.M. Occidente Félix Bulnes,23,0,0,0,0,0,0,SE18,2021
+SE18_11-05-2021.pdf,R.M. Occidente San Juan de Dios,19,0,0,0,0,0,0,SE18,2021
+SE18_11-05-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE18,2021
+SE18_11-05-2021.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE18,2021
+SE18_11-05-2021.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE18,2021
+SE41_17-10-2023.pdf,R.M. Sur Exequiel González C.,28,4,0,0,4,0,0,SE41,2023
+SE41_17-10-2023.pdf,R.M. Occidente Félix Bulnes,92,14,0,1,11,0,0,SE41,2023
+SE41_17-10-2023.pdf,R.M. Occidente San Juan de Dios,118,16,0,0,3,0,2,SE41,2023
+SE41_17-10-2023.pdf,R.M. Suroriente Padre Hurtado,149,8,1,4,3,0,0,SE41,2023
+SE41_17-10-2023.pdf,R.M. Oriente Hospital del Tórax,77,25,0,0,4,0,0,SE41,2023
+SE41_17-10-2023.pdf,R.M. Oriente Hospital Militar,7,6,0,0,3,0,0,SE41,2023
+SE41_17-10-2023.pdf,"Santiago, Consultorio Steeger",3,1,0,0,1,0,0,SE41,2023
+SE41_17-10-2023.pdf,"Santiago, Consultorio Avendaño",2,0,0,0,0,0,0,SE41,2023
+SE41_17-10-2023.pdf,"Santiago, Consultorio 5",10,3,0,0,2,0,0,SE41,2023
+SE41_17-10-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE41,2023
+SE41_17-10-2023.pdf,"Santiago, Consultorio Ariztía",2,2,0,1,1,0,0,SE41,2023
+SE41_17-10-2023.pdf,Otros R.M**,9,9,0,0,0,4,5,SE41,2023
+SE17_04-05-2021.pdf,R.M. Sur Exequiel González C.,8,1,0,1,0,0,0,SE17,2021
+SE17_04-05-2021.pdf,R.M. Occidente Félix Bulnes,9,0,0,0,0,0,0,SE17,2021
+SE17_04-05-2021.pdf,R.M. Occidente San Juan de Dios,24,0,0,0,0,0,0,SE17,2021
+SE17_04-05-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE17,2021
+SE17_04-05-2021.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE17,2021
+SE17_04-05-2021.pdf,R.M. Oriente Hospital Militar,12,0,0,0,0,0,0,SE17,2021
+SE48_03-12-2019.pdf,R.M. Sur Exequiel González C.,2,0,0,0,0,0,0,SE48,2019
+SE48_03-12-2019.pdf,R.M. Occidente Félix Bulnes,40,7,0,1,3,0,0,SE48,2019
+SE48_03-12-2019.pdf,R.M. Occidente San Juan de Dios,22,3,0,2,1,0,0,SE48,2019
+SE48_03-12-2019.pdf,R.M. Suroriente Padre Hurtado,11,0,0,0,0,0,0,SE48,2019
+SE48_03-12-2019.pdf,R.M. Oriente Hospital del Tórax,11,0,0,0,0,0,0,SE48,2019
+SE48_03-12-2019.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE48,2019
+SE48_03-12-2019.pdf,Otros R.M**,4,4,0,0,0,1,3,SE48,2019
+SE38_22-09-2020.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE38,2020
+SE38_22-09-2020.pdf,R.M. Occidente Félix Bulnes,10,0,0,0,0,0,0,SE38,2020
+SE38_22-09-2020.pdf,R.M. Occidente San Juan de Dios,204,0,0,0,0,0,0,SE38,2020
+SE38_22-09-2020.pdf,R.M. Suroriente Padre Hurtado,6,1,0,1,0,0,0,SE38,2020
+SE38_22-09-2020.pdf,R.M. Oriente Hospital del Tórax,41,4,0,0,0,0,0,SE38,2020
+SE21_01-06-2021.pdf,R.M. Sur Exequiel González C.,19,0,0,0,0,0,0,SE21,2021
+SE21_01-06-2021.pdf,R.M. Occidente Félix Bulnes,23,2,2,0,0,0,0,SE21,2021
+SE21_01-06-2021.pdf,R.M. Occidente San Juan de Dios,17,0,0,0,0,0,0,SE21,2021
+SE21_01-06-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE21,2021
+SE21_01-06-2021.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE21,2021
+SE21_01-06-2021.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE21,2021
+SE46_17-11-2020.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE46,2020
+SE46_17-11-2020.pdf,R.M. Occidente Félix Bulnes,11,2,0,2,0,0,0,SE46,2020
+SE46_17-11-2020.pdf,R.M. Occidente San Juan de Dios,36,1,0,0,1,0,0,SE46,2020
+SE46_17-11-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE46,2020
+SE46_17-11-2020.pdf,R.M. Oriente Hospital del Tórax,10,1,0,0,0,0,0,SE46,2020
+SE46_17-11-2020.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE46,2020
+SE25_29-06-2022.pdf,R.M. Sur Exequiel González C.,104,62,57,0,1,1,0,SE25,2022
+SE25_29-06-2022.pdf,R.M. Occidente Félix Bulnes,199,137,83,5,7,8,0,SE25,2022
+SE25_29-06-2022.pdf,R.M. Occidente San Juan de Dios,98,30,12,0,1,7,0,SE25,2022
+SE25_29-06-2022.pdf,R.M. Suroriente Padre Hurtado,170,49,28,1,3,8,0,SE25,2022
+SE25_29-06-2022.pdf,R.M. Oriente Hospital del Tórax,27,9,4,0,1,2,0,SE25,2022
+SE25_29-06-2022.pdf,R.M. Oriente Hospital Militar,17,10,2,0,0,0,0,SE25,2022
+SE25_29-06-2022.pdf,"Santiago, Consultorio Steeger",7,4,1,0,0,0,0,SE25,2022
+SE25_29-06-2022.pdf,"Santiago, Consultorio Avendaño",11,8,3,0,2,2,0,SE25,2022
+SE25_29-06-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE25,2022
+SE25_29-06-2022.pdf,"Santiago, Consultorio Ariztía",4,3,2,0,0,0,0,SE25,2022
+SE25_29-06-2022.pdf,Otros R.M**,6,6,0,0,0,6,0,SE25,2022
+SE40_12-10-2022.pdf,R.M. Sur Exequiel González C.,27,2,0,0,2,0,0,SE40,2022
+SE40_12-10-2022.pdf,R.M. Occidente Félix Bulnes,70,21,1,4,9,5,0,SE40,2022
+SE40_12-10-2022.pdf,R.M. Occidente San Juan de Dios,59,11,0,0,3,1,0,SE40,2022
+SE40_12-10-2022.pdf,R.M. Suroriente Padre Hurtado,53,4,0,0,1,3,0,SE40,2022
+SE40_12-10-2022.pdf,R.M. Oriente Hospital del Tórax,13,3,0,0,1,1,0,SE40,2022
+SE40_12-10-2022.pdf,R.M. Oriente Hospital Militar,4,2,0,0,0,0,0,SE40,2022
+SE40_12-10-2022.pdf,"Santiago, Consultorio Steeger",4,1,1,0,0,0,0,SE40,2022
+SE40_12-10-2022.pdf,"Santiago, Consultorio Avendaño",5,1,0,0,1,0,0,SE40,2022
+SE40_12-10-2022.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE40,2022
+SE40_12-10-2022.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,1,0,0,SE40,2022
+SE40_12-10-2022.pdf,Otros R.M**,6,6,0,0,0,6,0,SE40,2022
+SE50_19-12-2023.pdf,R.M. Sur Exequiel González C.,38,0,0,0,0,0,0,SE50,2023
+SE50_19-12-2023.pdf,R.M. Occidente Félix Bulnes,69,17,0,5,9,1,0,SE50,2023
+SE50_19-12-2023.pdf,R.M. Occidente San Juan de Dios,103,14,0,0,4,1,1,SE50,2023
+SE50_19-12-2023.pdf,R.M. Suroriente Padre Hurtado,40,0,0,0,0,0,0,SE50,2023
+SE50_19-12-2023.pdf,R.M. Oriente Hospital del Tórax,47,3,0,0,1,1,0,SE50,2023
+SE50_19-12-2023.pdf,R.M. Oriente Hospital Militar,6,1,0,0,0,0,0,SE50,2023
+SE50_19-12-2023.pdf,"Santiago, Consultorio Steeger",4,2,0,1,0,0,1,SE50,2023
+SE50_19-12-2023.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,1,0,0,SE50,2023
+SE50_19-12-2023.pdf,"Santiago, Consultorio 5",4,1,0,0,0,1,0,SE50,2023
+SE50_19-12-2023.pdf,"Santiago, Consultorio Barros Luco",1,1,0,0,0,1,0,SE50,2023
+SE50_19-12-2023.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE50,2023
+SE50_19-12-2023.pdf,Otros R.M**,2,2,0,0,0,1,1,SE50,2023
+SE48_03-12-2024.pdf,R.M. Sur Exequiel González C.,67,41,0,1,4,0,3,SE48,2024
+SE48_03-12-2024.pdf,R.M. Occidente Félix Bulnes,114,49,0,2,5,0,3,SE48,2024
+SE48_03-12-2024.pdf,R.M. Occidente San Juan de Dios,83,21,0,0,3,0,5,SE48,2024
+SE48_03-12-2024.pdf,R.M. Suroriente Padre Hurtado,50,8,0,1,0,1,0,SE48,2024
+SE48_03-12-2024.pdf,R.M. Oriente Hospital del Tórax,10,6,0,0,0,0,0,SE48,2024
+SE48_03-12-2024.pdf,R.M. Oriente Hospital Militar,8,4,0,0,0,0,1,SE48,2024
+SE48_03-12-2024.pdf,"Santiago, Consultorio Steeger",3,2,0,0,1,0,0,SE48,2024
+SE48_03-12-2024.pdf,"Santiago, Consultorio Avendaño",4,3,0,0,0,0,1,SE48,2024
+SE48_03-12-2024.pdf,"Santiago, Consultorio 5",12,4,0,0,0,0,0,SE48,2024
+SE48_03-12-2024.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE48,2024
+SE48_03-12-2024.pdf,"Santiago, Consultorio Ariztía",4,2,0,0,0,0,0,SE48,2024
+SE48_03-12-2024.pdf,Otros R.M**,6,6,0,0,0,1,5,SE48,2024
+SE25_25-06-2019.pdf,R.M. Sur Exequiel González C.,107,61,52,1,4,4,0,SE25,2019
+SE25_25-06-2019.pdf,R.M. Occidente Félix Bulnes,110,64,40,1,8,10,3,SE25,2019
+SE25_25-06-2019.pdf,R.M. Occidente San Juan de Dios,238,78,3,2,3,59,11,SE25,2019
+SE25_25-06-2019.pdf,R.M. Suroriente Padre Hurtado,78,45,37,3,2,2,0,SE25,2019
+SE25_25-06-2019.pdf,R.M. Oriente Hospital del Tórax,64,12,1,2,2,7,0,SE25,2019
+SE25_25-06-2019.pdf,R.M. Oriente Hospital Militar,17,6,2,0,1,3,0,SE25,2019
+SE25_25-06-2019.pdf,"Santiago, Consultorio Steeger",8,4,0,0,0,3,1,SE25,2019
+SE25_25-06-2019.pdf,"Santiago, Consultorio Avendaño",8,3,1,0,0,2,0,SE25,2019
+SE25_25-06-2019.pdf,"Santiago, Consultorio 5",4,2,2,0,0,0,0,SE25,2019
+SE25_25-06-2019.pdf,"Santiago, Consultorio Barros Luco",8,5,0,0,1,3,1,SE25,2019
+SE25_25-06-2019.pdf,"Santiago, Consultorio Ariztía",17,6,0,1,1,3,1,SE25,2019
+SE25_25-06-2019.pdf,Otros R.M**,22,22,0,0,0,13,9,SE25,2019
+SE06_14-02-2023.pdf,R.M. Sur Exequiel González C.,12,3,0,2,0,0,1,SE06,2023
+SE06_14-02-2023.pdf,R.M. Occidente Félix Bulnes,35,5,0,5,0,0,0,SE06,2023
+SE06_14-02-2023.pdf,R.M. Occidente San Juan de Dios,47,8,0,2,0,0,2,SE06,2023
+SE06_14-02-2023.pdf,R.M. Suroriente Padre Hurtado,72,14,0,13,0,0,1,SE06,2023
+SE06_14-02-2023.pdf,R.M. Oriente Hospital del Tórax,13,3,0,1,2,0,0,SE06,2023
+SE06_14-02-2023.pdf,"Santiago, Consultorio Steeger",1,1,0,0,0,0,1,SE06,2023
+SE06_14-02-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE06,2023
+SE06_14-02-2023.pdf,"Santiago, Consultorio Ariztía",1,1,0,1,0,0,0,SE06,2023
+SE06_14-02-2023.pdf,Otros R.M**,2,2,0,0,0,0,2,SE06,2023
+SE47_29-11-2022.pdf,R.M. Sur Exequiel González C.,24,2,0,1,1,0,0,SE47,2022
+SE47_29-11-2022.pdf,R.M. Occidente Félix Bulnes,78,7,0,0,3,4,0,SE47,2022
+SE47_29-11-2022.pdf,R.M. Occidente San Juan de Dios,47,15,0,0,2,8,0,SE47,2022
+SE47_29-11-2022.pdf,R.M. Suroriente Padre Hurtado,84,9,0,1,0,8,0,SE47,2022
+SE47_29-11-2022.pdf,R.M. Oriente Hospital del Tórax,30,6,0,0,3,2,1,SE47,2022
+SE47_29-11-2022.pdf,R.M. Oriente Hospital Militar,15,8,1,0,2,1,0,SE47,2022
+SE47_29-11-2022.pdf,"Santiago, Consultorio Steeger",7,4,0,2,1,1,0,SE47,2022
+SE47_29-11-2022.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,1,0,SE47,2022
+SE47_29-11-2022.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE47,2022
+SE47_29-11-2022.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE47,2022
+SE47_29-11-2022.pdf,"Santiago, Consultorio Ariztía",6,2,0,1,0,0,0,SE47,2022
+SE47_29-11-2022.pdf,Otros R.M**,8,8,0,0,0,8,0,SE47,2022
+SE35_03-09-2024.pdf,R.M. Sur Exequiel González C.,100,48,14,4,10,0,0,SE35,2024
+SE35_03-09-2024.pdf,R.M. Occidente Félix Bulnes,146,82,20,4,3,0,3,SE35,2024
+SE35_03-09-2024.pdf,R.M. Occidente San Juan de Dios,123,35,8,0,1,1,0,SE35,2024
+SE35_03-09-2024.pdf,R.M. Suroriente Padre Hurtado,175,30,9,3,2,1,0,SE35,2024
+SE35_03-09-2024.pdf,R.M. Oriente Hospital del Tórax,19,7,1,0,0,0,0,SE35,2024
+SE35_03-09-2024.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE35,2024
+SE35_03-09-2024.pdf,"Santiago, Consultorio Steeger",3,3,2,0,0,0,0,SE35,2024
+SE35_03-09-2024.pdf,"Santiago, Consultorio Avendaño",8,5,0,0,0,0,0,SE35,2024
+SE35_03-09-2024.pdf,"Santiago, Consultorio 5",9,3,0,0,0,0,1,SE35,2024
+SE35_03-09-2024.pdf,"Santiago, Consultorio Barros Luco",6,2,0,0,0,0,1,SE35,2024
+SE35_03-09-2024.pdf,"Santiago, Consultorio Ariztía",7,4,0,0,1,0,0,SE35,2024
+SE35_03-09-2024.pdf,Otros R.M**,1,1,0,0,0,0,1,SE35,2024
+SE16_26-04-2022.pdf,R.M. Sur Exequiel González C.,23,1,0,1,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,R.M. Occidente Félix Bulnes,39,10,3,3,4,0,0,SE16,2022
+SE16_26-04-2022.pdf,R.M. Occidente San Juan de Dios,33,1,0,1,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,R.M. Suroriente Padre Hurtado,94,3,2,1,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,R.M. Oriente Hospital Militar,9,2,1,0,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE16,2022
+SE16_26-04-2022.pdf,Otros R.M**,6,6,0,0,0,6,0,SE16,2022
+SE29_26-07-2022.pdf,R.M. Sur Exequiel González C.,29,14,11,0,1,1,0,SE29,2022
+SE29_26-07-2022.pdf,R.M. Occidente Félix Bulnes,83,45,18,3,4,3,0,SE29,2022
+SE29_26-07-2022.pdf,R.M. Occidente San Juan de Dios,88,27,8,1,4,5,0,SE29,2022
+SE29_26-07-2022.pdf,R.M. Suroriente Padre Hurtado,130,23,9,0,1,9,0,SE29,2022
+SE29_26-07-2022.pdf,R.M. Oriente Hospital del Tórax,26,9,1,0,0,5,0,SE29,2022
+SE29_26-07-2022.pdf,R.M. Oriente Hospital Militar,15,7,3,0,0,0,0,SE29,2022
+SE29_26-07-2022.pdf,"Santiago, Consultorio Steeger",4,3,2,0,1,0,0,SE29,2022
+SE29_26-07-2022.pdf,"Santiago, Consultorio Avendaño",6,3,0,0,0,3,0,SE29,2022
+SE29_26-07-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE29,2022
+SE29_26-07-2022.pdf,"Santiago, Consultorio Barros Luco",5,1,1,0,0,0,0,SE29,2022
+SE29_26-07-2022.pdf,"Santiago, Consultorio Ariztía",11,9,1,2,0,5,0,SE29,2022
+SE29_26-07-2022.pdf,Otros R.M**,7,7,0,0,0,7,0,SE29,2022
+SE34_31-08-2021.pdf,R.M. Sur Exequiel González C.,38,19,19,0,0,0,0,SE34,2021
+SE34_31-08-2021.pdf,R.M. Occidente Félix Bulnes,53,33,31,1,1,0,0,SE34,2021
+SE34_31-08-2021.pdf,R.M. Occidente San Juan de Dios,32,8,5,1,2,0,0,SE34,2021
+SE34_31-08-2021.pdf,R.M. Suroriente Padre Hurtado,28,13,13,0,0,0,0,SE34,2021
+SE34_31-08-2021.pdf,R.M. Oriente Hospital del Tórax,2,1,1,0,0,0,0,SE34,2021
+SE34_31-08-2021.pdf,R.M. Oriente Hospital Militar,9,0,0,0,0,0,0,SE34,2021
+SE34_31-08-2021.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE34,2021
+SE52_04-01-2022.pdf,R.M. Sur Exequiel González C.,14,1,0,0,0,1,0,SE52,2022
+SE52_04-01-2022.pdf,R.M. Occidente Félix Bulnes,27,5,0,1,1,3,0,SE52,2022
+SE52_04-01-2022.pdf,R.M. Occidente San Juan de Dios,25,7,0,0,2,5,0,SE52,2022
+SE52_04-01-2022.pdf,R.M. Suroriente Padre Hurtado,17,4,0,0,0,4,0,SE52,2022
+SE52_04-01-2022.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE52,2022
+SE52_04-01-2022.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE52,2022
+SE52_04-01-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE52,2022
+SE52_04-01-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE52,2022
+SE52_04-01-2022.pdf,Otros R.M**,8,8,0,0,0,8,0,SE52,2022
+SE07_18-02-2025.pdf,R.M. Sur Exequiel González C.,19,9,0,0,0,0,1,SE07,2025
+SE07_18-02-2025.pdf,R.M. Occidente Félix Bulnes,57,15,0,1,1,0,0,SE07,2025
+SE07_18-02-2025.pdf,R.M. Occidente San Juan de Dios,52,8,0,0,0,0,0,SE07,2025
+SE07_18-02-2025.pdf,R.M. Suroriente Padre Hurtado,60,5,0,0,0,0,1,SE07,2025
+SE07_18-02-2025.pdf,R.M. Oriente Hospital del Tórax,2,0,0,0,0,0,0,SE07,2025
+SE07_18-02-2025.pdf,R.M. Oriente Hospital Militar,5,3,0,0,0,0,0,SE07,2025
+SE07_18-02-2025.pdf,"Santiago, Consultorio Avendaño",3,2,0,0,0,0,0,SE07,2025
+SE07_18-02-2025.pdf,"Santiago, Consultorio 5",6,2,0,0,0,0,1,SE07,2025
+SE07_18-02-2025.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE07,2025
+SE07_18-02-2025.pdf,Otros R.M**,1,1,0,0,0,1,0,SE07,2025
+SE04_28-01-2020.pdf,R.M. Sur Exequiel González C.,13,0,0,0,0,0,0,SE04,2020
+SE04_28-01-2020.pdf,R.M. Occidente Félix Bulnes,25,2,0,1,1,0,0,SE04,2020
+SE04_28-01-2020.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE04,2020
+SE04_28-01-2020.pdf,R.M. Suroriente Padre Hurtado,8,0,0,0,0,0,0,SE04,2020
+SE04_28-01-2020.pdf,R.M. Oriente Hospital del Tórax,15,0,0,0,0,0,0,SE04,2020
+SE04_28-01-2020.pdf,Otros R.M**,4,4,0,0,0,2,2,SE04,2020
+SE03_21-01-2020.pdf,R.M. Sur Exequiel González C.,14,1,0,0,1,0,0,SE03,2020
+SE03_21-01-2020.pdf,R.M. Occidente Félix Bulnes,24,2,0,1,1,0,0,SE03,2020
+SE03_21-01-2020.pdf,R.M. Occidente San Juan de Dios,23,4,0,1,2,1,0,SE03,2020
+SE03_21-01-2020.pdf,R.M. Suroriente Padre Hurtado,14,0,0,0,0,0,0,SE03,2020
+SE03_21-01-2020.pdf,R.M. Oriente Hospital del Tórax,8,0,0,0,0,0,0,SE03,2020
+SE03_21-01-2020.pdf,R.M. Oriente Hospital Militar,7,0,0,0,0,0,0,SE03,2020
+SE03_21-01-2020.pdf,Otros R.M**,5,5,0,0,0,4,1,SE03,2020
+SE32_13-08-2024.pdf,R.M. Sur Exequiel González C.,112,71,27,2,4,1,0,SE32,2024
+SE32_13-08-2024.pdf,R.M. Occidente Félix Bulnes,162,90,26,0,3,0,1,SE32,2024
+SE32_13-08-2024.pdf,R.M. Occidente San Juan de Dios,144,36,12,2,1,0,0,SE32,2024
+SE32_13-08-2024.pdf,R.M. Suroriente Padre Hurtado,128,32,23,2,2,0,1,SE32,2024
+SE32_13-08-2024.pdf,R.M. Oriente Hospital del Tórax,23,7,3,0,0,0,0,SE32,2024
+SE32_13-08-2024.pdf,R.M. Oriente Hospital Militar,18,7,1,1,0,0,0,SE32,2024
+SE32_13-08-2024.pdf,"Santiago, Consultorio Steeger",2,0,0,0,0,0,0,SE32,2024
+SE32_13-08-2024.pdf,"Santiago, Consultorio Avendaño",9,5,2,1,0,1,0,SE32,2024
+SE32_13-08-2024.pdf,"Santiago, Consultorio 5",10,4,2,0,2,0,1,SE32,2024
+SE32_13-08-2024.pdf,"Santiago, Consultorio Barros Luco",7,2,0,0,1,0,0,SE32,2024
+SE32_13-08-2024.pdf,"Santiago, Consultorio Ariztía",15,13,5,0,0,0,0,SE32,2024
+SE31_10-08-2021.pdf,R.M. Sur Exequiel González C.,29,7,6,1,0,0,0,SE31,2021
+SE31_10-08-2021.pdf,R.M. Occidente Félix Bulnes,27,10,8,0,2,0,0,SE31,2021
+SE31_10-08-2021.pdf,R.M. Occidente San Juan de Dios,31,4,2,2,0,0,0,SE31,2021
+SE31_10-08-2021.pdf,R.M. Suroriente Padre Hurtado,20,4,4,0,0,0,0,SE31,2021
+SE31_10-08-2021.pdf,R.M. Oriente Hospital del Tórax,2,0,0,0,0,0,0,SE31,2021
+SE31_10-08-2021.pdf,R.M. Oriente Hospital Militar,11,0,0,0,0,0,0,SE31,2021
+SE19_14-05-2019.pdf,R.M. Sur Exequiel González C.,39,9,3,0,6,0,0,SE19,2019
+SE19_14-05-2019.pdf,R.M. Occidente Félix Bulnes,60,24,2,1,11,10,0,SE19,2019
+SE19_14-05-2019.pdf,R.M. Occidente San Juan de Dios,107,13,0,1,3,9,0,SE19,2019
+SE19_14-05-2019.pdf,R.M. Suroriente Padre Hurtado,55,12,0,3,7,2,0,SE19,2019
+SE19_14-05-2019.pdf,R.M. Oriente Hospital del Tórax,28,1,0,0,0,1,0,SE19,2019
+SE19_14-05-2019.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE19,2019
+SE19_14-05-2019.pdf,"Santiago, Consultorio Barros Luco",1,1,0,0,0,0,1,SE19,2019
+SE19_14-05-2019.pdf,"Santiago, Consultorio Ariztía",4,1,0,1,0,0,0,SE19,2019
+SE19_14-05-2019.pdf,Otros R.M**,14,14,0,0,0,14,0,SE19,2019
+SE19_14-05-2024.pdf,R.M. Sur Exequiel González C.,1,0,0,0,0,0,0,SE19,2024
+SE19_14-05-2024.pdf,R.M. Occidente Félix Bulnes,152,84,1,4,4,44,0,SE19,2024
+SE19_14-05-2024.pdf,R.M. Occidente San Juan de Dios,188,82,0,0,0,67,0,SE19,2024
+SE19_14-05-2024.pdf,R.M. Suroriente Padre Hurtado,171,66,0,3,0,60,0,SE19,2024
+SE19_14-05-2024.pdf,R.M. Oriente Hospital del Tórax,13,2,0,0,0,2,0,SE19,2024
+SE19_14-05-2024.pdf,R.M. Oriente Hospital Militar,16,5,0,0,1,4,0,SE19,2024
+SE19_14-05-2024.pdf,"Santiago, Consultorio Steeger",7,3,0,0,0,3,0,SE19,2024
+SE19_14-05-2024.pdf,"Santiago, Consultorio Avendaño",9,7,0,0,1,4,0,SE19,2024
+SE19_14-05-2024.pdf,"Santiago, Consultorio 5",5,0,0,0,0,0,0,SE19,2024
+SE19_14-05-2024.pdf,"Santiago, Consultorio Barros Luco",10,6,0,0,0,6,0,SE19,2024
+SE19_14-05-2024.pdf,"Santiago, Consultorio Ariztía",10,9,0,0,1,9,0,SE19,2024
+SE19_14-05-2024.pdf,Otros R.M**,6,6,0,0,0,5,1,SE19,2024
+SE08_01-03-2022.pdf,R.M. Sur Exequiel Gonzalez C.,6,0,0,0,0,0,0,SE08,2022
+SE08_01-03-2022.pdf,R.M. Occidente Félix Bulnes,22,2,0,2,0,0,0,SE08,2022
+SE08_01-03-2022.pdf,R.M. Occidente San Juan de Dios,4,2,0,0,0,0,0,SE08,2022
+SE08_01-03-2022.pdf,R.M. Suroriente Padre Hurtado,28,14,1,0,0,0,0,SE08,2022
+SE08_01-03-2022.pdf,R.M. Oriente Hospital del Torax,2,0,0,0,0,0,0,SE08,2022
+SE08_01-03-2022.pdf,R.M. Oriente Hospital Militar,15,13,1,0,0,0,0,SE08,2022
+SE08_01-03-2022.pdf,Otros R.M**,3,3,0,0,0,3,0,SE08,2022
+SE49_13-12-2022.pdf,R.M. Sur Exequiel González C.,16,2,1,0,0,1,0,SE49,2022
+SE49_13-12-2022.pdf,R.M. Occidente Félix Bulnes,58,12,0,4,2,6,0,SE49,2022
+SE49_13-12-2022.pdf,R.M. Occidente San Juan de Dios,50,8,0,0,2,1,0,SE49,2022
+SE49_13-12-2022.pdf,R.M. Suroriente Padre Hurtado,80,11,0,2,0,9,0,SE49,2022
+SE49_13-12-2022.pdf,R.M. Oriente Hospital del Tórax,15,2,0,0,1,1,0,SE49,2022
+SE49_13-12-2022.pdf,R.M. Oriente Hospital Militar,10,3,0,0,0,1,0,SE49,2022
+SE49_13-12-2022.pdf,"Santiago, Consultorio Steeger",3,0,0,0,0,0,0,SE49,2022
+SE49_13-12-2022.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,1,0,0,SE49,2022
+SE49_13-12-2022.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE49,2022
+SE49_13-12-2022.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE49,2022
+SE49_13-12-2022.pdf,"Santiago, Consultorio Ariztía",3,0,0,0,0,0,0,SE49,2022
+SE49_13-12-2022.pdf,Otros R.M**,10,10,0,0,0,10,0,SE49,2022
+SE32_13-08-2019.pdf,R.M. Sur Exequiel González C.,97,58,46,1,3,0,4,SE32,2019
+SE32_13-08-2019.pdf,R.M. Occidente Félix Bulnes,115,70,54,2,3,0,3,SE32,2019
+SE32_13-08-2019.pdf,R.M. Occidente San Juan de Dios,139,30,11,5,1,3,10,SE32,2019
+SE32_13-08-2019.pdf,R.M. Suroriente Padre Hurtado,73,28,20,0,2,0,4,SE32,2019
+SE32_13-08-2019.pdf,R.M. Oriente Hospital del Tórax,39,3,3,0,0,0,0,SE32,2019
+SE32_13-08-2019.pdf,R.M. Oriente Hospital Militar,13,4,2,0,0,0,2,SE32,2019
+SE32_13-08-2019.pdf,"Santiago, Consultorio Steeger",1,1,0,0,0,0,1,SE32,2019
+SE32_13-08-2019.pdf,"Santiago, Consultorio Avendaño",4,2,1,0,0,0,1,SE32,2019
+SE32_13-08-2019.pdf,"Santiago, Consultorio Ariztía",4,2,1,0,0,0,1,SE32,2019
+SE32_13-08-2019.pdf,Otros R.M**,13,13,0,0,0,4,9,SE32,2019
+SE14_12-04-2022.pdf,R.M. Sur Exequiel González C.,19,0,0,0,0,0,0,SE14,2022
+SE14_12-04-2022.pdf,R.M. Occidente Félix Bulnes,36,4,0,2,2,0,0,SE14,2022
+SE14_12-04-2022.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE14,2022
+SE14_12-04-2022.pdf,R.M. Suroriente Padre Hurtado,47,7,6,1,0,0,0,SE14,2022
+SE14_12-04-2022.pdf,R.M. Oriente Hospital del Tórax,4,1,0,0,1,0,0,SE14,2022
+SE14_12-04-2022.pdf,R.M. Oriente Hospital Militar,7,1,0,0,0,0,0,SE14,2022
+SE14_12-04-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE14,2022
+SE14_12-04-2022.pdf,"Santiago, Consultorio Ariztía",3,0,0,0,0,0,0,SE14,2022
+SE14_12-04-2022.pdf,Otros R.M**,7,7,0,0,0,7,0,SE14,2022
+SE51_22-12-2020.pdf,R.M. Sur Exequiel González C.,12,0,0,0,0,0,0,SE51,2020
+SE51_22-12-2020.pdf,R.M. Occidente Félix Bulnes,7,0,0,0,0,0,0,SE51,2020
+SE51_22-12-2020.pdf,R.M. Occidente San Juan de Dios,34,0,0,0,0,0,0,SE51,2020
+SE51_22-12-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE51,2020
+SE51_22-12-2020.pdf,R.M. Oriente Hospital del Tórax,23,0,0,0,0,0,0,SE51,2020
+SE26_04-07-2023.pdf,R.M. Sur Exequiel González C.,80,44,34,0,1,0,0,SE26,2023
+SE26_04-07-2023.pdf,R.M. Occidente Félix Bulnes,162,104,60,6,2,0,3,SE26,2023
+SE26_04-07-2023.pdf,R.M. Occidente San Juan de Dios,140,37,11,3,2,2,4,SE26,2023
+SE26_04-07-2023.pdf,R.M. Suroriente Padre Hurtado,312,67,43,11,0,1,1,SE26,2023
+SE26_04-07-2023.pdf,R.M. Oriente Hospital del Tórax,40,14,5,0,1,1,0,SE26,2023
+SE26_04-07-2023.pdf,"Santiago, Consultorio Steeger",6,1,1,0,0,0,0,SE26,2023
+SE26_04-07-2023.pdf,"Santiago, Consultorio Avendaño",3,3,2,1,0,0,0,SE26,2023
+SE26_04-07-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE26,2023
+SE26_04-07-2023.pdf,"Santiago, Consultorio Ariztía",3,1,0,0,0,0,0,SE26,2023
+SE26_04-07-2023.pdf,Otros R.M**,3,3,0,0,0,0,3,SE26,2023
+SE50_15-12-2020.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE50,2020
+SE50_15-12-2020.pdf,R.M. Occidente Félix Bulnes,7,0,0,0,0,0,0,SE50,2020
+SE50_15-12-2020.pdf,R.M. Occidente San Juan de Dios,29,1,0,1,0,0,0,SE50,2020
+SE50_15-12-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE50,2020
+SE50_15-12-2020.pdf,R.M. Oriente Hospital del Tórax,16,0,0,0,0,0,0,SE50,2020
+SE42_26-10-2021.pdf,R.M. Sur Exequiel González C.,25,11,8,0,3,0,0,SE42,2021
+SE42_26-10-2021.pdf,R.M. Occidente Félix Bulnes,40,13,7,0,6,0,0,SE42,2021
+SE42_26-10-2021.pdf,R.M. Occidente San Juan de Dios,33,5,4,0,1,0,0,SE42,2021
+SE42_26-10-2021.pdf,R.M. Suroriente Padre Hurtado,43,6,6,0,0,0,0,SE42,2021
+SE42_26-10-2021.pdf,R.M. Oriente Hospital del Tórax,8,3,3,0,0,0,0,SE42,2021
+SE42_26-10-2021.pdf,R.M. Oriente Hospital Militar,6,1,0,0,1,0,0,SE42,2021
+SE42_26-10-2021.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,1,0,0,SE42,2021
+SE42_26-10-2021.pdf,"Santiago, Consultorio 5",1,1,1,0,0,0,0,SE42,2021
+SE28_14-07-2020.pdf,R.M. Sur Exequiel González C.,11,0,0,0,0,0,0,SE28,2020
+SE28_14-07-2020.pdf,R.M. Occidente Félix Bulnes,10,0,0,0,0,0,0,SE28,2020
+SE28_14-07-2020.pdf,R.M. Occidente San Juan de Dios,132,2,0,2,0,0,0,SE28,2020
+SE28_14-07-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE28,2020
+SE28_14-07-2020.pdf,R.M. Oriente Hospital del Tórax,49,4,0,0,0,0,0,SE28,2020
+SE28_14-07-2020.pdf,R.M. Oriente Hospital Militar,15,0,0,0,0,0,0,SE28,2020
+SE13_02-04-2024.pdf,R.M. Sur Exequiel González C.,30,0,0,0,0,0,0,SE13,2024
+SE13_02-04-2024.pdf,R.M. Occidente Félix Bulnes,109,60,0,1,5,2,0,SE13,2024
+SE13_02-04-2024.pdf,R.M. Occidente San Juan de Dios,95,22,0,3,0,6,1,SE13,2024
+SE13_02-04-2024.pdf,R.M. Suroriente Padre Hurtado,136,31,0,0,0,6,0,SE13,2024
+SE13_02-04-2024.pdf,R.M. Oriente Hospital del Tórax,47,12,0,0,0,0,0,SE13,2024
+SE13_02-04-2024.pdf,R.M. Oriente Hospital Militar,9,2,0,0,0,0,0,SE13,2024
+SE13_02-04-2024.pdf,"Santiago, Consultorio Steeger",2,1,0,0,0,1,0,SE13,2024
+SE13_02-04-2024.pdf,"Santiago, Consultorio Ariztía",5,5,0,0,0,4,0,SE13,2024
+SE13_02-04-2024.pdf,O.V.R. R.M**,6,6,0,0,0,6,0,SE13,2024
+SE01_10-01-2023.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE01,2023
+SE01_10-01-2023.pdf,R.M. Occidente Félix Bulnes,41,5,0,2,1,2,0,SE01,2023
+SE01_10-01-2023.pdf,R.M. Occidente San Juan de Dios,58,14,0,0,2,1,1,SE01,2023
+SE01_10-01-2023.pdf,R.M. Suroriente Padre Hurtado,49,8,0,7,0,1,0,SE01,2023
+SE01_10-01-2023.pdf,R.M. Oriente Hospital del Tórax,10,0,0,0,0,0,0,SE01,2023
+SE01_10-01-2023.pdf,R.M. Oriente Hospital Militar,12,6,0,0,0,0,0,SE01,2023
+SE01_10-01-2023.pdf,"Santiago, Consultorio Ariztía",1,1,0,1,0,0,0,SE01,2023
+SE01_10-01-2023.pdf,Otros R.M**,4,4,0,0,0,3,1,SE01,2023
+SE47_30-11-2021.pdf,R.M. Sur Exequiel González C.,12,2,0,0,2,0,0,SE47,2021
+SE47_30-11-2021.pdf,R.M. Occidente Félix Bulnes,26,3,3,0,0,0,0,SE47,2021
+SE47_30-11-2021.pdf,R.M. Occidente San Juan de Dios,28,2,0,0,1,1,0,SE47,2021
+SE47_30-11-2021.pdf,R.M. Suroriente Padre Hurtado,29,2,1,1,0,0,0,SE47,2021
+SE47_30-11-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE47,2021
+SE47_30-11-2021.pdf,R.M. Oriente Hospital Militar,5,1,0,0,1,0,0,SE47,2021
+SE47_30-11-2021.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,1,0,0,SE47,2021
+SE47_30-11-2021.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE47,2021
+SE45_14-11-2023.pdf,R.M. Sur Exequiel González C.,35,2,0,0,2,0,0,SE45,2023
+SE45_14-11-2023.pdf,R.M. Occidente Félix Bulnes,131,24,2,6,9,1,0,SE45,2023
+SE45_14-11-2023.pdf,R.M. Occidente San Juan de Dios,130,12,0,0,3,0,1,SE45,2023
+SE45_14-11-2023.pdf,R.M. Suroriente Padre Hurtado,82,3,0,2,0,0,0,SE45,2023
+SE45_14-11-2023.pdf,R.M. Oriente Hospital del Tórax,73,4,0,0,3,0,0,SE45,2023
+SE45_14-11-2023.pdf,R.M. Oriente Hospital Militar,4,2,0,1,0,1,0,SE45,2023
+SE45_14-11-2023.pdf,"Santiago, Consultorio Steeger",4,1,0,0,0,0,0,SE45,2023
+SE45_14-11-2023.pdf,"Santiago, Consultorio Avendaño",4,1,0,1,0,0,0,SE45,2023
+SE45_14-11-2023.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE45,2023
+SE45_14-11-2023.pdf,"Santiago, Consultorio Ariztía",5,1,0,1,0,0,0,SE45,2023
+SE45_14-11-2023.pdf,Otros R.M**,2,2,0,0,0,0,2,SE45,2023
+SE37_15-09-2020.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE37,2020
+SE37_15-09-2020.pdf,R.M. Occidente Félix Bulnes,12,0,0,0,0,0,0,SE37,2020
+SE37_15-09-2020.pdf,R.M. Occidente San Juan de Dios,211,0,0,0,0,0,0,SE37,2020
+SE37_15-09-2020.pdf,R.M. Suroriente Padre Hurtado,5,0,0,0,0,0,0,SE37,2020
+SE37_15-09-2020.pdf,R.M. Oriente Hospital del Tórax,32,4,0,0,0,0,0,SE37,2020
+SE37_15-09-2020.pdf,R.M. Oriente Hospital Militar,1,0,0,0,0,0,0,SE37,2020
+SE37_15-09-2020.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE37,2020
+SE37_15-09-2020.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE37,2020
+SE20_22-05-2019.pdf,R.M. Sur Exequiel González C.,46,10,4,1,5,0,0,SE20,2019
+SE20_22-05-2019.pdf,R.M. Occidente Félix Bulnes,68,23,4,3,12,3,1,SE20,2019
+SE20_22-05-2019.pdf,R.M. Occidente San Juan de Dios,136,41,0,1,7,33,0,SE20,2019
+SE20_22-05-2019.pdf,R.M. Suroriente Padre Hurtado,51,10,1,1,4,4,0,SE20,2019
+SE20_22-05-2019.pdf,R.M. Oriente Hospital del Tórax,27,3,0,1,1,1,0,SE20,2019
+SE20_22-05-2019.pdf,R.M. Oriente Hospital Militar,13,3,1,0,2,0,0,SE20,2019
+SE20_22-05-2019.pdf,"Santiago, Consultorio Steeger",1,1,0,0,1,0,0,SE20,2019
+SE20_22-05-2019.pdf,"Santiago, Consultorio Avendaño",8,4,1,0,0,3,0,SE20,2019
+SE20_22-05-2019.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE20,2019
+SE20_22-05-2019.pdf,"Santiago, Consultorio Ariztía",6,0,0,0,0,0,0,SE20,2019
+SE20_22-05-2019.pdf,Otros R.M**,14,14,0,0,0,13,1,SE20,2019
+SE06_11-02-2020.pdf,R.M. Sur Exequiel González C.,14,0,0,0,0,0,0,SE06,2020
+SE06_11-02-2020.pdf,R.M. Occidente Félix Bulnes,21,2,0,1,1,0,0,SE06,2020
+SE06_11-02-2020.pdf,R.M. Occidente San Juan de Dios,15,3,0,2,1,0,0,SE06,2020
+SE06_11-02-2020.pdf,R.M. Suroriente Padre Hurtado,11,0,0,0,0,0,0,SE06,2020
+SE06_11-02-2020.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE06,2020
+SE06_11-02-2020.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE06,2020
+SE06_11-02-2020.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE06,2020
+SE06_11-02-2020.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE06,2020
+SE06_11-02-2020.pdf,Otros R.M**,2,2,0,0,0,1,1,SE06,2020
+SE12_23-03-2025.pdf,R.M. Sur Exequiel González C.,72,42,1,2,1,0,0,SE12,2025
+SE12_23-03-2025.pdf,R.M. Occidente Félix Bulnes,142,73,0,1,3,3,0,SE12,2025
+SE12_23-03-2025.pdf,R.M. Occidente San Juan de Dios,91,23,0,1,0,2,0,SE12,2025
+SE12_23-03-2025.pdf,R.M. Suroriente Padre Hurtado,88,11,0,0,0,0,2,SE12,2025
+SE12_23-03-2025.pdf,R.M. Oriente Hospital del Tórax,12,1,0,0,0,0,0,SE12,2025
+SE12_23-03-2025.pdf,R.M. Oriente Hospital Militar,4,2,0,0,0,0,0,SE12,2025
+SE12_23-03-2025.pdf,"Santiago, Consultorio Steeger",5,3,0,0,0,0,0,SE12,2025
+SE12_23-03-2025.pdf,"Santiago, Consultorio Avendaño",9,6,0,0,0,1,0,SE12,2025
+SE12_23-03-2025.pdf,"Santiago, Consultorio 5",11,3,0,0,0,0,0,SE12,2025
+SE12_23-03-2025.pdf,"Santiago, Consultorio Barros Luco",5,0,0,0,0,0,0,SE12,2025
+SE12_23-03-2025.pdf,"Santiago, Consultorio Ariztía",4,1,0,0,0,0,0,SE12,2025
+SE12_23-03-2025.pdf,Otros R.M**,1,1,0,0,0,1,0,SE12,2025
+SE10_12-03-2019.pdf,R.M. Sur Exequiel González C.,22,0,0,0,0,0,0,SE10,2019
+SE10_12-03-2019.pdf,R.M. Occidente Félix Bulnes,28,2,0,1,1,0,0,SE10,2019
+SE10_12-03-2019.pdf,R.M. Occidente San Juan de Dios,37,5,0,1,1,2,1,SE10,2019
+SE10_12-03-2019.pdf,R.M. Suroriente Padre Hurtado,4,0,0,0,0,0,0,SE10,2019
+SE10_12-03-2019.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE10,2019
+SE10_12-03-2019.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE10,2019
+SE10_12-03-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE10,2019
+SE10_12-03-2019.pdf,Otros R.M**,1,1,0,0,0,1,0,SE10,2019
+SE19_18-05-2021.pdf,R.M. Sur Exequiel Gonzáles C.,17,0,0,0,0,0,0,SE19,2021
+SE19_18-05-2021.pdf,R.M. Occidente Félix Bulnes,16,2,0,2,0,0,0,SE19,2021
+SE19_18-05-2021.pdf,R.M. Occidente San Juan de Dios,29,0,0,0,0,0,0,SE19,2021
+SE19_18-05-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE19,2021
+SE19_18-05-2021.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE19,2021
+SE19_18-05-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE19,2021
+SE38_27-09-2022.pdf,R.M. Sur Exequiel González C.,34,2,0,0,1,0,0,SE38,2022
+SE38_27-09-2022.pdf,R.M. Occidente Félix Bulnes,71,15,1,4,4,3,0,SE38,2022
+SE38_27-09-2022.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE38,2022
+SE38_27-09-2022.pdf,R.M. Suroriente Padre Hurtado,75,9,0,0,0,9,0,SE38,2022
+SE38_27-09-2022.pdf,R.M. Oriente Hospital del Tórax,11,4,0,0,2,1,0,SE38,2022
+SE38_27-09-2022.pdf,R.M. Oriente Hospital Militar,7,1,0,0,0,1,0,SE38,2022
+SE38_27-09-2022.pdf,"Santiago, Consultorio Barros Luco",5,0,0,0,0,0,0,SE38,2022
+SE38_27-09-2022.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,0,1,0,SE38,2022
+SE38_27-09-2022.pdf,Otros R.M**,11,11,0,0,0,11,0,SE38,2022
+SE13_02-04-2019.pdf,R.M. Sur Exequiel González C.,24,1,1,0,0,0,0,SE13,2019
+SE13_02-04-2019.pdf,R.M. Occidente Félix Bulnes,65,0,0,0,0,0,0,SE13,2019
+SE13_02-04-2019.pdf,R.M. Occidente San Juan de Dios,53,3,0,0,2,1,0,SE13,2019
+SE13_02-04-2019.pdf,R.M. Suroriente Padre Hurtado,25,0,0,0,0,0,0,SE13,2019
+SE13_02-04-2019.pdf,R.M. Oriente Hospital del Tórax,10,1,0,0,0,0,0,SE13,2019
+SE13_02-04-2019.pdf,R.M. Oriente Hospital Militar,7,0,0,0,0,0,0,SE13,2019
+SE13_02-04-2019.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE13,2019
+SE13_02-04-2019.pdf,Otros R.M**,11,11,0,0,0,11,0,SE13,2019
+SE34_27-08-2019.pdf,R.M. Sur Exequiel González C.,107,53,38,2,3,0,2,SE34,2019
+SE34_27-08-2019.pdf,R.M. Occidente Félix Bulnes,122,54,36,1,2,0,8,SE34,2019
+SE34_27-08-2019.pdf,R.M. Occidente San Juan de Dios,193,47,11,1,2,0,30,SE34,2019
+SE34_27-08-2019.pdf,R.M. Suroriente Padre Hurtado,110,41,21,2,4,0,3,SE34,2019
+SE34_27-08-2019.pdf,R.M. Oriente Hospital del Tórax,33,9,3,0,2,0,2,SE34,2019
+SE34_27-08-2019.pdf,R.M. Oriente Hospital Militar,8,4,3,0,0,0,1,SE34,2019
+SE34_27-08-2019.pdf,"Santiago, Consultorio Steeger",2,1,0,0,0,0,1,SE34,2019
+SE34_27-08-2019.pdf,"Santiago, Consultorio Avendaño",3,3,0,0,1,0,2,SE34,2019
+SE34_27-08-2019.pdf,"Santiago, Consultorio Ariztía",4,3,0,0,0,0,3,SE34,2019
+SE34_27-08-2019.pdf,Otros R.M**,12,12,0,0,0,5,7,SE34,2019
+SE41_18-10-2022.pdf,R.M. Sur Exequiel Gonzalez C.,25,2,0,0,2,0,0,SE41,2022
+SE41_18-10-2022.pdf,R.M. Occidente Félix Bulnes,79,18,0,1,6,7,0,SE41,2022
+SE41_18-10-2022.pdf,R.M. Occidente San Juan de Dios,55,10,0,1,0,1,0,SE41,2022
+SE41_18-10-2022.pdf,R.M. Suroriente Padre Hurtado,57,7,0,3,1,2,0,SE41,2022
+SE41_18-10-2022.pdf,R.M. Oriente Hospital del Torax*,0,0,0,0,0,0,0,SE41,2022
+SE41_18-10-2022.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE41,2022
+SE41_18-10-2022.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE41,2022
+SE41_18-10-2022.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,1,0,0,SE41,2022
+SE41_18-10-2022.pdf,"Santiago, Consultorio Barros Luco",6,0,0,0,0,0,0,SE41,2022
+SE41_18-10-2022.pdf,Otros R.M**,11,11,0,0,0,11,0,SE41,2022
+SE08_02-03-2021.pdf,R.M. Sur Exequiel González C.,8,0,0,0,0,0,0,SE08,2021
+SE08_02-03-2021.pdf,R.M. Occidente Félix Bulnes,19,1,0,1,0,0,0,SE08,2021
+SE08_02-03-2021.pdf,R.M. Occidente San Juan de Dios,34,0,0,0,0,0,0,SE08,2021
+SE08_02-03-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE08,2021
+SE08_02-03-2021.pdf,R.M. Oriente Hospital del Tórax,8,0,0,0,0,0,0,SE08,2021
+SE33_22-08-2023.pdf,R.M. Sur Exequiel González C.,40,9,3,0,3,0,0,SE33,2023
+SE33_22-08-2023.pdf,R.M. Occidente Félix Bulnes,112,28,5,3,12,0,2,SE33,2023
+SE33_22-08-2023.pdf,R.M. Occidente San Juan de Dios,104,14,1,2,5,0,1,SE33,2023
+SE33_22-08-2023.pdf,R.M. Suroriente Padre Hurtado,122,24,8,3,4,0,3,SE33,2023
+SE33_22-08-2023.pdf,R.M. Oriente Hospital del Tórax,32,5,1,0,1,0,0,SE33,2023
+SE33_22-08-2023.pdf,R.M. Oriente Hospital Militar,3,2,0,0,1,0,0,SE33,2023
+SE33_22-08-2023.pdf,"Santiago, Consultorio Steeger",2,1,0,0,0,0,1,SE33,2023
+SE33_22-08-2023.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE33,2023
+SE33_22-08-2023.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE33,2023
+SE33_22-08-2023.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE33,2023
+SE33_22-08-2023.pdf,"Santiago, Consultorio Ariztía",4,1,0,0,0,0,0,SE33,2023
+SE33_22-08-2023.pdf,Otros R.M**,3,3,0,0,0,2,1,SE33,2023
+SE10_11-03-2025.pdf,R.M. Sur Exequiel González C.,25,8,0,1,0,2,0,SE10,2025
+SE10_11-03-2025.pdf,R.M. Occidente Félix Bulnes,63,24,0,4,0,2,0,SE10,2025
+SE10_11-03-2025.pdf,R.M. Occidente San Juan de Dios,59,17,0,0,0,1,0,SE10,2025
+SE10_11-03-2025.pdf,R.M. Suroriente Padre Hurtado,75,10,0,0,0,0,0,SE10,2025
+SE10_11-03-2025.pdf,R.M. Oriente Hospital del Tórax,9,4,0,0,0,0,0,SE10,2025
+SE10_11-03-2025.pdf,R.M. Oriente Hospital Militar,8,1,0,0,0,0,0,SE10,2025
+SE10_11-03-2025.pdf,"Santiago, Consultorio Steeger",3,3,0,0,0,2,0,SE10,2025
+SE10_11-03-2025.pdf,"Santiago, Consultorio Avendaño",3,3,0,0,0,0,0,SE10,2025
+SE10_11-03-2025.pdf,"Santiago, Consultorio 5",1,1,0,0,0,0,0,SE10,2025
+SE10_11-03-2025.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE10,2025
+SE10_11-03-2025.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE10,2025
+SE10_11-03-2025.pdf,Otros R.M**,2,2,0,0,0,2,0,SE10,2025
+SE26_02-07-2019.pdf,R.M. Sur Exequiel González C.,117,78,65,3,3,4,1,SE26,2019
+SE26_02-07-2019.pdf,R.M. Occidente Félix Bulnes,182,122,101,3,8,7,2,SE26,2019
+SE26_02-07-2019.pdf,R.M. Occidente San Juan de Dios,227,59,13,2,2,34,8,SE26,2019
+SE26_02-07-2019.pdf,R.M. Suroriente Padre Hurtado,139,55,48,1,1,5,0,SE26,2019
+SE26_02-07-2019.pdf,R.M. Oriente Hospital del Tórax,45,9,0,2,0,6,1,SE26,2019
+SE26_02-07-2019.pdf,R.M. Oriente Hospital Militar,10,5,5,0,0,0,0,SE26,2019
+SE26_02-07-2019.pdf,"Santiago, Consultorio Steeger",12,7,0,0,1,1,4,SE26,2019
+SE26_02-07-2019.pdf,"Santiago, Consultorio Avendaño",10,6,0,0,0,4,2,SE26,2019
+SE26_02-07-2019.pdf,"Santiago, Consultorio 5",10,4,3,0,0,1,0,SE26,2019
+SE26_02-07-2019.pdf,"Santiago, Consultorio Barros Luco",8,7,1,1,0,5,0,SE26,2019
+SE26_02-07-2019.pdf,"Santiago, Consultorio Ariztía",10,2,0,0,0,2,0,SE26,2019
+SE26_02-07-2019.pdf,Otros R.M**,22,22,0,0,0,13,9,SE26,2019
+SE15_14-04-2020.pdf,R.M. Sur Exequiel González C.,11,0,0,0,0,0,0,SE15,2020
+SE15_14-04-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE15,2020
+SE15_14-04-2020.pdf,R.M. Occidente San Juan de Dios,27,1,0,0,1,0,0,SE15,2020
+SE15_14-04-2020.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE15,2020
+SE15_14-04-2020.pdf,R.M. Oriente Hospital del Tórax,0,0,0,0,0,0,0,SE15,2020
+SE15_14-04-2020.pdf,R.M. Oriente Hospital Militar,9,0,0,0,0,0,0,SE15,2020
+SE15_14-04-2020.pdf,"Santiago, Consultorio Ariztía",7,0,0,0,0,0,0,SE15,2020
+SE15_14-04-2020.pdf,Otros R.M**,0,0,0,0,0,0,0,SE15,2020
+SE22_08-06-2021.pdf,R.M. Sur Exequiel González C.,19,1,1,0,0,0,0,SE22,2021
+SE22_08-06-2021.pdf,R.M. Occidente Félix Bulnes,24,0,0,0,0,0,0,SE22,2021
+SE22_08-06-2021.pdf,R.M. Occidente San Juan de Dios,17,0,0,0,0,0,0,SE22,2021
+SE22_08-06-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE22,2021
+SE22_08-06-2021.pdf,R.M. Oriente Hospital del Tórax,0,0,0,0,0,0,0,SE22,2021
+SE22_08-06-2021.pdf,R.M. Oriente Hospital Militar,10,0,0,0,0,0,0,SE22,2021
+SE11_23-03-2021.pdf,R.M. Sur Exequiel González C.,25,0,0,0,0,0,0,SE11,2021
+SE11_23-03-2021.pdf,R.M. Occidente Félix Bulnes,25,1,0,0,1,0,0,SE11,2021
+SE11_23-03-2021.pdf,R.M. Occidente San Juan de Dios,62,0,0,0,0,0,0,SE11,2021
+SE11_23-03-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE11,2021
+SE11_23-03-2021.pdf,R.M. Oriente Hospital del Tórax,11,0,0,0,0,0,0,SE11,2021
+SE11_23-03-2021.pdf,R.M. Oriente Hospital Militar,8,0,0,0,0,0,0,SE11,2021
+SE07_20-02-2024.pdf,R.M. Sur Exequiel González C.,10,1,1,0,0,0,0,SE07,2024
+SE07_20-02-2024.pdf,R.M. Occidente Félix Bulnes,59,17,0,1,1,0,0,SE07,2024
+SE07_20-02-2024.pdf,R.M. Occidente San Juan de Dios,91,14,0,1,0,1,0,SE07,2024
+SE07_20-02-2024.pdf,R.M. Suroriente Padre Hurtado,78,22,0,0,1,1,0,SE07,2024
+SE07_20-02-2024.pdf,R.M. Oriente Hospital del Tórax,24,4,0,0,0,0,0,SE07,2024
+SE07_20-02-2024.pdf,R.M. Oriente Hospital Militar,11,2,0,1,0,0,0,SE07,2024
+SE07_20-02-2024.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE07,2024
+SE07_20-02-2024.pdf,"Santiago, Consultorio 5",4,2,0,0,0,0,0,SE07,2024
+SE07_20-02-2024.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE07,2024
+SE07_20-02-2024.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,0,0,0,SE07,2024
+SE07_20-02-2024.pdf,Otros R.M**,1,1,0,0,0,1,0,SE07,2024
+SE26_02-07-2024.pdf,R.M. Sur Exequiel González C.,115,68,43,1,2,2,0,SE26,2024
+SE26_02-07-2024.pdf,R.M. Occidente Félix Bulnes,180,103,48,0,7,2,1,SE26,2024
+SE26_02-07-2024.pdf,R.M. Occidente San Juan de Dios,156,30,12,0,0,6,1,SE26,2024
+SE26_02-07-2024.pdf,R.M. Suroriente Padre Hurtado,189,60,43,2,1,4,0,SE26,2024
+SE26_02-07-2024.pdf,R.M. Oriente Hospital del Tórax,17,1,0,0,0,0,0,SE26,2024
+SE26_02-07-2024.pdf,R.M. Oriente Hospital Militar,3,2,2,0,1,0,0,SE26,2024
+SE26_02-07-2024.pdf,"Santiago, Consultorio Steeger",2,2,2,1,0,0,0,SE26,2024
+SE26_02-07-2024.pdf,"Santiago, Consultorio Avendaño",5,4,3,0,0,0,0,SE26,2024
+SE26_02-07-2024.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE26,2024
+SE26_02-07-2024.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE26,2024
+SE26_02-07-2024.pdf,"Santiago, Consultorio Ariztía",7,4,2,0,0,0,0,SE26,2024
+SE26_02-07-2024.pdf,Otros R.M**,5,5,0,0,0,5,0,SE26,2024
+SE30_03-08-2021.pdf,R.M. Sur Exequiel González C.,29,11,11,0,0,0,0,SE30,2021
+SE30_03-08-2021.pdf,R.M. Occidente Félix Bulnes,26,3,2,0,1,0,0,SE30,2021
+SE30_03-08-2021.pdf,R.M. Occidente San Juan de Dios,20,6,3,1,2,0,0,SE30,2021
+SE30_03-08-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE30,2021
+SE30_03-08-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE30,2021
+SE30_03-08-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE30,2021
+SE18_07-05-2019.pdf,R.M. Sur Exequiel González C.,34,8,0,3,5,0,0,SE18,2019
+SE18_07-05-2019.pdf,R.M. Occidente Félix Bulnes,46,12,3,0,7,2,0,SE18,2019
+SE18_07-05-2019.pdf,R.M. Occidente San Juan de Dios,96,8,0,2,3,3,0,SE18,2019
+SE18_07-05-2019.pdf,R.M. Suroriente Padre Hurtado,39,3,0,1,1,1,0,SE18,2019
+SE18_07-05-2019.pdf,R.M. Oriente Hospital del Tórax,22,2,0,0,2,0,0,SE18,2019
+SE18_07-05-2019.pdf,R.M. Oriente Hospital Militar,8,0,0,0,0,0,0,SE18,2019
+SE18_07-05-2019.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE18,2019
+SE18_07-05-2019.pdf,Otros R.M**,15,15,0,0,0,15,0,SE18,2019
+SE52_02-01-2024.pdf,R.M. Sur Exequiel González C.,16,1,0,1,0,0,0,SE52,2024
+SE52_02-01-2024.pdf,R.M. Occidente Félix Bulnes,84,18,0,2,4,1,0,SE52,2024
+SE52_02-01-2024.pdf,R.M. Occidente San Juan de Dios,68,7,0,0,3,0,0,SE52,2024
+SE52_02-01-2024.pdf,R.M. Suroriente Padre Hurtado,69,7,1,5,0,1,0,SE52,2024
+SE52_02-01-2024.pdf,R.M. Oriente Hospital del Tórax,30,1,0,0,0,1,0,SE52,2024
+SE52_02-01-2024.pdf,"Santiago, Consultorio Steeger",3,0,0,0,0,0,0,SE52,2024
+SE52_02-01-2024.pdf,Otros R.M**,5,5,0,0,0,4,1,SE52,2024
+SE51_28-12-2021.pdf,R.M. Sur Exequiel González C.,12,0,0,0,0,0,0,SE51,2021
+SE51_28-12-2021.pdf,R.M. Occidente Félix Bulnes,24,6,1,0,3,1,0,SE51,2021
+SE51_28-12-2021.pdf,R.M. Occidente San Juan de Dios,27,3,0,1,2,0,0,SE51,2021
+SE51_28-12-2021.pdf,R.M. Suroriente Padre Hurtado,19,4,0,0,0,4,0,SE51,2021
+SE51_28-12-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE51,2021
+SE51_28-12-2021.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE51,2021
+SE51_28-12-2021.pdf,Otros R.M**,2,2,0,0,0,2,0,SE51,2021
+SE52_02-01-2018.pdf,R.M. Sur Exequiel González C.,26,2,1,0,0,0,1,SE52,2018
+SE52_02-01-2018.pdf,R.M. Occidente Félix Bulnes,23,3,0,1,2,0,0,SE52,2018
+SE52_02-01-2018.pdf,R.M. Occidente San Juan de Dios,18,2,0,1,0,0,1,SE52,2018
+SE52_02-01-2018.pdf,R.M. Suroriente Padre Hurtado,10,0,0,0,0,0,0,SE52,2018
+SE52_02-01-2018.pdf,R.M. Oriente Hospital del Tórax,14,3,0,0,3,0,0,SE52,2018
+SE52_02-01-2018.pdf,R.M. Oriente Hospital Militar,5,1,0,0,0,0,0,SE52,2018
+SE52_02-01-2018.pdf,Otros R.M**,3,3,0,0,0,1,2,SE52,2018
+SE34_27-08-2024.pdf,R.M. Sur Exequiel González C.,98,69,14,1,7,0,2,SE34,2024
+SE34_27-08-2024.pdf,R.M. Occidente Félix Bulnes,147,78,25,4,3,0,0,SE34,2024
+SE34_27-08-2024.pdf,R.M. Occidente San Juan de Dios,117,36,13,0,3,0,0,SE34,2024
+SE34_27-08-2024.pdf,R.M. Suroriente Padre Hurtado,166,31,14,0,3,0,0,SE34,2024
+SE34_27-08-2024.pdf,R.M. Oriente Hospital del Tórax,11,4,0,0,1,0,0,SE34,2024
+SE34_27-08-2024.pdf,R.M. Oriente Hospital Militar,12,3,1,0,0,0,0,SE34,2024
+SE34_27-08-2024.pdf,"Santiago, Consultorio Steeger",1,1,0,0,0,0,1,SE34,2024
+SE34_27-08-2024.pdf,"Santiago, Consultorio Avendaño",3,3,0,0,0,0,0,SE34,2024
+SE34_27-08-2024.pdf,"Santiago, Consultorio 5",7,3,0,0,0,0,0,SE34,2024
+SE34_27-08-2024.pdf,"Santiago, Consultorio Barros Luco",11,1,0,0,0,0,0,SE34,2024
+SE34_27-08-2024.pdf,"Santiago, Consultorio Ariztía",12,8,1,0,0,0,0,SE34,2024
+SE51_24-12-2019.pdf,R.M. Sur Exequiel González C.,16,1,0,0,1,0,0,SE51,2019
+SE51_24-12-2019.pdf,R.M. Occidente Félix Bulnes,36,3,0,1,1,0,0,SE51,2019
+SE51_24-12-2019.pdf,R.M. Occidente San Juan de Dios,31,4,0,1,3,0,0,SE51,2019
+SE51_24-12-2019.pdf,R.M. Suroriente Padre Hurtado,16,0,0,0,0,0,0,SE51,2019
+SE51_24-12-2019.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE51,2019
+SE10_14-03-2023.pdf,R.M. Sur Exequiel González C.,12,1,0,1,0,0,0,SE10,2023
+SE10_14-03-2023.pdf,R.M. Occidente Félix Bulnes,53,13,0,2,2,0,1,SE10,2023
+SE10_14-03-2023.pdf,R.M. Occidente San Juan de Dios,55,12,0,1,0,0,5,SE10,2023
+SE10_14-03-2023.pdf,R.M. Suroriente Padre Hurtado,51,7,0,5,0,1,1,SE10,2023
+SE10_14-03-2023.pdf,R.M. Oriente Hospital del Tórax,7,1,0,0,0,1,0,SE10,2023
+SE10_14-03-2023.pdf,R.M. Oriente Hospital Militar,4,2,0,1,0,0,0,SE10,2023
+SE10_14-03-2023.pdf,"Santiago, Consultorio Avendaño",5,1,0,0,1,0,0,SE10,2023
+SE10_14-03-2023.pdf,Otros R.M**,6,6,0,0,0,4,2,SE10,2023
+SE05_08-02-2022.pdf,R.M. Sur Exequiel González C.,9,0,0,0,0,0,0,SE05,2022
+SE05_08-02-2022.pdf,R.M. Occidente Félix Bulnes,28,3,0,1,0,2,0,SE05,2022
+SE05_08-02-2022.pdf,R.M. Occidente San Juan de Dios,34,11,0,0,1,5,0,SE05,2022
+SE05_08-02-2022.pdf,R.M. Suroriente Padre Hurtado,31,3,0,0,0,3,0,SE05,2022
+SE05_08-02-2022.pdf,R.M. Oriente Hospital del Tórax,2,0,0,0,0,0,0,SE05,2022
+SE05_08-02-2022.pdf,Otros R.M**,8,8,0,0,0,8,0,SE05,2022
+SE12_30-03-2021.pdf,R.M. Sur Exequiel González C.,13,0,0,0,0,0,0,SE12,2021
+SE12_30-03-2021.pdf,R.M. Occidente Félix Bulnes,13,0,0,0,0,0,0,SE12,2021
+SE12_30-03-2021.pdf,R.M. Occidente San Juan de Dios,68,0,0,0,0,0,0,SE12,2021
+SE12_30-03-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE12,2021
+SE12_30-03-2021.pdf,R.M. Oriente Hospital del Tórax,17,0,0,0,0,0,0,SE12,2021
+SE12_30-03-2021.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE12,2021
+SE22_04-06-2019.pdf,R.M. Sur Exequiel González C.,61,21,8,0,11,2,0,SE22,2019
+SE22_04-06-2019.pdf,R.M. Occidente Félix Bulnes,81,38,11,3,12,12,0,SE22,2019
+SE22_04-06-2019.pdf,R.M. Occidente San Juan de Dios,170,42,0,1,1,38,1,SE22,2019
+SE22_04-06-2019.pdf,R.M. Suroriente Padre Hurtado,68,10,3,0,4,3,0,SE22,2019
+SE22_04-06-2019.pdf,R.M. Oriente Hospital del Tórax,53,10,0,3,0,7,0,SE22,2019
+SE22_04-06-2019.pdf,R.M. Oriente Hospital Militar,13,3,2,0,0,1,0,SE22,2019
+SE22_04-06-2019.pdf,"Santiago, Consultorio Steeger",5,1,0,0,0,1,0,SE22,2019
+SE22_04-06-2019.pdf,"Santiago, Consultorio Avendaño",12,5,0,0,0,5,0,SE22,2019
+SE22_04-06-2019.pdf,"Santiago, Consultorio Barros Luco",1,1,0,0,0,1,0,SE22,2019
+SE22_04-06-2019.pdf,"Santiago, Consultorio Ariztía",10,6,0,1,2,3,0,SE22,2019
+SE22_04-06-2019.pdf,Otros R.M**,23,23,0,0,0,19,4,SE22,2019
+SE45_12-11-2024.pdf,R.M. Sur Exequiel González C.,77,47,0,3,10,0,3,SE45,2024
+SE45_12-11-2024.pdf,R.M. Occidente Félix Bulnes,105,47,0,3,8,0,4,SE45,2024
+SE45_12-11-2024.pdf,R.M. Occidente San Juan de Dios,91,21,1,0,3,0,4,SE45,2024
+SE45_12-11-2024.pdf,R.M. Suroriente Padre Hurtado,45,8,0,1,1,0,2,SE45,2024
+SE45_12-11-2024.pdf,R.M. Oriente Hospital del Tórax,14,5,0,0,0,0,1,SE45,2024
+SE45_12-11-2024.pdf,R.M. Oriente Hospital Militar,4,3,0,0,0,0,0,SE45,2024
+SE45_12-11-2024.pdf,"Santiago, Consultorio Avendaño",8,4,0,1,0,0,1,SE45,2024
+SE45_12-11-2024.pdf,"Santiago, Consultorio 5",3,2,0,0,1,0,0,SE45,2024
+SE45_12-11-2024.pdf,"Santiago, Consultorio Barros Luco",6,1,0,0,0,0,1,SE45,2024
+SE45_12-11-2024.pdf,"Santiago, Consultorio Ariztía",7,4,0,0,1,0,1,SE45,2024
+SE45_12-11-2024.pdf,Otros R.M**,1,1,0,0,0,0,1,SE45,2024
+SE13_04-04-2023.pdf,R.M. Sur Exequiel González C.,26,0,0,0,0,0,0,SE13,2023
+SE13_04-04-2023.pdf,R.M. Occidente Félix Bulnes,89,12,0,4,1,2,1,SE13,2023
+SE13_04-04-2023.pdf,R.M. Occidente San Juan de Dios,80,13,0,2,1,1,0,SE13,2023
+SE13_04-04-2023.pdf,R.M. Suroriente Padre Hurtado,35,2,0,0,0,1,1,SE13,2023
+SE13_04-04-2023.pdf,R.M. Oriente Hospital del Tórax,10,0,0,0,0,0,0,SE13,2023
+SE13_04-04-2023.pdf,R.M. Oriente Hospital Militar,1,1,0,0,0,1,0,SE13,2023
+SE13_04-04-2023.pdf,"Santiago, Consultorio Steeger",2,0,0,0,0,0,0,SE13,2023
+SE13_04-04-2023.pdf,"Santiago, Consultorio Avendaño",4,1,0,0,0,1,0,SE13,2023
+SE13_04-04-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE13,2023
+SE13_04-04-2023.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE13,2023
+SE13_04-04-2023.pdf,Otros R.M**,7,7,0,0,0,1,6,SE13,2023
+SE09_07-03-2023.pdf,R.M. Sur Exequiel González C.,10,1,0,1,0,0,0,SE09,2023
+SE09_07-03-2023.pdf,R.M. Occidente Félix Bulnes,44,5,0,5,0,0,0,SE09,2023
+SE09_07-03-2023.pdf,R.M. Occidente San Juan de Dios,60,19,0,5,0,1,3,SE09,2023
+SE09_07-03-2023.pdf,R.M. Suroriente Padre Hurtado,10,10,0,10,0,0,0,SE09,2023
+SE09_07-03-2023.pdf,R.M. Oriente Hospital del Tórax,15,0,0,0,0,0,0,SE09,2023
+SE09_07-03-2023.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE09,2023
+SE09_07-03-2023.pdf,Otros R.M**,4,4,0,0,0,0,4,SE09,2023
+SE46_23-11-2021.pdf,R.M. Sur Exequiel González C.,23,5,4,0,1,0,0,SE46,2021
+SE46_23-11-2021.pdf,R.M. Occidente Félix Bulnes,31,7,2,1,4,0,0,SE46,2021
+SE46_23-11-2021.pdf,R.M. Occidente San Juan de Dios,34,0,0,0,0,0,0,SE46,2021
+SE46_23-11-2021.pdf,R.M. Suroriente Padre Hurtado,24,2,2,0,0,0,0,SE46,2021
+SE46_23-11-2021.pdf,R.M. Oriente Hospital del Tórax,7,1,0,0,1,0,0,SE46,2021
+SE46_23-11-2021.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,1,0,0,SE46,2021
+SE46_23-11-2021.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE46,2021
+SE36_13-09-2022.pdf,R.M. Sur Exequiel González C.,39,8,1,0,7,0,0,SE36,2022
+SE36_13-09-2022.pdf,R.M. Occidente Félix Bulnes,103,23,6,3,8,1,0,SE36,2022
+SE36_13-09-2022.pdf,R.M. Occidente San Juan de Dios,97,15,3,1,2,4,0,SE36,2022
+SE36_13-09-2022.pdf,R.M. Suroriente Padre Hurtado,110,11,1,0,4,4,0,SE36,2022
+SE36_13-09-2022.pdf,R.M. Oriente Hospital del Torax,16,2,0,0,0,1,0,SE36,2022
+SE36_13-09-2022.pdf,R.M. Oriente Hospital Militar,11,6,0,0,1,3,0,SE36,2022
+SE36_13-09-2022.pdf,"Santiago, Consultorio Steeger",3,1,0,0,0,1,0,SE36,2022
+SE36_13-09-2022.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,0,1,0,SE36,2022
+SE36_13-09-2022.pdf,"Santiago, Consultorio Barros Luco",7,0,0,0,0,0,0,SE36,2022
+SE36_13-09-2022.pdf,"Santiago, Consultorio Ariztía",5,2,0,1,0,1,0,SE36,2022
+SE36_13-09-2022.pdf,Otros R.M**,9,9,0,0,0,9,0,SE36,2022
+SE05_04-02-2025.pdf,R.M. Sur Exequiel González C.,30,14,0,0,2,0,0,SE05,2025
+SE05_04-02-2025.pdf,R.M. Occidente Félix Bulnes,72,19,0,2,1,0,0,SE05,2025
+SE05_04-02-2025.pdf,R.M. Occidente San Juan de Dios,43,7,0,0,1,0,0,SE05,2025
+SE05_04-02-2025.pdf,R.M. Suroriente Padre Hurtado,47,8,0,1,0,0,1,SE05,2025
+SE05_04-02-2025.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE05,2025
+SE05_04-02-2025.pdf,R.M. Oriente Hospital Militar,1,0,0,0,0,0,0,SE05,2025
+SE05_04-02-2025.pdf,"Santiago, Consultorio Steeger",4,2,0,0,0,0,1,SE05,2025
+SE05_04-02-2025.pdf,"Santiago, Consultorio Avendaño",3,2,0,0,0,0,2,SE05,2025
+SE05_04-02-2025.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,0,0,0,SE05,2025
+SE44_07-11-2023.pdf,R.M. Sur Exequiel González C.,32,2,0,0,1,0,0,SE44,2023
+SE44_07-11-2023.pdf,R.M. Occidente Félix Bulnes,94,8,0,1,3,0,0,SE44,2023
+SE44_07-11-2023.pdf,R.M. Occidente San Juan de Dios,123,15,0,0,4,0,0,SE44,2023
+SE44_07-11-2023.pdf,R.M. Suroriente Padre Hurtado,72,7,0,3,3,0,0,SE44,2023
+SE44_07-11-2023.pdf,R.M. Oriente Hospital del Tórax,49,2,0,0,2,0,0,SE44,2023
+SE44_07-11-2023.pdf,R.M. Oriente Hospital Militar,6,3,0,1,0,0,0,SE44,2023
+SE44_07-11-2023.pdf,"Santiago, Consultorio 5",3,1,0,0,0,0,0,SE44,2023
+SE44_07-11-2023.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE44,2023
+SE44_07-11-2023.pdf,"Santiago, Consultorio Ariztía",4,0,0,0,0,0,0,SE44,2023
+SE14_11-04-2023.pdf,R.M. Sur Exequiel González C.,17,1,0,0,1,0,0,SE14,2023
+SE14_11-04-2023.pdf,R.M. Occidente Félix Bulnes,64,9,1,3,2,2,0,SE14,2023
+SE14_11-04-2023.pdf,R.M. Occidente San Juan de Dios,88,13,0,4,0,5,1,SE14,2023
+SE14_11-04-2023.pdf,R.M. Suroriente Padre Hurtado,79,7,0,3,0,2,2,SE14,2023
+SE14_11-04-2023.pdf,R.M. Oriente Hospital del Tórax,21,0,0,0,0,0,0,SE14,2023
+SE14_11-04-2023.pdf,R.M. Oriente Hospital Militar,2,1,0,0,0,0,0,SE14,2023
+SE14_11-04-2023.pdf,"Santiago, Consultorio Steeger",1,1,0,0,0,0,1,SE14,2023
+SE14_11-04-2023.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,0,1,SE14,2023
+SE14_11-04-2023.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE14,2023
+SE14_11-04-2023.pdf,Otros R.M**,14,14,0,0,0,9,5,SE14,2023
+SE22_04-06-2024.pdf,R.M. Sur Exequiel González C.,7,3,1,0,0,1,0,SE22,2024
+SE22_04-06-2024.pdf,R.M. Occidente Félix Bulnes,251,127,7,6,3,72,0,SE22,2024
+SE22_04-06-2024.pdf,R.M. Occidente San Juan de Dios,246,96,3,5,3,71,1,SE22,2024
+SE22_04-06-2024.pdf,R.M. Suroriente Padre Hurtado,230,70,5,1,0,53,2,SE22,2024
+SE22_04-06-2024.pdf,R.M. Oriente Hospital del Tórax,14,3,0,0,0,2,0,SE22,2024
+SE22_04-06-2024.pdf,R.M. Oriente Hospital Militar,11,0,0,0,0,0,0,SE22,2024
+SE22_04-06-2024.pdf,"Santiago, Consultorio Steeger",10,8,0,1,0,7,0,SE22,2024
+SE22_04-06-2024.pdf,"Santiago, Consultorio Avendaño",9,7,0,1,1,5,0,SE22,2024
+SE22_04-06-2024.pdf,"Santiago, Consultorio 5",9,6,0,0,0,6,0,SE22,2024
+SE22_04-06-2024.pdf,"Santiago, Consultorio Barros Luco",15,5,0,0,0,5,0,SE22,2024
+SE22_04-06-2024.pdf,"Santiago, Consultorio Ariztía",23,18,1,0,1,14,1,SE22,2024
+SE22_04-06-2024.pdf,Otros R.M**,7,7,0,0,0,7,0,SE22,2024
+SE45_12-11-2019.pdf,R.M. Sur Exequiel González C.,15,0,0,0,0,0,0,SE45,2019
+SE45_12-11-2019.pdf,R.M. Occidente Félix Bulnes,49,10,1,2,3,0,0,SE45,2019
+SE45_12-11-2019.pdf,R.M. Occidente San Juan de Dios,71,7,0,1,1,0,5,SE45,2019
+SE45_12-11-2019.pdf,R.M. Suroriente Padre Hurtado,15,2,0,0,0,0,0,SE45,2019
+SE45_12-11-2019.pdf,R.M. Oriente Hospital del Tórax,19,3,0,0,1,0,1,SE45,2019
+SE45_12-11-2019.pdf,R.M. Oriente Hospital Militar,1,0,0,0,0,0,0,SE45,2019
+SE45_12-11-2019.pdf,Otros R.M**,4,4,0,0,0,0,4,SE45,2019
+SE19_12-05-2020.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE19,2020
+SE19_12-05-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE19,2020
+SE19_12-05-2020.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE19,2020
+SE19_12-05-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE19,2020
+SE19_12-05-2020.pdf,R.M. Oriente Hospital del Tórax,40,3,0,0,0,0,0,SE19,2020
+SE19_12-05-2020.pdf,"Santiago, Consultorio Ariztía",121,16,0,1,1,0,0,SE19,2020
+SE08_25-02-2020.pdf,R.M. Sur Exequiel González C.,8,0,0,0,0,0,0,SE08,2020
+SE08_25-02-2020.pdf,R.M. Occidente Félix Bulnes,17,3,0,1,2,0,0,SE08,2020
+SE08_25-02-2020.pdf,R.M. Occidente San Juan de Dios,25,4,0,3,0,1,0,SE08,2020
+SE08_25-02-2020.pdf,R.M. Suroriente Padre Hurtado,4,0,0,0,0,0,0,SE08,2020
+SE08_25-02-2020.pdf,R.M. Oriente Hospital del Tórax,10,2,0,1,1,0,0,SE08,2020
+SE08_25-02-2020.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE08,2020
+SE08_25-02-2020.pdf,Otros R.M**,2,2,0,0,0,1,1,SE08,2020
+SE42_25-10-2022.pdf,R.M. Sur Exequiel González C.,22,4,0,0,2,1,0,SE42,2022
+SE42_25-10-2022.pdf,R.M. Occidente Félix Bulnes,82,12,0,2,4,6,0,SE42,2022
+SE42_25-10-2022.pdf,R.M. Occidente San Juan de Dios,78,15,0,2,2,6,0,SE42,2022
+SE42_25-10-2022.pdf,R.M. Suroriente Padre Hurtado,77,17,13,0,1,3,0,SE42,2022
+SE42_25-10-2022.pdf,R.M. Oriente Hospital del Tórax,17,7,0,2,2,3,0,SE42,2022
+SE42_25-10-2022.pdf,R.M. Oriente Hospital Militar,3,3,0,0,0,1,0,SE42,2022
+SE42_25-10-2022.pdf,"Santiago, Consultorio Steeger",3,0,0,0,0,0,0,SE42,2022
+SE42_25-10-2022.pdf,"Santiago, Consultorio Avendaño",9,1,0,0,0,1,0,SE42,2022
+SE42_25-10-2022.pdf,"Santiago, Consultorio Barros Luco",9,0,0,0,0,0,0,SE42,2022
+SE42_25-10-2022.pdf,"Santiago, Consultorio Ariztía",5,5,0,1,4,0,0,SE42,2022
+SE42_25-10-2022.pdf,Otros R.M**,8,8,0,0,0,8,0,SE42,2022
+SE20_24-05-2022.pdf,R.M. Sur Exequiel González C.,64,14,13,0,1,0,0,SE20,2022
+SE20_24-05-2022.pdf,R.M. Occidente Félix Bulnes,105,46,20,5,16,1,0,SE20,2022
+SE20_24-05-2022.pdf,R.M. Occidente San Juan de Dios,66,14,3,1,2,2,0,SE20,2022
+SE20_24-05-2022.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE20,2022
+SE20_24-05-2022.pdf,R.M. Oriente Hospital del Tórax,8,2,0,0,1,1,0,SE20,2022
+SE20_24-05-2022.pdf,R.M. Oriente Hospital Militar,12,6,1,2,1,0,0,SE20,2022
+SE20_24-05-2022.pdf,"Santiago, Consultorio Steeger",8,7,4,1,2,0,0,SE20,2022
+SE20_24-05-2022.pdf,"Santiago, Consultorio Avendaño",2,0,0,0,0,0,0,SE20,2022
+SE20_24-05-2022.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE20,2022
+SE20_24-05-2022.pdf,"Santiago, Consultorio Ariztía",2,1,0,1,0,0,0,SE20,2022
+SE20_24-05-2022.pdf,Otros R.M**,12,12,0,0,0,12,0,SE20,2022
+SE43_02-11-2021.pdf,R.M. Sur Exequiel González C.,26,7,3,0,4,0,0,SE43,2021
+SE43_02-11-2021.pdf,R.M. Occidente Félix Bulnes,22,6,5,0,1,0,0,SE43,2021
+SE43_02-11-2021.pdf,R.M. Occidente San Juan de Dios,43,6,2,0,4,0,0,SE43,2021
+SE43_02-11-2021.pdf,R.M. Suroriente Padre Hurtado,36,7,5,2,0,0,0,SE43,2021
+SE43_02-11-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE43,2021
+SE43_02-11-2021.pdf,R.M. Oriente Hospital Militar,11,3,3,0,0,0,0,SE43,2021
+SE03_22-01-2018.pdf,R.M. Sur Exequiel González C.,19,2,0,2,0,0,0,SE03,2018
+SE03_22-01-2018.pdf,R.M. Occidente Félix Bulnes,23,5,0,3,2,0,0,SE03,2018
+SE03_22-01-2018.pdf,R.M. Occidente San Juan de Dios,17,3,0,2,0,0,1,SE03,2018
+SE03_22-01-2018.pdf,R.M. Suroriente Padre Hurtado,19,0,0,0,0,0,0,SE03,2018
+SE03_22-01-2018.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE03,2018
+SE03_22-01-2018.pdf,Otros R.M**,2,2,0,0,0,0,2,SE03,2018
+SE21_28-05-2024.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE21,2024
+SE21_28-05-2024.pdf,R.M. Occidente Félix Bulnes,255,170,8,4,4,105,0,SE21,2024
+SE21_28-05-2024.pdf,R.M. Occidente San Juan de Dios,283,105,1,2,3,90,0,SE21,2024
+SE21_28-05-2024.pdf,R.M. Suroriente Padre Hurtado,291,104,5,2,0,96,0,SE21,2024
+SE21_28-05-2024.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE21,2024
+SE21_28-05-2024.pdf,R.M. Oriente Hospital Militar,12,3,0,2,0,6,2,SE21,2024
+SE21_28-05-2024.pdf,"Santiago, Consultorio Steeger",10,6,0,0,2,4,0,SE21,2024
+SE21_28-05-2024.pdf,"Santiago, Consultorio Avendaño",10,7,0,0,0,6,0,SE21,2024
+SE21_28-05-2024.pdf,"Santiago, Consultorio 5",6,6,0,0,0,6,0,SE21,2024
+SE21_28-05-2024.pdf,"Santiago, Consultorio Barros Luco",10,5,0,0,0,5,0,SE21,2024
+SE21_28-05-2024.pdf,Otros R.M**,7,7,0,0,0,5,2,SE21,2024
+SE38_24-09-2024.pdf,R.M. Sur Exequiel González C.,32,23,2,1,3,0,1,SE38,2024
+SE38_24-09-2024.pdf,R.M. Occidente Félix Bulnes,106,65,2,4,8,0,1,SE38,2024
+SE38_24-09-2024.pdf,R.M. Occidente San Juan de Dios,85,22,2,0,0,1,1,SE38,2024
+SE38_24-09-2024.pdf,R.M. Suroriente Padre Hurtado,70,8,1,1,0,0,2,SE38,2024
+SE38_24-09-2024.pdf,R.M. Oriente Hospital del Tórax,2,1,0,0,0,0,0,SE38,2024
+SE38_24-09-2024.pdf,R.M. Oriente Hospital Militar,13,4,1,0,0,0,0,SE38,2024
+SE38_24-09-2024.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE38,2024
+SE38_24-09-2024.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,0,0,0,SE38,2024
+SE38_24-09-2024.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE38,2024
+SE38_24-09-2024.pdf,Otros R.M**,5,5,0,0,0,0,5,SE38,2024
+SE50_21-12-2021.pdf,R.M. Sur Exequiel González C.,13,4,3,0,1,0,0,SE50,2021
+SE50_21-12-2021.pdf,R.M. Occidente Félix Bulnes,37,11,2,3,6,0,0,SE50,2021
+SE50_21-12-2021.pdf,R.M. Occidente San Juan de Dios,20,2,0,0,2,0,0,SE50,2021
+SE50_21-12-2021.pdf,R.M. Suroriente Padre Hurtado,25,1,1,0,0,0,0,SE50,2021
+SE50_21-12-2021.pdf,R.M. Oriente Hospital del Tórax,5,2,0,0,1,0,0,SE50,2021
+SE50_21-12-2021.pdf,R.M. Oriente Hospital Militar *,0,0,0,0,0,0,0,SE50,2021
+SE50_21-12-2021.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,1,0,0,SE50,2021
+SE50_21-12-2021.pdf,Otros R.M**,1,1,0,0,0,1,0,SE50,2021
+SE47_26-11-2024.pdf,R.M. Sur Exequiel González C.,68,31,0,2,6,0,2,SE47,2024
+SE47_26-11-2024.pdf,R.M. Occidente Félix Bulnes,107,57,0,3,4,0,0,SE47,2024
+SE47_26-11-2024.pdf,R.M. Occidente San Juan de Dios,104,72,1,0,11,1,10,SE47,2024
+SE47_26-11-2024.pdf,R.M. Suroriente Padre Hurtado,58,7,0,1,0,0,0,SE47,2024
+SE47_26-11-2024.pdf,R.M. Oriente Hospital del Tórax,13,3,0,0,1,0,0,SE47,2024
+SE47_26-11-2024.pdf,R.M. Oriente Hospital Militar,8,5,0,0,1,0,0,SE47,2024
+SE47_26-11-2024.pdf,"Santiago, Consultorio Steeger",9,5,0,0,1,0,3,SE47,2024
+SE47_26-11-2024.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,0,0,0,SE47,2024
+SE47_26-11-2024.pdf,"Santiago, Consultorio 5",3,1,0,0,0,0,0,SE47,2024
+SE47_26-11-2024.pdf,"Santiago, Consultorio Barros Luco",9,0,0,0,0,0,0,SE47,2024
+SE47_26-11-2024.pdf,"Santiago, Consultorio Ariztía",3,2,0,0,1,0,1,SE47,2024
+SE47_26-11-2024.pdf,Otros R.M**,6,6,0,0,0,1,5,SE47,2024
+SE17_30-04-2024.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE17,2024
+SE17_30-04-2024.pdf,R.M. Occidente Félix Bulnes,96,60,1,4,3,9,0,SE17,2024
+SE17_30-04-2024.pdf,R.M. Occidente San Juan de Dios,111,38,0,1,7,20,0,SE17,2024
+SE17_30-04-2024.pdf,R.M. Suroriente Padre Hurtado,142,44,0,6,0,33,1,SE17,2024
+SE17_30-04-2024.pdf,R.M. Oriente Hospital del Tórax,9,4,0,0,0,3,0,SE17,2024
+SE17_30-04-2024.pdf,R.M. Oriente Hospital Militar,7,2,0,0,0,0,0,SE17,2024
+SE39_01-10-2019.pdf,R.M. Sur Exequiel González C.,77,26,7,2,2,0,2,SE39,2019
+SE39_01-10-2019.pdf,R.M. Occidente Félix Bulnes,90,28,2,3,5,0,3,SE39,2019
+SE39_01-10-2019.pdf,R.M. Occidente San Juan de Dios,116,17,4,2,0,0,10,SE39,2019
+SE39_01-10-2019.pdf,R.M. Suroriente Padre Hurtado,47,11,2,4,0,0,0,SE39,2019
+SE39_01-10-2019.pdf,R.M. Oriente Hospital del Tórax,39,6,0,0,1,0,1,SE39,2019
+SE39_01-10-2019.pdf,R.M. Oriente Hospital Militar,12,3,0,0,0,0,1,SE39,2019
+SE39_01-10-2019.pdf,"Santiago, Consultorio Ariztía",3,1,0,0,0,0,1,SE39,2019
+SE39_01-10-2019.pdf,Otros R.M**,9,9,0,0,0,1,8,SE39,2019
+SE40_11-10-2023.pdf,R.M. Sur Exequiel González C.,34,2,0,1,1,0,0,SE40,2023
+SE40_11-10-2023.pdf,R.M. Occidente Félix Bulnes,51,16,0,0,9,0,0,SE40,2023
+SE40_11-10-2023.pdf,R.M. Occidente San Juan de Dios,122,15,0,0,6,0,0,SE40,2023
+SE40_11-10-2023.pdf,R.M. Suroriente Padre Hurtado,108,9,0,6,3,0,0,SE40,2023
+SE40_11-10-2023.pdf,R.M. Oriente Hospital del Tórax,74,13,0,0,3,0,0,SE40,2023
+SE40_11-10-2023.pdf,R.M. Oriente Hospital Militar,5,2,0,0,1,0,0,SE40,2023
+SE40_11-10-2023.pdf,"Santiago, Consultorio 5",4,1,0,0,1,0,0,SE40,2023
+SE40_11-10-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE40,2023
+SE40_11-10-2023.pdf,"Santiago, Consultorio Ariztía",4,1,0,0,0,0,0,SE40,2023
+SE40_11-10-2023.pdf,Otros R.M**,5,5,0,0,0,2,3,SE40,2023
+SE25_23-06-2020.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE25,2020
+SE25_23-06-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE25,2020
+SE25_23-06-2020.pdf,R.M. Occidente San Juan de Dios,136,0,0,0,0,0,0,SE25,2020
+SE25_23-06-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE25,2020
+SE25_23-06-2020.pdf,R.M. Oriente Hospital del Tórax,51,0,0,0,0,0,0,SE25,2020
+SE25_23-06-2020.pdf,R.M. Oriente Hospital Militar,55,0,0,0,0,0,0,SE25,2020
+SE02_15-01-2018.pdf,R.M. Sur Exequiel González C.,18,3,0,1,2,0,0,SE02,2018
+SE02_15-01-2018.pdf,R.M. Occidente Félix Bulnes,32,1,0,1,0,0,0,SE02,2018
+SE02_15-01-2018.pdf,R.M. Occidente San Juan de Dios,16,1,0,0,0,0,1,SE02,2018
+SE02_15-01-2018.pdf,R.M. Suroriente Padre Hurtado,15,0,0,0,0,0,0,SE02,2018
+SE02_15-01-2018.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE02,2018
+SE02_15-01-2018.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE02,2018
+SE02_15-01-2018.pdf,Otros R.M**,3,3,0,0,0,2,1,SE02,2018
+SE37_21-09-2022.pdf,R.M. Sur Exequiel González C.,26,1,0,0,1,0,0,SE37,2022
+SE37_21-09-2022.pdf,R.M. Occidente Félix Bulnes,70,16,0,3,4,5,0,SE37,2022
+SE37_21-09-2022.pdf,R.M. Occidente San Juan de Dios,53,5,0,1,0,4,0,SE37,2022
+SE37_21-09-2022.pdf,R.M. Suroriente Padre Hurtado,54,4,0,1,0,3,0,SE37,2022
+SE37_21-09-2022.pdf,R.M. Oriente Hospital del Tórax,15,2,0,0,2,0,0,SE37,2022
+SE37_21-09-2022.pdf,"Santiago, Consultorio Steeger",7,1,0,0,1,0,0,SE37,2022
+SE37_21-09-2022.pdf,"Santiago, Consultorio Avendaño",3,2,0,0,2,0,0,SE37,2022
+SE37_21-09-2022.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE37,2022
+SE37_21-09-2022.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,0,1,0,SE37,2022
+SE37_21-09-2022.pdf,Otros R.M**,14,14,0,0,0,14,0,SE37,2022
+SE39_01-10-2024.pdf,R.M. Sur Exequiel González C.,105,55,6,2,14,0,2,SE39,2024
+SE39_01-10-2024.pdf,R.M. Occidente Félix Bulnes,126,58,4,3,12,0,1,SE39,2024
+SE39_01-10-2024.pdf,R.M. Occidente San Juan de Dios,118,32,1,1,4,3,2,SE39,2024
+SE39_01-10-2024.pdf,R.M. Suroriente Padre Hurtado,107,11,3,3,0,0,1,SE39,2024
+SE39_01-10-2024.pdf,R.M. Oriente Hospital del Tórax,13,3,0,0,0,0,0,SE39,2024
+SE39_01-10-2024.pdf,R.M. Oriente Hospital Militar,6,3,0,0,1,0,0,SE39,2024
+SE39_01-10-2024.pdf,"Santiago, Consultorio 5",7,3,0,0,3,0,0,SE39,2024
+SE39_01-10-2024.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE39,2024
+SE39_01-10-2024.pdf,Otros R.M**,6,6,0,0,0,2,4,SE39,2024
+SE05_04-02-2020.pdf,R.M. Sur Exequiel González C.,23,6,0,2,3,1,0,SE05,2020
+SE05_04-02-2020.pdf,R.M. Occidente Félix Bulnes,27,2,0,1,1,0,0,SE05,2020
+SE05_04-02-2020.pdf,R.M. Occidente San Juan de Dios,26,3,0,1,2,0,0,SE05,2020
+SE05_04-02-2020.pdf,R.M. Suroriente Padre Hurtado,19,1,0,1,0,0,0,SE05,2020
+SE05_04-02-2020.pdf,R.M. Oriente Hospital del Tórax,14,2,0,0,2,0,0,SE05,2020
+SE05_04-02-2020.pdf,R.M. Oriente Hospital Militar,0,0,0,0,0,0,0,SE05,2020
+SE05_04-02-2020.pdf,Otros R.M**,2,2,0,0,0,1,1,SE05,2020
+SE47_26-11-2019.pdf,R.M. Sur Exequiel González C.,6,0,0,0,0,0,0,SE47,2019
+SE47_26-11-2019.pdf,R.M. Occidente Félix Bulnes,37,2,0,0,1,0,1,SE47,2019
+SE47_26-11-2019.pdf,R.M. Occidente San Juan de Dios,39,3,0,1,0,0,2,SE47,2019
+SE47_26-11-2019.pdf,R.M. Suroriente Padre Hurtado,9,0,0,0,0,0,0,SE47,2019
+SE47_26-11-2019.pdf,R.M. Oriente Hospital del Tórax,29,2,1,0,0,0,0,SE47,2019
+SE47_26-11-2019.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE47,2019
+SE47_26-11-2019.pdf,Otros R.M**,3,3,0,0,0,2,1,SE47,2019
+SE17_30-04-2019.pdf,R.M. Sur Exequiel González C.,24,5,0,0,4,0,0,SE17,2019
+SE17_30-04-2019.pdf,R.M. Occidente Félix Bulnes,49,9,0,1,8,0,0,SE17,2019
+SE17_30-04-2019.pdf,R.M. Occidente San Juan de Dios,94,5,1,2,0,2,0,SE17,2019
+SE17_30-04-2019.pdf,R.M. Suroriente Padre Hurtado,21,3,1,0,1,1,0,SE17,2019
+SE17_30-04-2019.pdf,R.M. Oriente Hospital del Tórax,20,3,0,2,1,0,0,SE17,2019
+SE17_30-04-2019.pdf,R.M. Oriente Hospital Militar,6,1,0,0,0,1,0,SE17,2019
+SE17_30-04-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE17,2019
+SE17_30-04-2019.pdf,Otros R.M**,12,12,0,0,0,11,1,SE17,2019
+SE38_24-09-2019.pdf,R.M. Sur Exequiel González C.,22,4,0,1,0,0,1,SE38,2019
+SE38_24-09-2019.pdf,R.M. Occidente Félix Bulnes,51,12,5,2,2,0,0,SE38,2019
+SE38_24-09-2019.pdf,R.M. Occidente San Juan de Dios,168,29,3,1,0,0,25,SE38,2019
+SE38_24-09-2019.pdf,R.M. Suroriente Padre Hurtado,24,9,3,0,1,0,0,SE38,2019
+SE38_24-09-2019.pdf,R.M. Oriente Hospital del Tórax,7,0,0,0,0,0,0,SE38,2019
+SE38_24-09-2019.pdf,R.M. Oriente Hospital Militar,9,7,1,0,1,0,2,SE38,2019
+SE38_24-09-2019.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE38,2019
+SE38_24-09-2019.pdf,Otros R.M**,6,6,0,0,0,1,5,SE38,2019
+SE23_14-06-2022.pdf,R.M. Sur Exequiel González C.,130,83,71,2,4,1,0,SE23,2022
+SE23_14-06-2022.pdf,R.M. Occidente Félix Bulnes,172,122,91,0,6,0,0,SE23,2022
+SE23_14-06-2022.pdf,R.M. Occidente San Juan de Dios,81,28,15,1,2,2,0,SE23,2022
+SE23_14-06-2022.pdf,R.M. Suroriente Padre Hurtado,108,50,40,0,4,3,0,SE23,2022
+SE23_14-06-2022.pdf,R.M. Oriente Hospital del Tórax,20,7,4,0,0,3,0,SE23,2022
+SE23_14-06-2022.pdf,R.M. Oriente Hospital Militar,24,16,5,0,0,1,0,SE23,2022
+SE23_14-06-2022.pdf,"Santiago, Consultorio Steeger",3,2,0,0,1,0,0,SE23,2022
+SE23_14-06-2022.pdf,"Santiago, Consultorio Avendaño",4,4,1,0,0,1,0,SE23,2022
+SE23_14-06-2022.pdf,"Santiago, Consultorio Ariztía",1,1,1,0,0,0,0,SE23,2022
+SE23_14-06-2022.pdf,Otros R.M**,6,6,0,0,0,6,0,SE23,2022
+SE29_25-07-2023.pdf,R.M. Sur Exequiel González C.,55,30,17,0,0,0,0,SE29,2023
+SE29_25-07-2023.pdf,R.M. Occidente Félix Bulnes,118,49,28,2,8,0,1,SE29,2023
+SE29_25-07-2023.pdf,R.M. Occidente San Juan de Dios,138,22,9,1,0,2,2,SE29,2023
+SE29_25-07-2023.pdf,R.M. Suroriente Padre Hurtado,157,23,16,2,0,0,0,SE29,2023
+SE29_25-07-2023.pdf,R.M. Oriente Hospital del Tórax,41,8,2,0,1,0,2,SE29,2023
+SE29_25-07-2023.pdf,R.M. Oriente Hospital Militar,10,4,2,0,1,0,0,SE29,2023
+SE29_25-07-2023.pdf,"Santiago, Consultorio Steeger",4,2,1,0,0,0,0,SE29,2023
+SE29_25-07-2023.pdf,"Santiago, Consultorio Avendaño",4,1,0,0,0,0,0,SE29,2023
+SE29_25-07-2023.pdf,"Santiago, Consultorio 5",8,5,2,1,0,0,0,SE29,2023
+SE29_25-07-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE29,2023
+SE29_25-07-2023.pdf,"Santiago, Consultorio Ariztía",6,4,0,1,2,0,0,SE29,2023
+SE29_25-07-2023.pdf,Otros R.M**,1,1,0,0,0,0,1,SE29,2023
+SE21_28-05-2019.pdf,R.M. Sur Exequiel González C.,60,18,5,0,10,3,0,SE21,2019
+SE21_28-05-2019.pdf,R.M. Occidente Félix Bulnes,67,28,6,1,15,6,0,SE21,2019
+SE21_28-05-2019.pdf,R.M. Occidente San Juan de Dios,170,32,0,2,3,26,1,SE21,2019
+SE21_28-05-2019.pdf,R.M. Suroriente Padre Hurtado,60,10,2,1,6,0,1,SE21,2019
+SE21_28-05-2019.pdf,R.M. Oriente Hospital del Tórax,43,8,0,1,0,5,2,SE21,2019
+SE21_28-05-2019.pdf,R.M. Oriente Hospital Militar,15,6,3,0,1,2,0,SE21,2019
+SE21_28-05-2019.pdf,"Santiago, Consultorio Steeger",2,2,0,0,0,2,0,SE21,2019
+SE21_28-05-2019.pdf,"Santiago, Consultorio Avendaño",7,3,0,0,1,2,0,SE21,2019
+SE21_28-05-2019.pdf,"Santiago, Consultorio Barros Luco",1,1,0,0,0,1,0,SE21,2019
+SE21_28-05-2019.pdf,"Santiago, Consultorio Ariztía",3,0,0,0,0,0,0,SE21,2019
+SE21_28-05-2019.pdf,Otros R.M**,21,21,0,0,0,20,1,SE21,2019
+SE08_25-02-2025.pdf,R.M. Sur Exequiel González C.,24,7,0,1,0,1,0,SE08,2025
+SE08_25-02-2025.pdf,R.M. Occidente Félix Bulnes,64,17,0,1,1,1,0,SE08,2025
+SE08_25-02-2025.pdf,R.M. Occidente San Juan de Dios,72,13,0,0,0,0,0,SE08,2025
+SE08_25-02-2025.pdf,R.M. Suroriente Padre Hurtado,42,4,0,0,0,2,0,SE08,2025
+SE08_25-02-2025.pdf,R.M. Oriente Hospital del Tórax,5,0,0,0,0,0,0,SE08,2025
+SE08_25-02-2025.pdf,R.M. Oriente Hospital Militar,8,1,0,0,0,0,0,SE08,2025
+SE08_25-02-2025.pdf,"Santiago, Consultorio Steeger",2,1,0,0,0,0,0,SE08,2025
+SE08_25-02-2025.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,0,0,SE08,2025
+SE08_25-02-2025.pdf,"Santiago, Consultorio 5",4,2,0,0,0,0,0,SE08,2025
+SE08_25-02-2025.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE08,2025
+SE40_08-10-2024.pdf,R.M. Sur Exequiel González C.,84,37,3,0,7,1,0,SE40,2024
+SE40_08-10-2024.pdf,R.M. Occidente Félix Bulnes,99,51,1,3,10,0,1,SE40,2024
+SE40_08-10-2024.pdf,R.M. Occidente San Juan de Dios,124,36,4,0,1,2,3,SE40,2024
+SE40_08-10-2024.pdf,R.M. Suroriente Padre Hurtado,97,23,3,5,3,1,0,SE40,2024
+SE40_08-10-2024.pdf,R.M. Oriente Hospital del Tórax,9,1,0,0,0,0,0,SE40,2024
+SE40_08-10-2024.pdf,R.M. Oriente Hospital Militar,9,1,1,0,0,0,1,SE40,2024
+SE40_08-10-2024.pdf,"Santiago, Consultorio Steeger",4,3,0,0,1,0,1,SE40,2024
+SE40_08-10-2024.pdf,"Santiago, Consultorio Avendaño",6,3,0,0,0,0,0,SE40,2024
+SE40_08-10-2024.pdf,"Santiago, Consultorio 5",6,2,0,0,1,0,0,SE40,2024
+SE40_08-10-2024.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE40,2024
+SE40_08-10-2024.pdf,"Santiago, Consultorio Ariztía",5,4,0,0,2,0,0,SE40,2024
+SE40_08-10-2024.pdf,Otros R.M**,2,2,0,0,0,0,2,SE40,2024
+SE49_09-12-2020.pdf,R.M. Sur Exequiel González C.,14,0,0,0,0,0,0,SE49,2020
+SE49_09-12-2020.pdf,R.M. Occidente Félix Bulnes,23,0,0,0,0,0,0,SE49,2020
+SE49_09-12-2020.pdf,R.M. Occidente San Juan de Dios,31,0,0,0,0,0,0,SE49,2020
+SE49_09-12-2020.pdf,R.M. Suroriente Padre Hurtado,2,0,0,0,0,0,0,SE49,2020
+SE49_09-12-2020.pdf,R.M. Oriente Hospital del Tórax,20,0,0,0,0,0,0,SE49,2020
+SE49_10-12-2024.pdf,R.M. Sur Exequiel González C.,58,34,0,4,3,0,4,SE49,2024
+SE49_10-12-2024.pdf,R.M. Occidente Félix Bulnes,117,64,0,1,5,4,5,SE49,2024
+SE49_10-12-2024.pdf,R.M. Occidente San Juan de Dios,128,21,0,2,0,0,5,SE49,2024
+SE49_10-12-2024.pdf,R.M. Suroriente Padre Hurtado,74,13,0,2,0,0,6,SE49,2024
+SE49_10-12-2024.pdf,R.M. Oriente Hospital del Tórax,9,1,0,0,0,0,1,SE49,2024
+SE49_10-12-2024.pdf,R.M. Oriente Hospital Militar,4,2,0,0,0,0,0,SE49,2024
+SE49_10-12-2024.pdf,"Santiago, Consultorio Steeger",5,2,0,0,1,0,0,SE49,2024
+SE49_10-12-2024.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE49,2024
+SE49_10-12-2024.pdf,"Santiago, Consultorio 5",4,1,0,0,1,0,0,SE49,2024
+SE49_10-12-2024.pdf,"Santiago, Consultorio Barros Luco",6,1,0,0,0,0,1,SE49,2024
+SE49_10-12-2024.pdf,"Santiago, Consultorio Ariztía",7,6,0,1,0,0,2,SE49,2024
+SE49_10-12-2024.pdf,Otros R.M**,5,5,0,0,0,0,5,SE49,2024
+SE24_18-06-2019.pdf,R.M. Sur Exequiel González C.,83,34,25,0,8,0,0,SE24,2019
+SE24_18-06-2019.pdf,R.M. Occidente Félix Bulnes,135,65,44,1,7,11,1,SE24,2019
+SE24_18-06-2019.pdf,R.M. Occidente San Juan de Dios,200,54,5,0,5,41,3,SE24,2019
+SE24_18-06-2019.pdf,R.M. Suroriente Padre Hurtado,79,39,22,0,5,10,0,SE24,2019
+SE24_18-06-2019.pdf,R.M. Oriente Hospital del Tórax,73,16,0,4,2,8,2,SE24,2019
+SE24_18-06-2019.pdf,R.M. Oriente Hospital Militar,22,6,2,0,2,2,0,SE24,2019
+SE24_18-06-2019.pdf,"Santiago, Consultorio Steeger",7,4,1,0,0,1,2,SE24,2019
+SE24_18-06-2019.pdf,"Santiago, Consultorio Avendaño",8,4,1,0,0,2,1,SE24,2019
+SE24_18-06-2019.pdf,"Santiago, Consultorio Barros Luco",17,6,0,1,1,4,0,SE24,2019
+SE24_18-06-2019.pdf,"Santiago, Consultorio Ariztía",20,10,0,0,0,8,2,SE24,2019
+SE24_18-06-2019.pdf,Otros R.M**,15,15,0,0,0,10,5,SE24,2019
+SE23_11-06-2019.pdf,R.M. Sur Exequiel González C.,79,30,19,1,8,2,0,SE23,2019
+SE23_11-06-2019.pdf,R.M. Occidente Félix Bulnes,129,55,30,2,6,14,2,SE23,2019
+SE23_11-06-2019.pdf,R.M. Occidente San Juan de Dios,372,139,4,3,7,121,4,SE23,2019
+SE23_11-06-2019.pdf,R.M. Suroriente Padre Hurtado,72,22,9,2,6,4,0,SE23,2019
+SE23_11-06-2019.pdf,R.M. Oriente Hospital del Tórax,70,15,2,6,3,4,0,SE23,2019
+SE23_11-06-2019.pdf,R.M. Oriente Hospital Militar,30,9,5,0,0,4,0,SE23,2019
+SE23_11-06-2019.pdf,"Santiago, Consultorio Steeger",19,13,2,0,1,9,1,SE23,2019
+SE23_11-06-2019.pdf,"Santiago, Consultorio Avendaño",20,14,2,1,1,9,1,SE23,2019
+SE23_11-06-2019.pdf,"Santiago, Consultorio 5",1,1,0,0,0,1,0,SE23,2019
+SE23_11-06-2019.pdf,"Santiago, Consultorio Barros Luco",11,4,2,0,0,2,0,SE23,2019
+SE23_11-06-2019.pdf,"Santiago, Consultorio Ariztía",8,3,0,1,2,0,0,SE23,2019
+SE23_11-06-2019.pdf,Otros R.M**,22,22,0,0,0,19,3,SE23,2019
+SE42_20-10-2020.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE42,2020
+SE42_20-10-2020.pdf,R.M. Occidente Félix Bulnes,13,1,0,1,0,0,0,SE42,2020
+SE42_20-10-2020.pdf,R.M. Occidente San Juan de Dios,87,2,0,0,2,0,0,SE42,2020
+SE42_20-10-2020.pdf,R.M. Suroriente Padre Hurtado,4,0,0,0,0,0,0,SE42,2020
+SE42_20-10-2020.pdf,R.M. Oriente Hospital del Tórax,24,2,0,0,0,0,0,SE42,2020
+SE19_17-05-2022.pdf,R.M. Sur Exequiel González C.,42,8,5,0,2,1,0,SE19,2022
+SE19_17-05-2022.pdf,R.M. Occidente Félix Bulnes,82,38,17,3,15,3,0,SE19,2022
+SE19_17-05-2022.pdf,R.M. Occidente San Juan de Dios,67,15,0,1,5,4,0,SE19,2022
+SE19_17-05-2022.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE19,2022
+SE19_17-05-2022.pdf,R.M. Oriente Hospital del Tórax,5,0,0,0,0,0,0,SE19,2022
+SE19_17-05-2022.pdf,R.M. Oriente Hospital Militar,13,5,2,0,0,1,0,SE19,2022
+SE19_17-05-2022.pdf,"Santiago, Consultorio Steeger",10,7,4,1,2,0,0,SE19,2022
+SE19_17-05-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE19,2022
+SE19_17-05-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE19,2022
+SE19_17-05-2022.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE19,2022
+SE19_17-05-2022.pdf,Otros R.M**,3,3,0,0,0,3,0,SE19,2022
+SE31_06-08-2024.pdf,R.M. Sur Exequiel González C.,109,70,33,0,4,0,0,SE31,2024
+SE31_06-08-2024.pdf,R.M. Occidente Félix Bulnes,167,97,37,6,8,0,1,SE31,2024
+SE31_06-08-2024.pdf,R.M. Occidente San Juan de Dios,153,43,19,1,2,0,0,SE31,2024
+SE31_06-08-2024.pdf,R.M. Suroriente Padre Hurtado,198,59,43,4,0,0,0,SE31,2024
+SE31_06-08-2024.pdf,R.M. Oriente Hospital del Tórax,23,9,3,0,0,1,0,SE31,2024
+SE31_06-08-2024.pdf,R.M. Oriente Hospital Militar,18,4,2,0,0,0,0,SE31,2024
+SE31_06-08-2024.pdf,"Santiago, Consultorio Steeger",1,1,0,0,0,0,0,SE31,2024
+SE31_06-08-2024.pdf,"Santiago, Consultorio Avendaño",7,5,2,0,0,0,1,SE31,2024
+SE31_06-08-2024.pdf,"Santiago, Consultorio 5",9,6,5,0,0,0,1,SE31,2024
+SE31_06-08-2024.pdf,"Santiago, Consultorio Barros Luco",6,1,0,0,0,0,0,SE31,2024
+SE31_06-08-2024.pdf,"Santiago, Consultorio Ariztía",16,13,2,0,1,0,0,SE31,2024
+SE31_06-08-2024.pdf,Otros R.M**,1,1,0,0,0,0,1,SE31,2024
+SE38_28-09-2021.pdf,R.M. Sur Exequiel González C.,45,27,22,0,4,0,0,SE38,2021
+SE38_28-09-2021.pdf,R.M. Occidente Félix Bulnes,51,25,19,0,6,0,0,SE38,2021
+SE38_28-09-2021.pdf,R.M. Occidente San Juan de Dios,26,5,3,1,1,0,0,SE38,2021
+SE38_28-09-2021.pdf,R.M. Suroriente Padre Hurtado,50,19,18,1,0,0,0,SE38,2021
+SE38_28-09-2021.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE38,2021
+SE38_28-09-2021.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE38,2021
+SE38_28-09-2021.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE38,2021
+SE06_12-02-2019.pdf,R.M. Sur Exequiel González C.,16,2,0,1,1,0,0,SE06,2019
+SE06_12-02-2019.pdf,R.M. Occidente Félix Bulnes,39,7,4,2,1,0,0,SE06,2019
+SE06_12-02-2019.pdf,R.M. Occidente San Juan de Dios,20,2,0,1,0,0,1,SE06,2019
+SE06_12-02-2019.pdf,R.M. Suroriente Padre Hurtado,16,0,0,0,0,0,0,SE06,2019
+SE06_12-02-2019.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE06,2019
+SE06_12-02-2019.pdf,R.M. Oriente Hospital Militar,7,0,0,0,0,0,0,SE06,2019
+SE06_12-02-2019.pdf,Otros R.M**,3,3,0,0,0,0,3,SE06,2019
+SE37_21-09-2021.pdf,R.M. Sur Exequiel González C.,28,13,12,0,1,0,0,SE37,2021
+SE37_21-09-2021.pdf,R.M. Occidente Félix Bulnes,46,21,17,1,3,0,0,SE37,2021
+SE37_21-09-2021.pdf,R.M. Occidente San Juan de Dios,29,5,4,0,1,0,0,SE37,2021
+SE37_21-09-2021.pdf,R.M. Suroriente Padre Hurtado,40,22,21,1,0,0,0,SE37,2021
+SE37_21-09-2021.pdf,R.M. Oriente Hospital del Tórax,1,0,0,0,0,0,0,SE37,2021
+SE37_21-09-2021.pdf,R.M. Oriente Hospital Militar,13,0,0,0,0,0,0,SE37,2021
+SE37_21-09-2021.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE37,2021
+SE37_21-09-2021.pdf,"Santiago, Consultorio 5",3,0,0,0,0,0,0,SE37,2021
+SE31_06-08-2019.pdf,R.M. Sur Exequiel González C.,92,67,59,0,1,0,4,SE31,2019
+SE31_06-08-2019.pdf,R.M. Occidente Félix Bulnes,137,78,59,5,5,1,5,SE31,2019
+SE31_06-08-2019.pdf,R.M. Occidente San Juan de Dios,170,37,20,2,2,3,10,SE31,2019
+SE31_06-08-2019.pdf,R.M. Suroriente Padre Hurtado,89,44,36,6,1,0,0,SE31,2019
+SE31_06-08-2019.pdf,R.M. Oriente Hospital del Tórax,42,4,2,0,2,0,0,SE31,2019
+SE31_06-08-2019.pdf,R.M. Oriente Hospital Militar,13,4,1,0,1,0,0,SE31,2019
+SE31_06-08-2019.pdf,"Santiago, Consultorio Steeger",1,1,1,0,0,0,0,SE31,2019
+SE31_06-08-2019.pdf,"Santiago, Consultorio Avendaño",8,6,0,0,1,0,5,SE31,2019
+SE31_06-08-2019.pdf,"Santiago, Consultorio Barros Luco",2,2,0,0,0,0,2,SE31,2019
+SE31_06-08-2019.pdf,"Santiago, Consultorio Ariztía",5,1,0,0,0,0,1,SE31,2019
+SE31_06-08-2019.pdf,Otros R.M**,15,15,0,0,0,4,11,SE31,2019
+SE27_12-07-2022.pdf,R.M. Sur Exequiel González C.,64,25,23,0,0,0,0,SE27,2022
+SE27_12-07-2022.pdf,R.M. Occidente Félix Bulnes,150,101,53,4,18,5,0,SE27,2022
+SE27_12-07-2022.pdf,R.M. Occidente San Juan de Dios,89,35,13,1,1,7,0,SE27,2022
+SE27_12-07-2022.pdf,R.M. Suroriente Padre Hurtado,97,25,13,0,1,9,0,SE27,2022
+SE27_12-07-2022.pdf,R.M. Oriente Hospital del Tórax,2,1,1,0,0,0,0,SE27,2022
+SE27_12-07-2022.pdf,R.M. Oriente Hospital Militar,16,11,1,0,0,5,0,SE27,2022
+SE27_12-07-2022.pdf,"Santiago, Consultorio Steeger",11,9,2,1,0,0,0,SE27,2022
+SE27_12-07-2022.pdf,"Santiago, Consultorio Barros Luco",6,0,0,0,0,0,0,SE27,2022
+SE27_12-07-2022.pdf,Otros R.M**,10,10,0,0,0,10,0,SE27,2022
+SE04_01-02-2022.pdf,R.M. Sur Exequiel González C.,18,0,0,0,0,0,0,SE04,2022
+SE04_01-02-2022.pdf,R.M. Occidente Félix Bulnes,41,4,0,1,3,0,0,SE04,2022
+SE04_01-02-2022.pdf,R.M. Occidente San Juan de Dios,47,11,0,0,0,3,0,SE04,2022
+SE04_01-02-2022.pdf,R.M. Suroriente Padre Hurtado,44,10,1,0,0,9,0,SE04,2022
+SE04_01-02-2022.pdf,R.M. Oriente Hospital del Tórax,7,1,0,0,1,0,0,SE04,2022
+SE04_01-02-2022.pdf,R.M. Oriente Hospital Militar,15,10,0,0,0,0,0,SE04,2022
+SE04_01-02-2022.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,1,0,0,SE04,2022
+SE04_01-02-2022.pdf,Otros R.M**,13,13,0,0,0,13,0,SE04,2022
+SE21_31-05-2022.pdf,R.M. Sur Exequiel González C.,64,21,19,0,0,1,0,SE21,2022
+SE21_31-05-2022.pdf,R.M. Occidente Félix Bulnes,103,58,42,1,5,2,0,SE21,2022
+SE21_31-05-2022.pdf,R.M. Occidente San Juan de Dios,67,20,8,0,6,2,0,SE21,2022
+SE21_31-05-2022.pdf,R.M. Suroriente Padre Hurtado,122,37,34,0,0,2,1,SE21,2022
+SE21_31-05-2022.pdf,R.M. Oriente Hospital del Tórax,13,9,3,1,1,3,0,SE21,2022
+SE21_31-05-2022.pdf,R.M. Oriente Hospital Militar,14,9,6,0,0,0,0,SE21,2022
+SE21_31-05-2022.pdf,"Santiago, Consultorio Steeger",4,2,2,0,0,0,0,SE21,2022
+SE21_31-05-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE21,2022
+SE21_31-05-2022.pdf,"Santiago, Consultorio 5",5,0,0,0,0,0,0,SE21,2022
+SE21_31-05-2022.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE21,2022
+SE21_31-05-2022.pdf,Otros R.M**,7,7,0,0,0,7,0,SE21,2022
+SE27_07-07-2020.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE27,2020
+SE27_07-07-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE27,2020
+SE27_07-07-2020.pdf,R.M. Occidente San Juan de Dios,151,0,0,0,0,0,0,SE27,2020
+SE27_07-07-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE27,2020
+SE27_07-07-2020.pdf,R.M. Oriente Hospital del Tórax,34,0,0,0,0,0,0,SE27,2020
+SE27_07-07-2020.pdf,R.M. Oriente Hospital Militar,19,0,0,0,0,0,0,SE27,2020
+SE12_29-03-2022.pdf,R.M. Sur Exequiel González C.,13,0,0,0,0,0,0,SE12,2022
+SE12_29-03-2022.pdf,R.M. Occidente Félix Bulnes,45,4,0,3,1,0,0,SE12,2022
+SE12_29-03-2022.pdf,R.M. Occidente San Juan de Dios,24,1,0,0,0,0,0,SE12,2022
+SE12_29-03-2022.pdf,R.M. Suroriente Padre Hurtado,28,2,2,0,0,0,0,SE12,2022
+SE12_29-03-2022.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE12,2022
+SE12_29-03-2022.pdf,R.M. Oriente Hospital Militar,10,2,0,0,0,0,0,SE12,2022
+SE12_29-03-2022.pdf,Otros R.M**,3,0,0,0,0,0,0,SE12,2022
+SE49_10-12-2019.pdf,R.M. Sur Exequiel González C.*,0,0,0,0,0,0,0,SE49,2019
+SE49_10-12-2019.pdf,R.M. Occidente Félix Bulnes,33,2,0,1,0,0,0,SE49,2019
+SE49_10-12-2019.pdf,R.M. Occidente San Juan de Dios,36,4,0,4,0,0,0,SE49,2019
+SE49_10-12-2019.pdf,R.M. Suroriente Padre Hurtado,7,0,0,0,0,0,0,SE49,2019
+SE49_10-12-2019.pdf,R.M. Oriente Hospital del Tórax,15,2,0,0,1,0,0,SE49,2019
+SE49_10-12-2019.pdf,R.M. Oriente Hospital Militar,0,0,0,0,0,0,0,SE49,2019
+SE49_10-12-2019.pdf,"Santiago, Consultorio Ariztía",3,0,0,0,0,0,0,SE49,2019
+SE49_10-12-2019.pdf,Otros R.M**,1,1,0,0,0,1,0,SE49,2019
+SE35_05-09-2023.pdf,R.M. Sur Exequiel González C.,46,15,0,0,8,0,0,SE35,2023
+SE35_05-09-2023.pdf,R.M. Occidente Félix Bulnes,88,18,1,2,8,0,0,SE35,2023
+SE35_05-09-2023.pdf,R.M. Occidente San Juan de Dios,101,11,0,0,7,0,1,SE35,2023
+SE35_05-09-2023.pdf,R.M. Suroriente Padre Hurtado,96,6,1,2,2,0,1,SE35,2023
+SE35_05-09-2023.pdf,R.M. Oriente Hospital del Tórax,43,2,0,0,2,0,0,SE35,2023
+SE35_05-09-2023.pdf,R.M. Oriente Hospital Militar,6,3,0,0,2,0,0,SE35,2023
+SE35_05-09-2023.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE35,2023
+SE35_05-09-2023.pdf,"Santiago, Consultorio Avendaño",2,0,0,0,0,0,0,SE35,2023
+SE35_05-09-2023.pdf,"Santiago, Consultorio 5",9,5,0,0,0,0,1,SE35,2023
+SE35_05-09-2023.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE35,2023
+SE35_05-09-2023.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,0,0,1,SE35,2023
+SE35_05-09-2023.pdf,Otros R.M**,3,3,0,0,0,0,3,SE35,2023
+SE24_18-06-2024.pdf,R.M. Sur Exequiel González C.,100,64,30,5,4,8,0,SE24,2024
+SE24_18-06-2024.pdf,R.M. Occidente Félix Bulnes,166,89,27,4,7,19,0,SE24,2024
+SE24_18-06-2024.pdf,R.M. Occidente San Juan de Dios,140,38,7,1,2,13,0,SE24,2024
+SE24_18-06-2024.pdf,R.M. Suroriente Padre Hurtado,232,46,20,3,0,19,1,SE24,2024
+SE24_18-06-2024.pdf,R.M. Oriente Hospital del Tórax,8,2,0,0,1,0,0,SE24,2024
+SE24_18-06-2024.pdf,R.M. Oriente Hospital Militar,4,1,0,0,0,1,0,SE24,2024
+SE24_18-06-2024.pdf,"Santiago, Consultorio Steeger",7,4,1,0,1,0,0,SE24,2024
+SE24_18-06-2024.pdf,"Santiago, Consultorio Avendaño",4,2,1,0,0,1,0,SE24,2024
+SE24_18-06-2024.pdf,"Santiago, Consultorio 5",4,4,2,0,1,1,0,SE24,2024
+SE24_18-06-2024.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE24,2024
+SE24_18-06-2024.pdf,"Santiago, Consultorio Ariztía",4,1,0,0,0,1,0,SE24,2024
+SE24_18-06-2024.pdf,Otros R.M**,5,5,0,0,0,5,0,SE24,2024
+SE23_11-06-2024.pdf,R.M. Sur Exequiel González C.,80,56,17,2,4,16,0,SE23,2024
+SE23_11-06-2024.pdf,R.M. Occidente Félix Bulnes,192,92,22,5,4,36,0,SE23,2024
+SE23_11-06-2024.pdf,R.M. Occidente San Juan de Dios,203,57,2,3,3,35,0,SE23,2024
+SE23_11-06-2024.pdf,R.M. Suroriente Padre Hurtado,264,70,12,4,1,48,0,SE23,2024
+SE23_11-06-2024.pdf,R.M. Oriente Hospital del Tórax,7,3,0,0,2,1,0,SE23,2024
+SE23_11-06-2024.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE23,2024
+SE23_11-06-2024.pdf,"Santiago, Consultorio Steeger",10,4,0,0,1,2,0,SE23,2024
+SE23_11-06-2024.pdf,"Santiago, Consultorio Avendaño",10,9,2,0,1,3,0,SE23,2024
+SE23_11-06-2024.pdf,"Santiago, Consultorio 5",4,0,0,0,0,0,0,SE23,2024
+SE23_11-06-2024.pdf,"Santiago, Consultorio Barros Luco",5,2,0,0,0,2,0,SE23,2024
+SE23_11-06-2024.pdf,"Santiago, Consultorio Ariztía",14,12,0,0,1,6,0,SE23,2024
+SE23_11-06-2024.pdf,Otros R.M**,10,10,0,0,0,10,0,SE23,2024
+SE02_19-01-2020.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE02,2020
+SE02_19-01-2020.pdf,R.M. Occidente Félix Bulnes,9,0,0,0,0,0,0,SE02,2020
+SE02_19-01-2020.pdf,R.M. Occidente San Juan de Dios,35,0,0,0,0,0,0,SE02,2020
+SE02_19-01-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE02,2020
+SE02_19-01-2020.pdf,R.M. Oriente Hospital del Tórax,13,0,0,0,0,0,0,SE02,2020
+SE48_05-12-2023.pdf,R.M. Sur Exequiel González C.,25,0,0,0,0,0,0,SE48,2023
+SE48_05-12-2023.pdf,R.M. Occidente Félix Bulnes,98,15,0,1,7,0,1,SE48,2023
+SE48_05-12-2023.pdf,R.M. Occidente San Juan de Dios,106,14,0,0,3,2,0,SE48,2023
+SE48_05-12-2023.pdf,R.M. Suroriente Padre Hurtado,61,3,0,1,1,1,0,SE48,2023
+SE48_05-12-2023.pdf,R.M. Oriente Hospital del Tórax,44,2,0,0,2,0,0,SE48,2023
+SE48_05-12-2023.pdf,R.M. Oriente Hospital Militar,9,3,0,0,2,0,0,SE48,2023
+SE48_05-12-2023.pdf,"Santiago, Consultorio Steeger",5,1,0,0,1,0,0,SE48,2023
+SE48_05-12-2023.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE48,2023
+SE48_05-12-2023.pdf,"Santiago, Consultorio 5",10,5,0,0,1,0,2,SE48,2023
+SE48_05-12-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE48,2023
+SE48_05-12-2023.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE48,2023
+SE48_05-12-2023.pdf,Otros R.M**,4,4,0,0,0,2,2,SE48,2023
+SE26_30-06-2020.pdf,R.M. Sur Exequiel González C.,6,0,0,0,0,0,0,SE26,2020
+SE26_30-06-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE26,2020
+SE26_30-06-2020.pdf,R.M. Occidente San Juan de Dios,113,0,0,0,0,0,0,SE26,2020
+SE26_30-06-2020.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE26,2020
+SE26_30-06-2020.pdf,R.M. Oriente Hospital del Tórax,53,0,0,0,0,0,0,SE26,2020
+SE26_30-06-2020.pdf,R.M. Oriente Hospital Militar,29,1,0,0,1,0,0,SE26,2020
+SE40_08-10-2019.pdf,R.M. Sur Exequiel González C.,44,11,1,0,2,0,1,SE40,2019
+SE40_08-10-2019.pdf,R.M. Occidente Félix Bulnes,51,17,2,1,4,0,3,SE40,2019
+SE40_08-10-2019.pdf,R.M. Occidente San Juan de Dios,68,19,0,2,0,0,14,SE40,2019
+SE40_08-10-2019.pdf,R.M. Suroriente Padre Hurtado,43,8,2,0,3,0,0,SE40,2019
+SE40_08-10-2019.pdf,R.M. Oriente Hospital del Tórax,15,3,0,0,0,0,1,SE40,2019
+SE40_08-10-2019.pdf,R.M. Oriente Hospital Militar,9,3,0,0,0,0,1,SE40,2019
+SE40_08-10-2019.pdf,"Santiago, Consultorio Ariztía",3,0,0,0,0,0,0,SE40,2019
+SE40_08-10-2019.pdf,Otros R.M**,11,11,0,0,0,2,9,SE40,2019
+SE28_17-07-2019.pdf,R.M. Sur Exequiel González C.,139,102,96,1,2,0,3,SE28,2019
+SE28_17-07-2019.pdf,R.M. Occidente Félix Bulnes,221,149,127,2,4,7,6,SE28,2019
+SE28_17-07-2019.pdf,R.M. Occidente San Juan de Dios,221,71,14,0,3,32,22,SE28,2019
+SE28_17-07-2019.pdf,R.M. Suroriente Padre Hurtado,156,76,61,7,2,3,3,SE28,2019
+SE28_17-07-2019.pdf,R.M. Oriente Hospital del Tórax,48,8,3,0,0,5,0,SE28,2019
+SE28_17-07-2019.pdf,R.M. Oriente Hospital Militar,26,10,5,0,0,3,1,SE28,2019
+SE28_17-07-2019.pdf,"Santiago, Consultorio Steeger",2,2,0,0,0,2,0,SE28,2019
+SE28_17-07-2019.pdf,"Santiago, Consultorio Avendaño",8,3,1,0,0,1,1,SE28,2019
+SE28_17-07-2019.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE28,2019
+SE28_17-07-2019.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE28,2019
+SE28_17-07-2019.pdf,"Santiago, Consultorio Ariztía",14,4,0,1,1,2,0,SE28,2019
+SE28_17-07-2019.pdf,Otros R.M**,18,18,0,0,0,11,7,SE28,2019
+SE39_04-10-2022.pdf,R.M. Sur Exequiel González C.,24,2,0,0,2,0,0,SE39,2022
+SE39_04-10-2022.pdf,R.M. Occidente Félix Bulnes,76,14,0,3,8,3,0,SE39,2022
+SE39_04-10-2022.pdf,R.M. Occidente San Juan de Dios,64,12,1,0,2,4,0,SE39,2022
+SE39_04-10-2022.pdf,R.M. Suroriente Padre Hurtado,59,4,0,0,0,3,0,SE39,2022
+SE39_04-10-2022.pdf,R.M. Oriente Hospital del Tórax,10,0,0,0,0,0,0,SE39,2022
+SE39_04-10-2022.pdf,R.M. Oriente Hospital Militar,11,3,0,0,0,0,0,SE39,2022
+SE39_04-10-2022.pdf,"Santiago, Consultorio Steeger",6,1,0,0,1,0,0,SE39,2022
+SE39_04-10-2022.pdf,"Santiago, Consultorio Avendaño",2,0,0,0,0,0,0,SE39,2022
+SE39_04-10-2022.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE39,2022
+SE39_04-10-2022.pdf,"Santiago, Consultorio Ariztía",3,2,0,0,1,0,0,SE39,2022
+SE39_04-10-2022.pdf,Otros R.M**,12,12,0,0,0,12,0,SE39,2022
+SE28_20-07-2021.pdf,R.M. Sur Exequiel González C.,17,3,3,0,0,0,0,SE28,2021
+SE28_20-07-2021.pdf,R.M. Occidente Félix Bulnes,23,4,4,0,0,0,0,SE28,2021
+SE28_20-07-2021.pdf,R.M. Occidente San Juan de Dios,19,0,0,0,0,0,0,SE28,2021
+SE28_20-07-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE28,2021
+SE28_20-07-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE28,2021
+SE28_20-07-2021.pdf,R.M. Oriente Hospital Militar,5,1,0,1,0,0,0,SE28,2021
+SE28_20-07-2021.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE28,2021
+SE45_15-11-2022.pdf,R.M. Sur Exequiel González C.,17,3,0,0,1,1,0,SE45,2022
+SE45_15-11-2022.pdf,R.M. Occidente Félix Bulnes,106,23,0,3,2,17,0,SE45,2022
+SE45_15-11-2022.pdf,R.M. Occidente San Juan de Dios,62,18,0,0,0,9,1,SE45,2022
+SE45_15-11-2022.pdf,R.M. Suroriente Padre Hurtado,119,20,0,0,0,18,0,SE45,2022
+SE45_15-11-2022.pdf,R.M. Oriente Hospital del Tórax,15,0,0,0,0,0,0,SE45,2022
+SE45_15-11-2022.pdf,R.M. Oriente Hospital Militar,8,7,0,0,0,2,0,SE45,2022
+SE45_15-11-2022.pdf,"Santiago, Consultorio Steeger",6,2,0,1,1,0,0,SE45,2022
+SE45_15-11-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE45,2022
+SE45_15-11-2022.pdf,"Santiago, Consultorio Barros Luco",6,1,0,0,0,1,0,SE45,2022
+SE45_15-11-2022.pdf,"Santiago, Consultorio Ariztía",5,3,0,0,1,2,0,SE45,2022
+SE45_15-11-2022.pdf,Otros R.M**,17,17,0,0,0,13,4,SE45,2022
+SE14_13-04-2021.pdf,R.M. Sur Exequiel González C.,9,0,0,0,0,0,0,SE14,2021
+SE14_13-04-2021.pdf,R.M. Occidente Félix Bulnes,23,1,1,0,0,0,0,SE14,2021
+SE14_13-04-2021.pdf,R.M. Occidente San Juan de Dios,35,0,0,0,0,0,0,SE14,2021
+SE14_13-04-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE14,2021
+SE14_13-04-2021.pdf,R.M. Oriente Hospital del Tórax,13,0,0,0,0,0,0,SE14,2021
+SE14_13-04-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE14,2021
+SE14_13-04-2021.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE14,2021
+SE42_22-10-2019.pdf,R.M. Sur Exequiel González C.,43,6,0,1,0,0,1,SE42,2019
+SE42_22-10-2019.pdf,R.M. Occidente Félix Bulnes,45,7,0,1,0,0,1,SE42,2019
+SE42_22-10-2019.pdf,R.M. Occidente San Juan de Dios,115,18,1,3,0,4,7,SE42,2019
+SE42_22-10-2019.pdf,R.M. Suroriente Padre Hurtado,37,3,0,2,0,0,0,SE42,2019
+SE42_22-10-2019.pdf,R.M. Oriente Hospital del Tórax,17,1,0,0,0,0,1,SE42,2019
+SE42_22-10-2019.pdf,R.M. Oriente Hospital Militar,6,3,0,0,1,0,0,SE42,2019
+SE42_22-10-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE42,2019
+SE42_22-10-2019.pdf,Otros R.M**,8,8,0,0,0,2,6,SE42,2019
+SE39_03-10-2023.pdf,R.M. Sur Exequiel González C.,44,6,1,0,2,0,0,SE39,2023
+SE39_03-10-2023.pdf,R.M. Occidente Félix Bulnes,117,33,0,1,23,1,1,SE39,2023
+SE39_03-10-2023.pdf,R.M. Occidente San Juan de Dios,120,22,0,2,12,0,1,SE39,2023
+SE39_03-10-2023.pdf,R.M. Suroriente Padre Hurtado,120,10,0,7,2,0,0,SE39,2023
+SE39_03-10-2023.pdf,R.M. Oriente Hospital del Tórax,43,7,0,0,6,0,0,SE39,2023
+SE39_03-10-2023.pdf,R.M. Oriente Hospital Militar,7,4,0,0,3,0,0,SE39,2023
+SE39_03-10-2023.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE39,2023
+SE39_03-10-2023.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE39,2023
+SE39_03-10-2023.pdf,"Santiago, Consultorio 5",15,7,0,1,5,0,0,SE39,2023
+SE39_03-10-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE39,2023
+SE39_03-10-2023.pdf,"Santiago, Consultorio Ariztía",5,1,0,0,1,0,0,SE39,2023
+SE39_03-10-2023.pdf,Otros R.M**,1,1,0,0,0,0,1,SE39,2023
+SE34_29-08-2023.pdf,R.M. Sur Exequiel González C.,45,13,1,0,6,0,1,SE34,2023
+SE34_29-08-2023.pdf,R.M. Occidente Félix Bulnes,94,28,3,3,14,0,0,SE34,2023
+SE34_29-08-2023.pdf,R.M. Occidente San Juan de Dios,114,7,1,0,4,0,0,SE34,2023
+SE34_29-08-2023.pdf,R.M. Suroriente Padre Hurtado,119,5,1,0,1,0,3,SE34,2023
+SE34_29-08-2023.pdf,R.M. Oriente Hospital del Tórax,42,5,0,0,2,0,1,SE34,2023
+SE34_29-08-2023.pdf,R.M. Oriente Hospital Militar,2,1,0,0,0,0,0,SE34,2023
+SE34_29-08-2023.pdf,"Santiago, Consultorio Steeger",2,0,0,0,0,0,0,SE34,2023
+SE34_29-08-2023.pdf,"Santiago, Consultorio Avendaño",4,1,0,0,0,0,1,SE34,2023
+SE34_29-08-2023.pdf,"Santiago, Consultorio 5",9,1,0,0,0,0,0,SE34,2023
+SE34_29-08-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE34,2023
+SE34_29-08-2023.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE34,2023
+SE34_29-08-2023.pdf,Otros R.M**,3,3,0,0,0,0,3,SE34,2023
+SE01_11-01-2022.pdf,R.M. Sur Exequiel González C.,14,4,1,2,1,0,0,SE01,2022
+SE01_11-01-2022.pdf,R.M. Occidente Félix Bulnes,37,11,1,1,1,8,0,SE01,2022
+SE01_11-01-2022.pdf,R.M. Occidente San Juan de Dios,48,18,0,2,2,10,0,SE01,2022
+SE01_11-01-2022.pdf,R.M. Suroriente Padre Hurtado,44,8,0,0,0,8,0,SE01,2022
+SE01_11-01-2022.pdf,R.M. Oriente Hospital del Tórax,4,3,0,0,0,3,0,SE01,2022
+SE01_11-01-2022.pdf,R.M. Oriente Hospital Militar,7,5,0,0,0,2,0,SE01,2022
+SE01_11-01-2022.pdf,"Santiago, Consultorio Avendaño",4,2,0,0,0,2,0,SE01,2022
+SE01_11-01-2022.pdf,Otros R.M**,12,12,0,0,0,12,0,SE01,2022
+SE18_09-05-2023.pdf,R.M. Sur Exequiel González C.,24,4,3,0,1,0,0,SE18,2023
+SE18_09-05-2023.pdf,R.M. Occidente Félix Bulnes,99,37,12,7,3,14,1,SE18,2023
+SE18_09-05-2023.pdf,R.M. Occidente San Juan de Dios,135,39,1,0,2,29,4,SE18,2023
+SE18_09-05-2023.pdf,R.M. Suroriente Padre Hurtado,160,50,1,8,0,38,3,SE18,2023
+SE18_09-05-2023.pdf,R.M. Oriente Hospital del Tórax,61,18,1,0,4,13,0,SE18,2023
+SE18_09-05-2023.pdf,R.M. Oriente Hospital Militar,7,5,1,0,1,2,0,SE18,2023
+SE18_09-05-2023.pdf,"Santiago, Consultorio Steeger",2,1,0,0,0,1,0,SE18,2023
+SE18_09-05-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE18,2023
+SE18_09-05-2023.pdf,"Santiago, Consultorio Ariztía",2,2,0,1,0,1,0,SE18,2023
+SE18_09-05-2023.pdf,Otros R.M**,13,13,0,0,0,11,2,SE18,2023
+SE10_16-03-2021.pdf,R.M. Sur Exequiel González C.,15,0,0,0,0,0,0,SE10,2021
+SE10_16-03-2021.pdf,R.M. Occidente Félix Bulnes,14,0,0,0,0,0,0,SE10,2021
+SE10_16-03-2021.pdf,R.M. Occidente San Juan de Dios,41,0,0,0,0,0,0,SE10,2021
+SE10_16-03-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE10,2021
+SE10_16-03-2021.pdf,R.M. Oriente Hospital del Tórax,9,0,0,0,0,0,0,SE10,2021
+SE10_16-03-2021.pdf,R.M. Oriente Hospital Militar,12,0,0,0,0,0,0,SE10,2021
+SE41_13-10-2020.pdf,R.M. Sur Exequiel González C.,9,0,0,0,0,0,0,SE41,2020
+SE41_13-10-2020.pdf,R.M. Occidente Félix Bulnes,10,0,0,0,0,0,0,SE41,2020
+SE41_13-10-2020.pdf,R.M. Occidente San Juan de Dios,193,1,0,0,1,0,0,SE41,2020
+SE41_13-10-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE41,2020
+SE41_13-10-2020.pdf,R.M. Oriente Hospital del Tórax,38,6,0,0,0,0,0,SE41,2020
+SE38_26-09-2023.pdf,R.M. Sur Exequiel González C.,28,3,0,0,3,0,0,SE38,2023
+SE38_26-09-2023.pdf,R.M. Occidente Félix Bulnes,68,24,2,4,12,0,1,SE38,2023
+SE38_26-09-2023.pdf,R.M. Occidente San Juan de Dios,95,22,0,1,11,0,2,SE38,2023
+SE38_26-09-2023.pdf,R.M. Suroriente Padre Hurtado,128,2,0,1,1,0,0,SE38,2023
+SE38_26-09-2023.pdf,R.M. Oriente Hospital del Tórax,33,3,0,0,3,0,0,SE38,2023
+SE38_26-09-2023.pdf,R.M. Oriente Hospital Militar,5,3,0,0,2,0,0,SE38,2023
+SE38_26-09-2023.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE38,2023
+SE38_26-09-2023.pdf,"Santiago, Consultorio Avendaño",2,0,0,0,0,0,0,SE38,2023
+SE38_26-09-2023.pdf,"Santiago, Consultorio 5",6,3,1,0,1,0,0,SE38,2023
+SE38_26-09-2023.pdf,"Santiago, Consultorio Ariztía",3,1,0,0,1,0,0,SE38,2023
+SE38_26-09-2023.pdf,Otros R.M**,3,3,0,0,0,0,3,SE38,2023
+SE32_17-08-2022.pdf,R.M. Sur Exequiel González C.,42,12,5,0,1,2,0,SE32,2022
+SE32_17-08-2022.pdf,R.M. Occidente Félix Bulnes,96,27,8,0,2,6,0,SE32,2022
+SE32_17-08-2022.pdf,R.M. Occidente San Juan de Dios,74,20,2,1,2,8,0,SE32,2022
+SE32_17-08-2022.pdf,R.M. Suroriente Padre Hurtado,199,20,4,1,0,14,0,SE32,2022
+SE32_17-08-2022.pdf,R.M. Oriente Hospital del Tórax,23,7,2,0,0,4,0,SE32,2022
+SE32_17-08-2022.pdf,"Santiago, Consultorio Steeger",10,4,1,0,0,0,0,SE32,2022
+SE32_17-08-2022.pdf,"Santiago, Consultorio Avendaño",9,6,0,0,0,5,0,SE32,2022
+SE32_17-08-2022.pdf,"Santiago, Consultorio 5",3,1,1,0,0,0,0,SE32,2022
+SE32_17-08-2022.pdf,"Santiago, Consultorio Barros Luco",5,0,0,0,0,0,0,SE32,2022
+SE32_17-08-2022.pdf,"Santiago, Consultorio Ariztía",9,6,0,1,0,4,0,SE32,2022
+SE32_17-08-2022.pdf,Otros R.M**,5,5,0,0,0,5,0,SE32,2022
+SE42_22-10-2024.pdf,R.M. Sur Exequiel González C.,91,48,0,2,9,0,5,SE42,2024
+SE42_22-10-2024.pdf,R.M. Occidente Félix Bulnes,116,58,0,3,12,0,4,SE42,2024
+SE42_22-10-2024.pdf,R.M. Occidente San Juan de Dios,89,26,0,1,3,0,2,SE42,2024
+SE42_22-10-2024.pdf,R.M. Suroriente Padre Hurtado,112,22,0,2,0,0,5,SE42,2024
+SE42_22-10-2024.pdf,R.M. Oriente Hospital del Tórax,14,2,0,0,0,0,0,SE42,2024
+SE42_22-10-2024.pdf,R.M. Oriente Hospital Militar,10,4,0,0,0,0,0,SE42,2024
+SE42_22-10-2024.pdf,"Santiago, Consultorio Avendaño",4,3,0,0,1,0,0,SE42,2024
+SE42_22-10-2024.pdf,"Santiago, Consultorio 5",5,3,0,0,1,0,1,SE42,2024
+SE42_22-10-2024.pdf,"Santiago, Consultorio Barros Luco",9,1,0,0,0,0,1,SE42,2024
+SE42_22-10-2024.pdf,"Santiago, Consultorio Ariztía",3,2,0,0,0,0,0,SE42,2024
+SE42_22-10-2024.pdf,Otros R.M**,2,2,0,0,0,0,2,SE42,2024
+SE13_06-04-2021.pdf,R.M. Sur Exequiel González C.,14,0,0,0,0,0,0,SE13,2021
+SE13_06-04-2021.pdf,R.M. Occidente Félix Bulnes,16,1,0,1,0,0,0,SE13,2021
+SE13_06-04-2021.pdf,R.M. Occidente San Juan de Dios,55,0,0,0,0,0,0,SE13,2021
+SE13_06-04-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE13,2021
+SE13_06-04-2021.pdf,R.M. Oriente Hospital del Tórax,18,0,0,0,0,0,0,SE13,2021
+SE13_06-04-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE13,2021
+SE02_17-01-2023.pdf,R.M. Sur Exequiel González C.,11,0,0,0,0,0,0,SE02,2023
+SE02_17-01-2023.pdf,R.M. Occidente Félix Bulnes,40,7,0,4,2,1,0,SE02,2023
+SE02_17-01-2023.pdf,R.M. Occidente San Juan de Dios,52,4,0,0,0,1,0,SE02,2023
+SE02_17-01-2023.pdf,R.M. Suroriente Padre Hurtado,86,5,0,5,0,0,0,SE02,2023
+SE02_17-01-2023.pdf,R.M. Oriente Hospital del Tórax,19,1,0,0,1,0,0,SE02,2023
+SE02_17-01-2023.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE02,2023
+SE02_17-01-2023.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE02,2023
+SE02_17-01-2023.pdf,Otros R.M**,3,3,0,0,0,2,1,SE02,2023
+SE31_04-08-2020.pdf,R.M. Sur Exequiel González C.,8,0,0,0,0,0,0,SE31,2020
+SE31_04-08-2020.pdf,R.M. Occidente Félix Bulnes,6,0,0,0,0,0,0,SE31,2020
+SE31_04-08-2020.pdf,R.M. Occidente San Juan de Dios,173,0,0,0,0,0,0,SE31,2020
+SE31_04-08-2020.pdf,R.M. Suroriente Padre Hurtado,8,0,0,0,0,0,0,SE31,2020
+SE31_04-08-2020.pdf,R.M. Oriente Hospital del Tórax,28,1,0,0,0,0,0,SE31,2020
+SE31_04-08-2020.pdf,R.M. Oriente Hospital Militar,8,0,0,0,0,0,0,SE31,2020
+SE12_29-10-2020.pdf,R.M. Sur Exequiel González C.,27,0,0,0,0,0,0,SE12,2020
+SE12_29-10-2020.pdf,R.M. Occidente Félix Bulnes,70,5,0,0,4,1,0,SE12,2020
+SE12_29-10-2020.pdf,R.M. Occidente San Juan de Dios,73,2,0,0,2,0,0,SE12,2020
+SE12_29-10-2020.pdf,R.M. Suroriente Padre Hurtado,27,0,0,0,0,0,0,SE12,2020
+SE12_29-10-2020.pdf,R.M. Oriente Hospital del Tórax,53,3,0,0,1,1,1,SE12,2020
+SE12_29-10-2020.pdf,R.M. Oriente Hospital Militar,10,0,0,0,0,0,0,SE12,2020
+SE12_29-10-2020.pdf,Otros R.M**,2,2,0,0,0,1,1,SE12,2020
+SE11_21-03-2023.pdf,R.M. Sur Exequiel González C.,35,1,0,1,0,0,0,SE11,2023
+SE11_21-03-2023.pdf,R.M. Occidente Félix Bulnes,76,6,0,0,0,0,1,SE11,2023
+SE11_21-03-2023.pdf,R.M. Occidente San Juan de Dios,62,11,0,3,0,0,4,SE11,2023
+SE11_21-03-2023.pdf,R.M. Suroriente Padre Hurtado,81,9,0,4,0,1,4,SE11,2023
+SE11_21-03-2023.pdf,R.M. Oriente Hospital del Tórax,17,1,0,0,1,0,0,SE11,2023
+SE11_21-03-2023.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE11,2023
+SE11_21-03-2023.pdf,"Santiago, Consultorio Steeger",2,0,0,0,0,0,0,SE11,2023
+SE11_21-03-2023.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE11,2023
+SE11_21-03-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE11,2023
+SE11_21-03-2023.pdf,"Santiago, Consultorio Ariztía",2,1,0,1,0,0,0,SE11,2023
+SE11_21-03-2023.pdf,Otros R.M**,10,10,0,0,0,7,3,SE11,2023
+SE23_13-06-2023.pdf,R.M. Sur Exequiel González C.,159,93,88,1,2,0,0,SE23,2023
+SE23_13-06-2023.pdf,R.M. Occidente Félix Bulnes,295,227,155,5,12,16,5,SE23,2023
+SE23_13-06-2023.pdf,R.M. Occidente San Juan de Dios,167,39,17,1,0,12,1,SE23,2023
+SE23_13-06-2023.pdf,R.M. Suroriente Padre Hurtado,218,79,63,9,0,2,0,SE23,2023
+SE23_13-06-2023.pdf,R.M. Oriente Hospital del Tórax,67,12,4,0,1,3,0,SE23,2023
+SE23_13-06-2023.pdf,R.M. Oriente Hospital Militar,32,26,17,0,2,3,0,SE23,2023
+SE23_13-06-2023.pdf,"Santiago, Consultorio Steeger",10,4,2,0,0,0,1,SE23,2023
+SE23_13-06-2023.pdf,"Santiago, Consultorio Avendaño",2,2,2,0,0,0,0,SE23,2023
+SE23_13-06-2023.pdf,"Santiago, Consultorio Barros Luco",4,0,0,0,0,0,0,SE23,2023
+SE23_13-06-2023.pdf,"Santiago, Consultorio Ariztía",8,2,0,0,0,0,1,SE23,2023
+SE23_13-06-2023.pdf,Otros R.M**,9,9,0,0,0,8,1,SE23,2023
+SE30_01-08-2023.pdf,R.M. Sur Exequiel Gonzalez C.,43,12,4,1,1,0,0,SE30,2023
+SE30_01-08-2023.pdf,R.M. Occidente Félix Bulnes,99,39,7,1,9,2,1,SE30,2023
+SE30_01-08-2023.pdf,R.M. Occidente San Juan de Dios,120,27,7,2,5,4,2,SE30,2023
+SE30_01-08-2023.pdf,R.M. Suroriente Padre Hurtado,141,15,8,1,0,1,1,SE30,2023
+SE30_01-08-2023.pdf,R.M. Oriente Hospital del Torax,47,12,6,0,0,0,0,SE30,2023
+SE30_01-08-2023.pdf,R.M. Oriente Hospital Militar,2,1,1,0,0,0,0,SE30,2023
+SE30_01-08-2023.pdf,"Santiago, Consultorio Steeger",3,1,0,0,1,0,0,SE30,2023
+SE30_01-08-2023.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,0,0,SE30,2023
+SE30_01-08-2023.pdf,"Santiago, Consultorio 5",9,2,0,0,2,0,0,SE30,2023
+SE30_01-08-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE30,2023
+SE30_01-08-2023.pdf,"Santiago, Consultorio Ariztía",3,2,0,1,1,0,0,SE30,2023
+SE30_01-08-2023.pdf,Otros R.M**,3,3,0,0,0,0,3,SE30,2023
+SE26_05-07-2022.pdf,R.M. Sur Exequiel González C.,78,37,25,0,3,0,0,SE26,2022
+SE26_05-07-2022.pdf,R.M. Occidente Félix Bulnes,141,90,50,3,3,6,0,SE26,2022
+SE26_05-07-2022.pdf,R.M. Occidente San Juan de Dios,94,39,20,3,1,7,0,SE26,2022
+SE26_05-07-2022.pdf,R.M. Suroriente Padre Hurtado,107,32,13,0,0,10,0,SE26,2022
+SE26_05-07-2022.pdf,R.M. Oriente Hospital del Tórax,21,9,6,0,1,0,0,SE26,2022
+SE26_05-07-2022.pdf,R.M. Oriente Hospital Militar,19,9,6,0,0,1,0,SE26,2022
+SE26_05-07-2022.pdf,"Santiago, Consultorio Steeger",8,6,2,1,1,1,0,SE26,2022
+SE26_05-07-2022.pdf,"Santiago, Consultorio Avendaño",5,3,0,1,1,1,0,SE26,2022
+SE26_05-07-2022.pdf,"Santiago, Consultorio 5",5,0,0,0,0,0,0,SE26,2022
+SE26_05-07-2022.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,0,0,0,SE26,2022
+SE26_05-07-2022.pdf,Otros R.M**,12,12,0,0,0,12,0,SE26,2022
+SE07_19-02-2019.pdf,R.M. Sur Exequiel González C.,14,0,0,0,0,0,0,SE07,2019
+SE07_19-02-2019.pdf,R.M. Occidente Félix Bulnes,20,2,1,1,0,0,0,SE07,2019
+SE07_19-02-2019.pdf,R.M. Occidente San Juan de Dios,24,2,0,0,2,0,0,SE07,2019
+SE07_19-02-2019.pdf,R.M. Suroriente Padre Hurtado,9,2,0,0,2,0,0,SE07,2019
+SE07_19-02-2019.pdf,R.M. Oriente Hospital del Tórax,4,1,0,0,1,0,0,SE07,2019
+SE07_19-02-2019.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE07,2019
+SE32_17-08-2021.pdf,R.M. Sur Exequiel González C.,24,7,7,0,0,0,0,SE32,2021
+SE32_17-08-2021.pdf,R.M. Occidente Félix Bulnes,37,20,19,1,0,0,0,SE32,2021
+SE32_17-08-2021.pdf,R.M. Occidente San Juan de Dios,26,2,2,0,0,0,0,SE32,2021
+SE32_17-08-2021.pdf,R.M. Suroriente Padre Hurtado,18,8,8,0,0,0,0,SE32,2021
+SE32_17-08-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE32,2021
+SE32_17-08-2021.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE32,2021
+SE49_12-12-2023.pdf,R.M. Sur Exequiel González C.,29,0,0,0,0,0,0,SE49,2023
+SE49_12-12-2023.pdf,R.M. Occidente Félix Bulnes,105,15,0,2,4,0,1,SE49,2023
+SE49_12-12-2023.pdf,R.M. Occidente San Juan de Dios,116,11,0,0,5,1,0,SE49,2023
+SE49_12-12-2023.pdf,R.M. Suroriente Padre Hurtado,59,3,0,2,0,0,1,SE49,2023
+SE49_12-12-2023.pdf,R.M. Oriente Hospital del Tórax,27,1,0,0,1,0,0,SE49,2023
+SE49_12-12-2023.pdf,R.M. Oriente Hospital Militar,1,1,0,0,0,0,0,SE49,2023
+SE49_12-12-2023.pdf,"Santiago, Consultorio Steeger",1,1,0,1,0,0,0,SE49,2023
+SE49_12-12-2023.pdf,"Santiago, Consultorio 5",1,1,0,0,1,0,0,SE49,2023
+SE49_12-12-2023.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,1,0,0,SE49,2023
+SE49_12-12-2023.pdf,Otros R.M**,1,1,0,0,0,1,0,SE49,2023
+SE47_24-11-2020.pdf,R.M. Sur Exequiel González C.,11,0,0,0,0,0,0,SE47,2020
+SE47_24-11-2020.pdf,R.M. Occidente Félix Bulnes,12,0,0,0,0,0,0,SE47,2020
+SE47_24-11-2020.pdf,R.M. Occidente San Juan de Dios,38,0,0,0,0,0,0,SE47,2020
+SE47_24-11-2020.pdf,R.M. Suroriente Padre Hurtado,4,0,0,0,0,0,0,SE47,2020
+SE47_24-11-2020.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE47,2020
+SE47_24-11-2020.pdf,R.M. Oriente Hospital Militar,0,0,0,0,0,0,0,SE47,2020
+SE04_30-01-2024.pdf,R.M. Sur Exequiel González C.,8,0,0,0,0,0,0,SE04,2024
+SE04_30-01-2024.pdf,R.M. Occidente Félix Bulnes,58,19,0,5,0,0,0,SE04,2024
+SE04_30-01-2024.pdf,R.M. Occidente San Juan de Dios,62,12,1,0,3,1,0,SE04,2024
+SE04_30-01-2024.pdf,R.M. Suroriente Padre Hurtado,69,8,0,0,1,0,0,SE04,2024
+SE04_30-01-2024.pdf,R.M. Oriente Hospital del Tórax,12,5,0,0,0,0,0,SE04,2024
+SE04_30-01-2024.pdf,R.M. Oriente Hospital Militar,0,0,0,0,0,0,0,SE04,2024
+SE01_08-01-2018.pdf,R.M. Sur Exequiel González C.,13,0,0,0,0,0,0,SE01,2018
+SE01_08-01-2018.pdf,R.M. Occidente Félix Bulnes,35,2,0,1,1,0,0,SE01,2018
+SE01_08-01-2018.pdf,R.M. Occidente San Juan de Dios,13,0,0,0,0,0,0,SE01,2018
+SE01_08-01-2018.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE01,2018
+SE01_08-01-2018.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE01,2018
+SE01_08-01-2018.pdf,R.M. Oriente Hospital Militar,2,0,0,0,0,0,0,SE01,2018
+SE35_07-09-2021.pdf,R.M. Sur Exequiel González C.,39,19,19,0,0,0,0,SE35,2021
+SE35_07-09-2021.pdf,R.M. Occidente Félix Bulnes,30,15,14,0,0,0,0,SE35,2021
+SE35_07-09-2021.pdf,R.M. Occidente San Juan de Dios,34,4,2,0,2,0,0,SE35,2021
+SE35_07-09-2021.pdf,R.M. Suroriente Padre Hurtado,41,22,20,2,0,0,0,SE35,2021
+SE35_07-09-2021.pdf,R.M. Oriente Hospital del Tórax,8,0,0,0,0,0,0,SE35,2021
+SE35_07-09-2021.pdf,R.M. Oriente Hospital Militar,19,0,0,0,0,0,0,SE35,2021
+SE35_07-09-2021.pdf,"Santiago, Consultorio 5",2,2,2,0,0,0,0,SE35,2021
+SE35_07-09-2021.pdf,"Santiago, Consultorio Ariztía",1,1,1,0,0,0,0,SE35,2021
+SE20_23-05-2023.pdf,R.M. Sur Exequiel González C.*,0,0,0,0,0,0,0,SE20,2023
+SE20_23-05-2023.pdf,R.M. Occidente Félix Bulnes,144,97,52,5,7,25,0,SE20,2023
+SE20_23-05-2023.pdf,R.M. Occidente San Juan de Dios,171,63,8,1,1,49,1,SE20,2023
+SE20_23-05-2023.pdf,R.M. Suroriente Padre Hurtado,237,77,13,9,0,49,6,SE20,2023
+SE20_23-05-2023.pdf,R.M. Oriente Hospital del Tórax,53,16,2,0,1,13,0,SE20,2023
+SE20_23-05-2023.pdf,R.M. Oriente Hospital Militar,17,13,2,0,1,9,0,SE20,2023
+SE20_23-05-2023.pdf,"Santiago, Consultorio Steeger",9,4,3,0,0,1,0,SE20,2023
+SE20_23-05-2023.pdf,"Santiago, Consultorio Avendaño",5,1,0,0,0,1,0,SE20,2023
+SE20_23-05-2023.pdf,"Santiago, Consultorio Ariztía",12,10,0,2,0,8,0,SE20,2023
+SE20_23-05-2023.pdf,Otros R.M**,10,10,0,0,0,8,2,SE20,2023
+SE33_20-08-2019.pdf,R.M. Sur Exequiel González C.,80,36,29,0,2,1,1,SE33,2019
+SE33_20-08-2019.pdf,R.M. Occidente Félix Bulnes,156,54,40,4,4,0,3,SE33,2019
+SE33_20-08-2019.pdf,R.M. Occidente San Juan de Dios,170,36,17,0,0,0,18,SE33,2019
+SE33_20-08-2019.pdf,R.M. Suroriente Padre Hurtado,85,41,26,5,0,1,2,SE33,2019
+SE33_20-08-2019.pdf,R.M. Oriente Hospital del Tórax,44,6,3,0,1,0,2,SE33,2019
+SE33_20-08-2019.pdf,R.M. Oriente Hospital Militar,12,3,2,0,0,0,0,SE33,2019
+SE33_20-08-2019.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE33,2019
+SE33_20-08-2019.pdf,"Santiago, Consultorio Avendaño",4,2,1,0,0,0,1,SE33,2019
+SE33_20-08-2019.pdf,"Santiago, Consultorio Ariztía",3,1,1,0,0,0,0,SE33,2019
+SE33_20-08-2019.pdf,Otros R.M**,16,16,0,0,0,3,13,SE33,2019
+SE48_07-12-2021.pdf,R.M. Sur Exequiel González C.,18,5,3,0,2,0,0,SE48,2021
+SE48_07-12-2021.pdf,R.M. Occidente Félix Bulnes,34,9,0,0,7,0,0,SE48,2021
+SE48_07-12-2021.pdf,R.M. Occidente San Juan de Dios,29,2,0,0,2,0,0,SE48,2021
+SE48_07-12-2021.pdf,R.M. Suroriente Padre Hurtado,26,2,1,0,0,1,0,SE48,2021
+SE48_07-12-2021.pdf,R.M. Oriente Hospital del Tórax,0,0,0,0,0,0,0,SE48,2021
+SE48_07-12-2021.pdf,R.M. Oriente Hospital Militar,9,0,0,0,0,0,0,SE48,2021
+SE48_07-12-2021.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE48,2021
+SE44_09-11-2021.pdf,R.M. Sur Exequiel González C.,17,3,3,0,0,0,0,SE44,2021
+SE44_09-11-2021.pdf,R.M. Occidente Félix Bulnes,28,4,2,2,0,0,0,SE44,2021
+SE44_09-11-2021.pdf,R.M. Occidente San Juan de Dios,31,2,2,0,0,0,0,SE44,2021
+SE44_09-11-2021.pdf,R.M. Suroriente Padre Hurtado,24,1,1,0,0,0,0,SE44,2021
+SE44_09-11-2021.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE44,2021
+SE44_09-11-2021.pdf,R.M. Oriente Hospital Militar,9,1,1,0,0,0,0,SE44,2021
+SE44_09-11-2021.pdf,"Santiago, Consultorio Steeger",2,0,0,0,0,0,0,SE44,2021
+SE44_09-11-2021.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE44,2021
+SE24_16-06-2020.pdf,R.M. Sur Exequiel González C.,6,0,0,0,0,0,0,SE24,2020
+SE24_16-06-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE24,2020
+SE24_16-06-2020.pdf,R.M. Occidente San Juan de Dios,142,0,0,0,0,0,0,SE24,2020
+SE24_16-06-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE24,2020
+SE24_16-06-2020.pdf,R.M. Oriente Hospital del Tórax,60,2,0,0,0,0,0,SE24,2020
+SE24_16-06-2020.pdf,R.M. Oriente Hospital Militar,52,0,0,0,0,0,0,SE24,2020
+SE04_29-01-2018.pdf,R.M. Sur Exequiel González C.,16,1,0,0,1,0,0,SE04,2018
+SE04_29-01-2018.pdf,R.M. Occidente Félix Bulnes,34,2,0,0,1,0,1,SE04,2018
+SE04_29-01-2018.pdf,R.M. Occidente San Juan de Dios,15,0,0,0,0,0,0,SE04,2018
+SE04_29-01-2018.pdf,R.M. Suroriente Padre Hurtado,13,0,0,0,0,0,0,SE04,2018
+SE04_29-01-2018.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE04,2018
+SE27_09-07-2019.pdf,R.M. Sur Exequiel González C.,125,91,84,1,3,1,2,SE27,2019
+SE27_09-07-2019.pdf,R.M. Occidente Félix Bulnes,181,134,105,7,10,7,3,SE27,2019
+SE27_09-07-2019.pdf,R.M. Occidente San Juan de Dios,217,56,15,1,3,25,12,SE27,2019
+SE27_09-07-2019.pdf,R.M. Suroriente Padre Hurtado,130,79,65,2,7,3,0,SE27,2019
+SE27_09-07-2019.pdf,R.M. Oriente Hospital del Tórax,53,5,0,0,1,3,1,SE27,2019
+SE27_09-07-2019.pdf,R.M. Oriente Hospital Militar,18,4,3,0,1,0,0,SE27,2019
+SE27_09-07-2019.pdf,"Santiago, Consultorio Steeger",5,4,1,0,0,1,2,SE27,2019
+SE27_09-07-2019.pdf,"Santiago, Consultorio Avendaño",10,6,2,1,1,1,1,SE27,2019
+SE27_09-07-2019.pdf,"Santiago, Consultorio Ariztía",15,5,0,0,2,2,1,SE27,2019
+SE27_09-07-2019.pdf,Otros R.M**,22,22,0,0,0,10,12,SE27,2019
+SE06_15-02-2022.pdf,R.M. Sur Exequiel González C.,18,2,1,0,0,1,0,SE06,2022
+SE06_15-02-2022.pdf,R.M. Occidente Félix Bulnes,18,1,0,0,0,1,0,SE06,2022
+SE06_15-02-2022.pdf,R.M. Occidente San Juan de Dios,43,12,0,0,2,4,0,SE06,2022
+SE06_15-02-2022.pdf,R.M. Suroriente Padre Hurtado,12,1,0,0,0,1,0,SE06,2022
+SE06_15-02-2022.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE06,2022
+SE06_15-02-2022.pdf,R.M. Oriente Hospital Militar,6,6,0,0,0,0,0,SE06,2022
+SE06_15-02-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE06,2022
+SE06_15-02-2022.pdf,Otros R.M**,1,1,0,0,0,1,0,SE06,2022
+SE47_28-11-2023.pdf,R.M. Sur Exequiel González C.,39,0,0,0,0,0,0,SE47,2023
+SE47_28-11-2023.pdf,R.M. Occidente Félix Bulnes,93,17,0,1,9,0,0,SE47,2023
+SE47_28-11-2023.pdf,R.M. Occidente San Juan de Dios,112,10,0,2,2,0,0,SE47,2023
+SE47_28-11-2023.pdf,R.M. Suroriente Padre Hurtado,77,7,0,2,5,0,0,SE47,2023
+SE47_28-11-2023.pdf,R.M. Oriente Hospital del Tórax,34,2,1,0,1,0,0,SE47,2023
+SE47_28-11-2023.pdf,R.M. Oriente Hospital Militar,4,2,0,0,0,1,0,SE47,2023
+SE47_28-11-2023.pdf,"Santiago, Consultorio Steeger",5,0,0,0,0,0,0,SE47,2023
+SE47_28-11-2023.pdf,"Santiago, Consultorio Avendaño",3,0,0,0,0,0,0,SE47,2023
+SE47_28-11-2023.pdf,"Santiago, Consultorio 5",2,1,0,0,0,0,0,SE47,2023
+SE47_28-11-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE47,2023
+SE47_28-11-2023.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE47,2023
+SE47_28-11-2023.pdf,Otros R.M**,6,6,0,0,0,2,4,SE47,2023
+SE45_10-11-2020.pdf,R.M. Sur Exequiel González C.,7,0,0,0,0,0,0,SE45,2020
+SE45_10-11-2020.pdf,R.M. Occidente Félix Bulnes,14,0,0,0,0,0,0,SE45,2020
+SE45_10-11-2020.pdf,R.M. Occidente San Juan de Dios,25,1,0,0,1,0,0,SE45,2020
+SE45_10-11-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE45,2020
+SE45_10-11-2020.pdf,R.M. Oriente Hospital del Tórax,25,7,0,0,0,0,0,SE45,2020
+SE09_09-03-2021.pdf,R.M. Sur Exequiel González C.,19,0,0,0,0,0,0,SE09,2021
+SE09_09-03-2021.pdf,R.M. Occidente Félix Bulnes,18,0,0,0,0,0,0,SE09,2021
+SE09_09-03-2021.pdf,R.M. Occidente San Juan de Dios,27,0,0,0,0,0,0,SE09,2021
+SE09_09-03-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE09,2021
+SE09_09-03-2021.pdf,R.M. Oriente Hospital del Tórax,8,0,0,0,0,0,0,SE09,2021
+SE09_09-03-2021.pdf,R.M. Oriente Hospital Militar,8,0,0,0,0,0,0,SE09,2021
+SE51_23-12-2024.pdf,R.M. Sur Exequiel González C.,50,25,0,2,1,0,2,SE51,2024
+SE51_23-12-2024.pdf,R.M. Occidente Félix Bulnes,100,47,1,2,1,3,9,SE51,2024
+SE51_23-12-2024.pdf,R.M. Occidente San Juan de Dios**,0,0,0,0,0,0,0,SE51,2024
+SE51_23-12-2024.pdf,R.M. Suroriente Padre Hurtado,83,17,0,2,0,0,4,SE51,2024
+SE51_23-12-2024.pdf,R.M. Oriente Hospital del Tórax,11,3,0,0,0,0,1,SE51,2024
+SE51_23-12-2024.pdf,R.M. Oriente Hospital Militar,2,1,0,0,0,0,1,SE51,2024
+SE51_23-12-2024.pdf,"Santiago, Consultorio 5",11,4,1,0,0,1,0,SE51,2024
+SE51_23-12-2024.pdf,"Santiago, Consultorio Barros Luco",2,1,0,0,0,0,1,SE51,2024
+SE51_23-12-2024.pdf,"Santiago, Consultorio Ariztía",1,1,0,0,0,0,1,SE51,2024
+SE40_06-10-2020.pdf,R.M. Sur Exequiel González C.,7,0,0,0,0,0,0,SE40,2020
+SE40_06-10-2020.pdf,R.M. Occidente Félix Bulnes,12,0,0,0,0,0,0,SE40,2020
+SE40_06-10-2020.pdf,R.M. Occidente San Juan de Dios,212,0,0,0,0,0,0,SE40,2020
+SE40_06-10-2020.pdf,R.M. Suroriente Padre Hurtado,3,0,0,0,0,0,0,SE40,2020
+SE40_06-10-2020.pdf,R.M. Oriente Hospital del Tórax,42,1,0,0,0,0,0,SE40,2020
+SE40_06-10-2020.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE40,2020
+SE40_06-10-2020.pdf,Otros R.M**,0,0,0,0,0,0,0,SE40,2020
+SE07_22-02-2022.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE07,2022
+SE07_22-02-2022.pdf,R.M. Occidente Félix Bulnes,20,0,0,0,0,0,0,SE07,2022
+SE07_22-02-2022.pdf,R.M. Occidente San Juan de Dios,32,5,0,1,0,1,0,SE07,2022
+SE07_22-02-2022.pdf,R.M. Suroriente Padre Hurtado,21,1,0,0,0,1,0,SE07,2022
+SE07_22-02-2022.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE07,2022
+SE07_22-02-2022.pdf,R.M. Oriente Hospital Militar,8,8,0,0,0,0,0,SE07,2022
+SE07_22-02-2022.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,0,1,0,SE07,2022
+SE07_22-02-2022.pdf,Otros R.M**,6,6,0,0,0,6,0,SE07,2022
+SE28_19-07-2022.pdf,R.M. Sur Exequiel González C.,56,18,12,0,1,1,0,SE28,2022
+SE28_19-07-2022.pdf,R.M. Occidente Félix Bulnes,105,58,17,3,4,13,0,SE28,2022
+SE28_19-07-2022.pdf,R.M. Occidente San Juan de Dios,100,43,7,0,6,15,0,SE28,2022
+SE28_19-07-2022.pdf,R.M. Suroriente Padre Hurtado,118,29,12,1,1,7,0,SE28,2022
+SE28_19-07-2022.pdf,R.M. Oriente Hospital del Tórax,24,9,3,0,1,1,0,SE28,2022
+SE28_19-07-2022.pdf,R.M. Oriente Hospital Militar,9,4,3,0,0,0,0,SE28,2022
+SE28_19-07-2022.pdf,"Santiago, Consultorio Steeger",7,5,3,0,0,0,0,SE28,2022
+SE28_19-07-2022.pdf,"Santiago, Consultorio Avendaño",8,8,4,0,0,4,0,SE28,2022
+SE28_19-07-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE28,2022
+SE28_19-07-2022.pdf,"Santiago, Consultorio Barros Luco",9,0,0,0,0,0,0,SE28,2022
+SE28_19-07-2022.pdf,"Santiago, Consultorio Ariztía",4,4,0,1,1,1,0,SE28,2022
+SE28_19-07-2022.pdf,Otros R.M**,8,8,0,0,0,8,0,SE28,2022
+SE03_25-01-2022.pdf,R.M. Sur Exequiel González C.,11,1,0,1,0,0,0,SE03,2022
+SE03_25-01-2022.pdf,R.M. Occidente Félix Bulnes,46,8,0,2,0,6,0,SE03,2022
+SE03_25-01-2022.pdf,R.M. Occidente San Juan de Dios,33,10,0,0,1,5,0,SE03,2022
+SE03_25-01-2022.pdf,R.M. Suroriente Padre Hurtado,47,8,0,0,0,8,0,SE03,2022
+SE03_25-01-2022.pdf,R.M. Oriente Hospital del Tórax,5,2,0,0,0,2,0,SE03,2022
+SE03_25-01-2022.pdf,R.M. Oriente Hospital Militar,6,3,0,0,0,1,0,SE03,2022
+SE03_25-01-2022.pdf,"Santiago, Consultorio Avendaño",3,1,0,0,0,0,0,SE03,2022
+SE03_25-01-2022.pdf,Otros R.M**,14,14,0,0,0,14,0,SE03,2022
+SE15_16-04-2019.pdf,R.M. Sur Exequiel González C.,32,1,0,1,0,0,0,SE15,2019
+SE15_16-04-2019.pdf,R.M. Occidente Félix Bulnes,43,2,0,1,0,1,0,SE15,2019
+SE15_16-04-2019.pdf,R.M. Occidente San Juan de Dios,36,1,0,1,0,0,0,SE15,2019
+SE15_16-04-2019.pdf,R.M. Suroriente Padre Hurtado,32,5,0,1,4,0,0,SE15,2019
+SE15_16-04-2019.pdf,R.M. Oriente Hospital del Tórax,18,1,0,1,0,0,0,SE15,2019
+SE15_16-04-2019.pdf,R.M. Oriente Hospital Militar,4,1,0,0,1,0,0,SE15,2019
+SE15_16-04-2019.pdf,Otros R.M**,11,11,0,0,0,10,1,SE15,2019
+SE09_05-03-2019.pdf,R.M. Sur Exequiel González C.,21,0,0,0,0,0,0,SE09,2019
+SE09_05-03-2019.pdf,R.M. Occidente Félix Bulnes,25,4,0,1,2,0,1,SE09,2019
+SE09_05-03-2019.pdf,R.M. Occidente San Juan de Dios,15,1,0,0,1,0,0,SE09,2019
+SE09_05-03-2019.pdf,R.M. Suroriente Padre Hurtado,6,1,0,1,0,0,0,SE09,2019
+SE09_05-03-2019.pdf,R.M. Oriente Hospital del Tórax,13,2,0,0,0,0,2,SE09,2019
+SE09_05-03-2019.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE09,2019
+SE09_05-03-2019.pdf,Otros R.M**,5,5,0,0,0,5,0,SE09,2019
+SE44_05-11-2024.pdf,R.M. Sur Exequiel González C.,51,26,0,0,5,0,2,SE44,2024
+SE44_05-11-2024.pdf,R.M. Occidente Félix Bulnes,126,64,1,5,9,0,5,SE44,2024
+SE44_05-11-2024.pdf,R.M. Occidente San Juan de Dios,86,18,0,0,1,1,3,SE44,2024
+SE44_05-11-2024.pdf,R.M. Suroriente Padre Hurtado,107,18,0,4,5,0,2,SE44,2024
+SE44_05-11-2024.pdf,R.M. Oriente Hospital del Tórax,9,4,0,0,0,0,1,SE44,2024
+SE44_05-11-2024.pdf,R.M. Oriente Hospital Militar,11,4,0,1,0,0,1,SE44,2024
+SE44_05-11-2024.pdf,"Santiago, Consultorio Avendaño",5,2,0,0,1,0,1,SE44,2024
+SE44_05-11-2024.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE44,2024
+SE44_05-11-2024.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE44,2024
+SE44_05-11-2024.pdf,"Santiago, Consultorio Ariztía",2,2,0,0,0,0,0,SE44,2024
+SE44_05-11-2024.pdf,Otros R.M**,7,7,0,0,0,3,4,SE44,2024
+SE52_29-12-2020.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE52,2020
+SE52_29-12-2020.pdf,R.M. Occidente Félix Bulnes,9,1,0,0,1,0,0,SE52,2020
+SE52_29-12-2020.pdf,R.M. Occidente San Juan de Dios,26,1,0,1,0,0,0,SE52,2020
+SE52_29-12-2020.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE52,2020
+SE52_29-12-2020.pdf,R.M. Oriente Hospital del Tórax,10,0,0,0,0,0,0,SE52,2020
+SE52_29-12-2020.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE52,2020
+SE30_28-07-2020.pdf,R.M. Sur Exequiel González C.,12,0,0,0,0,0,0,SE30,2020
+SE30_28-07-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE30,2020
+SE30_28-07-2020.pdf,R.M. Occidente San Juan de Dios,144,0,0,0,0,0,0,SE30,2020
+SE30_28-07-2020.pdf,R.M. Suroriente Padre Hurtado,3,0,0,0,0,0,0,SE30,2020
+SE30_28-07-2020.pdf,R.M. Oriente Hospital del Tórax,44,0,0,0,0,0,0,SE30,2020
+SE30_28-07-2020.pdf,R.M. Oriente Hospital Militar,10,0,0,0,0,0,0,SE30,2020
+SE52_30-12-2024.pdf,R.M. Sur Exequiel González C.,43,19,0,2,4,0,3,SE52,2024
+SE52_30-12-2024.pdf,R.M. Occidente Félix Bulnes,77,31,0,0,3,2,10,SE52,2024
+SE52_30-12-2024.pdf,R.M. Occidente San Juan de Dios**,0,0,0,0,0,0,0,SE52,2024
+SE52_30-12-2024.pdf,R.M. Suroriente Padre Hurtado,55,9,0,1,0,0,4,SE52,2024
+SE52_30-12-2024.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE52,2024
+SE52_30-12-2024.pdf,R.M. Oriente Hospital Militar,4,2,0,0,0,0,0,SE52,2024
+SE52_30-12-2024.pdf,"Santiago, Consultorio 5",4,3,0,0,0,0,2,SE52,2024
+SE52_30-12-2024.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE52,2024
+SE52_30-12-2024.pdf,Otros R.M**,1,1,0,0,0,1,0,SE52,2024
+SE34_30-08-2022.pdf,R.M. Sur Exequiel González C.,48,10,3,0,4,1,0,SE34,2022
+SE34_30-08-2022.pdf,R.M. Occidente Félix Bulnes,99,26,3,0,7,5,0,SE34,2022
+SE34_30-08-2022.pdf,R.M. Occidente San Juan de Dios,82,28,2,1,3,6,0,SE34,2022
+SE34_30-08-2022.pdf,R.M. Suroriente Padre Hurtado,123,10,1,2,2,4,0,SE34,2022
+SE34_30-08-2022.pdf,R.M. Oriente Hospital del Tórax,27,5,0,0,1,3,0,SE34,2022
+SE34_30-08-2022.pdf,R.M. Oriente Hospital Militar,17,2,0,0,0,0,0,SE34,2022
+SE34_30-08-2022.pdf,"Santiago, Consultorio Steeger",9,2,0,0,2,0,0,SE34,2022
+SE34_30-08-2022.pdf,"Santiago, Consultorio Avendaño",9,6,0,0,1,5,0,SE34,2022
+SE34_30-08-2022.pdf,"Santiago, Consultorio Barros Luco",6,0,0,0,0,0,0,SE34,2022
+SE34_30-08-2022.pdf,Otros R.M**,8,8,0,0,0,8,0,SE34,2022
+SE22_06-06-2023.pdf,R.M. Sur Exequiel González C.,127,57,51,1,1,1,0,SE22,2023
+SE22_06-06-2023.pdf,R.M. Occidente Félix Bulnes,253,192,130,4,9,19,4,SE22,2023
+SE22_06-06-2023.pdf,R.M. Occidente San Juan de Dios,172,55,17,2,2,23,5,SE22,2023
+SE22_06-06-2023.pdf,R.M. Suroriente Padre Hurtado,280,91,61,8,2,15,3,SE22,2023
+SE22_06-06-2023.pdf,R.M. Oriente Hospital del Tórax,54,21,4,0,0,16,0,SE22,2023
+SE22_06-06-2023.pdf,R.M. Oriente Hospital Militar,18,16,13,0,0,1,1,SE22,2023
+SE22_06-06-2023.pdf,"Santiago, Consultorio Steeger",5,3,2,1,0,0,0,SE22,2023
+SE22_06-06-2023.pdf,"Santiago, Consultorio Avendaño",6,3,0,0,1,1,0,SE22,2023
+SE22_06-06-2023.pdf,"Santiago, Consultorio Barros Luco",5,1,0,0,0,0,1,SE22,2023
+SE22_06-06-2023.pdf,"Santiago, Consultorio Ariztía",9,8,4,1,0,2,1,SE22,2023
+SE22_06-06-2023.pdf,Otros R.M**,9,9,0,0,0,8,1,SE22,2023
+SE29_27-07-2021.pdf,R.M. Sur Exequiel Gonzáles C.,17,7,4,0,0,0,0,SE29,2021
+SE29_27-07-2021.pdf,R.M. Occidente Félix Bulnes,32,6,6,0,0,0,0,SE29,2021
+SE29_27-07-2021.pdf,R.M. Occidente San Juan de Dios,24,0,0,0,0,0,0,SE29,2021
+SE29_27-07-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE29,2021
+SE29_27-07-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE29,2021
+SE29_27-07-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE29,2021
+SE16_27-04-2021.pdf,R.M. Sur Exequiel González C.,11,1,1,0,0,0,0,SE16,2021
+SE16_27-04-2021.pdf,R.M. Occidente Félix Bulnes,17,1,1,0,0,0,0,SE16,2021
+SE16_27-04-2021.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE16,2021
+SE16_27-04-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE16,2021
+SE16_27-04-2021.pdf,R.M. Oriente Hospital del Tórax,12,0,0,0,0,0,0,SE16,2021
+SE16_27-04-2021.pdf,R.M. Oriente Hospital Militar,3,0,0,0,0,0,0,SE16,2021
+SE16_27-04-2021.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE16,2021
+SE51_26-12-2023.pdf,R.M. Sur Exequiel González C.,20,2,0,1,1,0,0,SE51,2023
+SE51_26-12-2023.pdf,R.M. Occidente Félix Bulnes,97,14,0,3,8,0,0,SE51,2023
+SE51_26-12-2023.pdf,R.M. Occidente San Juan de Dios*,0,0,0,0,0,0,0,SE51,2023
+SE51_26-12-2023.pdf,R.M. Suroriente Padre Hurtado,38,1,0,0,0,1,0,SE51,2023
+SE51_26-12-2023.pdf,R.M. Oriente Hospital del Tórax,30,0,0,0,0,0,0,SE51,2023
+SE51_26-12-2023.pdf,"Santiago, Consultorio 5",4,1,0,1,0,0,0,SE51,2023
+SE51_26-12-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE51,2023
+SE34_25-08-2020.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE34,2020
+SE34_25-08-2020.pdf,R.M. Occidente Félix Bulnes,14,1,0,0,0,1,0,SE34,2020
+SE34_25-08-2020.pdf,R.M. Occidente San Juan de Dios,168,0,0,0,0,0,0,SE34,2020
+SE34_25-08-2020.pdf,R.M. Suroriente Padre Hurtado,5,0,0,0,0,0,0,SE34,2020
+SE34_25-08-2020.pdf,R.M. Oriente Hospital del Tórax,45,5,0,0,0,0,0,SE34,2020
+SE34_25-08-2020.pdf,R.M. Oriente Hospital Militar,7,0,0,0,0,0,0,SE34,2020
+SE34_25-08-2020.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE34,2020
+SE14_29-10-2020.pdf,R.M. Sur Exequiel González C.,11,0,0,0,0,0,0,SE14,2020
+SE14_29-10-2020.pdf,R.M. Occidente Félix Bulnes,41,5,0,1,4,0,0,SE14,2020
+SE14_29-10-2020.pdf,R.M. Occidente San Juan de Dios,46,3,0,0,3,0,0,SE14,2020
+SE14_29-10-2020.pdf,R.M. Suroriente Padre Hurtado,7,0,0,0,0,0,0,SE14,2020
+SE14_29-10-2020.pdf,R.M. Oriente Hospital del Tórax,25,1,0,1,0,0,0,SE14,2020
+SE14_29-10-2020.pdf,R.M. Oriente Hospital Militar,13,0,0,0,0,0,0,SE14,2020
+SE14_29-10-2020.pdf,"Santiago, Consultorio Ariztía",19,0,0,0,0,0,0,SE14,2020
+SE36_08-09-2020.pdf,R.M. Sur Exequiel González C.,11,0,0,0,0,0,0,SE36,2020
+SE36_08-09-2020.pdf,R.M. Occidente Félix Bulnes,21,0,0,0,0,0,0,SE36,2020
+SE36_08-09-2020.pdf,R.M. Occidente San Juan de Dios,195,0,0,0,0,0,0,SE36,2020
+SE36_08-09-2020.pdf,R.M. Suroriente Padre Hurtado,7,1,0,1,0,0,0,SE36,2020
+SE36_08-09-2020.pdf,R.M. Oriente Hospital del Tórax,50,6,0,0,0,0,0,SE36,2020
+SE36_08-09-2020.pdf,R.M. Oriente Hospital Militar,14,0,0,0,0,0,0,SE36,2020
+SE36_14-09-2021.pdf,R.M. Sur Exequiel González C.,36,24,23,0,1,0,0,SE36,2021
+SE36_14-09-2021.pdf,R.M. Occidente Félix Bulnes,30,13,12,0,1,0,0,SE36,2021
+SE36_14-09-2021.pdf,R.M. Occidente San Juan de Dios,42,5,4,1,0,0,0,SE36,2021
+SE36_14-09-2021.pdf,R.M. Suroriente Padre Hurtado,36,16,16,0,0,0,0,SE36,2021
+SE36_14-09-2021.pdf,R.M. Oriente Hospital del Tórax,3,1,0,1,0,0,0,SE36,2021
+SE36_14-09-2021.pdf,R.M. Oriente Hospital Militar,11,0,0,0,0,0,0,SE36,2021
+SE36_14-09-2021.pdf,"Santiago, Consultorio 5",2,2,2,0,0,0,0,SE36,2021
+SE31_08-08-2023.pdf,R.M. Sur Exequiel González C.,56,15,9,1,3,0,1,SE31,2023
+SE31_08-08-2023.pdf,R.M. Occidente Félix Bulnes,96,40,13,0,6,0,2,SE31,2023
+SE31_08-08-2023.pdf,R.M. Occidente San Juan de Dios,131,18,5,1,4,0,0,SE31,2023
+SE31_08-08-2023.pdf,R.M. Suroriente Padre Hurtado,153,18,12,1,1,0,0,SE31,2023
+SE31_08-08-2023.pdf,R.M. Oriente Hospital del Tórax,56,13,7,1,0,1,2,SE31,2023
+SE31_08-08-2023.pdf,R.M. Oriente Hospital Militar,8,5,2,0,0,0,0,SE31,2023
+SE31_08-08-2023.pdf,"Santiago, Consultorio Steeger",8,2,0,0,2,0,0,SE31,2023
+SE31_08-08-2023.pdf,"Santiago, Consultorio Avendaño",6,2,0,0,0,0,1,SE31,2023
+SE31_08-08-2023.pdf,"Santiago, Consultorio 5",9,3,0,1,1,0,0,SE31,2023
+SE31_08-08-2023.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE31,2023
+SE31_08-08-2023.pdf,"Santiago, Consultorio Ariztía",5,2,0,1,0,0,0,SE31,2023
+SE31_08-08-2023.pdf,Otros R.M**,3,3,0,0,0,2,1,SE31,2023
+SE18_05-05-2020.pdf,R.M. Sur Exequiel González C.,9,0,0,0,0,0,0,SE18,2020
+SE18_05-05-2020.pdf,R.M. Occidente Félix Bulnes,8,0,0,0,0,0,0,SE18,2020
+SE18_05-05-2020.pdf,R.M. Occidente San Juan de Dios,35,1,0,0,0,1,0,SE18,2020
+SE18_05-05-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE18,2020
+SE18_05-05-2020.pdf,R.M. Oriente Hospital del Tórax,24,2,0,0,0,0,0,SE18,2020
+SE18_05-05-2020.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE18,2020
+SE18_05-05-2020.pdf,"Santiago, Consultorio Ariztía",34,1,0,0,0,0,0,SE18,2020
+SE44_05-11-2019.pdf,R.M. Sur Exequiel González C.,15,3,0,1,1,0,0,SE44,2019
+SE44_05-11-2019.pdf,R.M. Occidente Félix Bulnes,47,7,0,0,3,0,0,SE44,2019
+SE44_05-11-2019.pdf,R.M. Occidente San Juan de Dios,54,3,0,0,0,0,3,SE44,2019
+SE44_05-11-2019.pdf,R.M. Suroriente Padre Hurtado,17,0,0,0,0,0,0,SE44,2019
+SE44_05-11-2019.pdf,R.M. Oriente Hospital del Tórax,6,1,0,0,1,0,0,SE44,2019
+SE44_05-11-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE44,2019
+SE44_05-11-2019.pdf,Otros R.M**,7,7,0,0,0,1,6,SE44,2019
+SE09_05-03-2024.pdf,R.M. Sur Exequiel González C.,2,0,0,0,0,0,0,SE09,2024
+SE09_05-03-2024.pdf,R.M. Occidente Félix Bulnes,62,25,0,3,2,1,0,SE09,2024
+SE09_05-03-2024.pdf,R.M. Occidente San Juan de Dios,87,9,0,0,0,2,0,SE09,2024
+SE09_05-03-2024.pdf,R.M. Suroriente Padre Hurtado,48,6,0,1,0,1,0,SE09,2024
+SE09_05-03-2024.pdf,R.M. Oriente Hospital del Tórax,12,0,0,0,0,0,0,SE09,2024
+SE09_05-03-2024.pdf,R.M. Oriente Hospital Militar,4,1,0,0,0,0,0,SE09,2024
+SE09_05-03-2024.pdf,"Santiago, Consultorio Steeger",2,1,0,0,0,0,0,SE09,2024
+SE09_05-03-2024.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,1,0,SE09,2024
+SE09_05-03-2024.pdf,"Santiago, Consultorio 5",6,2,0,0,0,0,0,SE09,2024
+SE09_05-03-2024.pdf,"Santiago, Consultorio Barros Luco",2,0,0,0,0,0,0,SE09,2024
+SE09_05-03-2024.pdf,"Santiago, Consultorio Ariztía",2,2,0,0,0,0,0,SE09,2024
+SE09_05-03-2024.pdf,Otros R.M**,3,3,0,0,0,3,0,SE09,2024
+SE53_05-01-2020.pdf,R.M. Sur Exequiel González C.,3,0,0,0,0,0,0,SE53,2020
+SE53_05-01-2020.pdf,R.M. Occidente Félix Bulnes,13,0,0,0,0,0,0,SE53,2020
+SE53_05-01-2020.pdf,R.M. Occidente San Juan de Dios,39,0,0,0,0,0,0,SE53,2020
+SE53_05-01-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE53,2020
+SE53_05-01-2020.pdf,R.M. Oriente Hospital del Tórax,25,0,0,0,0,0,0,SE53,2020
+SE18_10-05-2022.pdf,R.M. Sur Exequiel Gonzáles C.,34,3,3,0,0,0,0,SE18,2022
+SE18_10-05-2022.pdf,R.M. Occidente Félix Bulnes,62,17,6,3,6,0,0,SE18,2022
+SE18_10-05-2022.pdf,R.M. Occidente San Juan de Dios,38,8,1,0,4,0,0,SE18,2022
+SE18_10-05-2022.pdf,R.M. Suroriente Padre Hurtado,49,11,8,3,0,0,0,SE18,2022
+SE18_10-05-2022.pdf,R.M. Oriente Hospital del Torax,1,0,0,0,0,0,0,SE18,2022
+SE18_10-05-2022.pdf,R.M. Oriente Hospital Militar,14,4,1,0,0,0,0,SE18,2022
+SE18_10-05-2022.pdf,"Santiago, Consultorio 5",3,0,0,0,0,0,0,SE18,2022
+SE18_10-05-2022.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE18,2022
+SE18_10-05-2022.pdf,Otros R.M**,5,5,0,0,0,5,0,SE18,2022
+SE21_26-05-2020.pdf,R.M. Sur Exequiel González C.,6,0,0,0,0,0,0,SE21,2020
+SE21_26-05-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE21,2020
+SE21_26-05-2020.pdf,R.M. Occidente San Juan de Dios,208,0,0,0,0,0,0,SE21,2020
+SE21_26-05-2020.pdf,R.M. Suroriente Padre Hurtado,2,0,0,0,0,0,0,SE21,2020
+SE21_26-05-2020.pdf,R.M. Oriente Hospital del Tórax,45,1,0,0,0,0,0,SE21,2020
+SE21_26-05-2020.pdf,R.M. Oriente Hospital Militar,51,0,0,0,0,0,0,SE21,2020
+SE21_26-05-2020.pdf,"Santiago, Consultorio Ariztía",34,3,0,1,0,0,0,SE21,2020
+SE43_27-10-2020.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE43,2020
+SE43_27-10-2020.pdf,R.M. Occidente Félix Bulnes,13,4,0,4,0,0,0,SE43,2020
+SE43_27-10-2020.pdf,R.M. Occidente San Juan de Dios,33,0,0,0,0,0,0,SE43,2020
+SE43_27-10-2020.pdf,R.M. Suroriente Padre Hurtado,4,0,0,0,0,0,0,SE43,2020
+SE43_27-10-2020.pdf,R.M. Oriente Hospital del Tórax,9,0,0,0,0,0,0,SE43,2020
+SE43_27-10-2020.pdf,R.M. Oriente Hospital Militar,2,0,0,0,0,0,0,SE43,2020
+SE19_16-05-2023.pdf,R.M. Sur Exequiel González C.,51,14,11,0,2,1,0,SE19,2023
+SE19_16-05-2023.pdf,R.M. Occidente Félix Bulnes,154,55,20,5,5,19,0,SE19,2023
+SE19_16-05-2023.pdf,R.M. Occidente San Juan de Dios,153,47,1,1,1,39,2,SE19,2023
+SE19_16-05-2023.pdf,R.M. Suroriente Padre Hurtado,216,68,7,8,0,49,4,SE19,2023
+SE19_16-05-2023.pdf,R.M. Oriente Hospital del Tórax,31,6,1,0,1,4,0,SE19,2023
+SE19_16-05-2023.pdf,R.M. Oriente Hospital Militar,13,8,3,0,0,5,0,SE19,2023
+SE19_16-05-2023.pdf,"Santiago, Consultorio Steeger",4,2,0,0,1,1,0,SE19,2023
+SE19_16-05-2023.pdf,"Santiago, Consultorio Avendaño",4,2,0,0,1,1,0,SE19,2023
+SE19_16-05-2023.pdf,"Santiago, Consultorio Barros Luco",11,2,0,0,1,1,0,SE19,2023
+SE19_16-05-2023.pdf,"Santiago, Consultorio Ariztía",5,4,0,1,1,2,0,SE19,2023
+SE19_16-05-2023.pdf,Otros R.M**,17,17,0,0,0,16,1,SE19,2023
+SE37_17-09-2019.pdf,R.M. Sur Exequiel González C.,67,26,11,1,2,1,3,SE37,2019
+SE37_17-09-2019.pdf,R.M. Occidente Félix Bulnes,72,17,4,1,2,0,4,SE37,2019
+SE37_17-09-2019.pdf,R.M. Occidente San Juan de Dios,152,38,7,0,1,0,25,SE37,2019
+SE37_17-09-2019.pdf,R.M. Suroriente Padre Hurtado,52,20,3,1,0,0,5,SE37,2019
+SE37_17-09-2019.pdf,R.M. Oriente Hospital del Tórax,33,7,1,0,1,0,5,SE37,2019
+SE37_17-09-2019.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE37,2019
+SE37_17-09-2019.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,0,0,1,SE37,2019
+SE37_17-09-2019.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE37,2019
+SE37_17-09-2019.pdf,Otros R.M**,18,18,0,0,0,5,13,SE37,2019
+SE06_16-02-2021.pdf,R.M. Sur Exequiel González C.,9,0,0,0,0,0,0,SE06,2021
+SE06_16-02-2021.pdf,R.M. Occidente Félix Bulnes,13,0,0,0,0,0,0,SE06,2021
+SE06_16-02-2021.pdf,R.M. Occidente San Juan de Dios,36,0,0,0,0,0,0,SE06,2021
+SE06_16-02-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE06,2021
+SE06_16-02-2021.pdf,R.M. Oriente Hospital del Tórax,12,0,0,0,0,0,0,SE06,2021
+SE06_16-02-2021.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE06,2021
+SE43-2019.pdf,R.M. Sur Exequiel González C.,47,9,1,1,2,0,1,SE43,2019
+SE43-2019.pdf,R.M. Occidente Félix Bulnes,42,15,0,4,2,0,1,SE43,2019
+SE43-2019.pdf,R.M. Occidente San Juan de Dios,76,9,0,2,2,0,3,SE43,2019
+SE43-2019.pdf,R.M. Suroriente Padre Hurtado,32,3,0,1,0,0,0,SE43,2019
+SE43-2019.pdf,R.M. Oriente Hospital del Tórax,22,3,0,0,0,0,1,SE43,2019
+SE43-2019.pdf,R.M. Oriente Hospital Militar,10,0,0,0,0,0,0,SE43,2019
+SE43-2019.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,0,0,1,SE43,2019
+SE43-2019.pdf,Otros R.M**,4,4,0,0,0,0,4,SE43,2019
+SE46_19-11-2019.pdf,R.M. Sur Exequiel González C.,2,0,0,0,0,0,0,SE46,2019
+SE46_19-11-2019.pdf,R.M. Occidente Félix Bulnes,44,3,1,1,0,0,0,SE46,2019
+SE46_19-11-2019.pdf,R.M. Occidente San Juan de Dios,42,1,0,0,0,0,1,SE46,2019
+SE46_19-11-2019.pdf,R.M. Suroriente Padre Hurtado,11,0,0,0,0,0,0,SE46,2019
+SE46_19-11-2019.pdf,R.M. Oriente Hospital del Tórax,14,1,0,0,0,0,0,SE46,2019
+SE46_19-11-2019.pdf,R.M. Oriente Hospital Militar,9,2,0,0,1,0,0,SE46,2019
+SE46_19-11-2019.pdf,Otros R.M**,6,6,0,0,0,2,4,SE46,2019
+SE30-2019.pdf.pdf,R.M. Sur Exequiel González C.,117,77,70,1,6,0,0,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,R.M. Occidente Félix Bulnes,126,95,82,3,3,0,4,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,R.M. Occidente San Juan de Dios,193,50,22,2,4,5,16,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,R.M. Suroriente Padre Hurtado,131,86,70,4,2,1,5,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,R.M. Oriente Hospital del Tórax,63,9,5,0,2,0,2,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,R.M. Oriente Hospital Militar,10,2,2,0,0,0,0,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,"Santiago, Consultorio Avendaño",5,2,1,0,0,0,1,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,"Santiago, Consultorio Barros Luco",2,1,0,0,0,0,1,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE30-2019.pdf.pdf,2019
+SE30-2019.pdf.pdf,Otros R.M**,16,16,0,0,0,5,11,SE30-2019.pdf.pdf,2019
+SE23_09-06-2020.pdf,R.M. Sur Exequiel González C.,7,0,0,0,0,0,0,SE23,2020
+SE23_09-06-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE23,2020
+SE23_09-06-2020.pdf,R.M. Occidente San Juan de Dios,219,3,3,0,0,0,0,SE23,2020
+SE23_09-06-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE23,2020
+SE23_09-06-2020.pdf,R.M. Oriente Hospital del Tórax,58,2,0,0,0,0,0,SE23,2020
+SE23_09-06-2020.pdf,R.M. Oriente Hospital Militar,55,1,0,0,1,0,0,SE23,2020
+SE15_19-04-2022.pdf,R.M. Sur Exequiel González C.,20,2,2,0,0,0,0,SE15,2022
+SE15_19-04-2022.pdf,R.M. Occidente Félix Bulnes,52,6,2,1,3,0,0,SE15,2022
+SE15_19-04-2022.pdf,R.M. Occidente San Juan de Dios,24,3,1,0,2,0,0,SE15,2022
+SE15_19-04-2022.pdf,R.M. Suroriente Padre Hurtado,100,3,0,2,0,1,0,SE15,2022
+SE15_19-04-2022.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE15,2022
+SE15_19-04-2022.pdf,R.M. Oriente Hospital Militar,5,1,1,0,0,0,0,SE15,2022
+SE15_19-04-2022.pdf,"Santiago, Consultorio Steeger",2,2,0,1,1,0,0,SE15,2022
+SE15_19-04-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE15,2022
+SE15_19-04-2022.pdf,Otros R.M**,3,3,0,0,0,3,0,SE15,2022
+SE44_03-11-2020.pdf,R.M. Sur Exequiel González C.,8,0,0,0,0,0,0,SE44,2020
+SE44_03-11-2020.pdf,R.M. Occidente Félix Bulnes,16,1,0,0,1,0,0,SE44,2020
+SE44_03-11-2020.pdf,R.M. Occidente San Juan de Dios,30,0,0,0,0,0,0,SE44,2020
+SE44_03-11-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE44,2020
+SE44_03-11-2020.pdf,R.M. Oriente Hospital del Tórax,37,4,0,0,0,0,0,SE44,2020
+SE44_03-11-2020.pdf,R.M. Oriente Hospital Militar,1,0,0,0,0,0,0,SE44,2020
+SE49_14-12-2021.pdf,R.M. Sur Exequiel González C.,21,3,1,1,1,0,0,SE49,2021
+SE49_14-12-2021.pdf,R.M. Occidente Félix Bulnes,44,3,0,0,3,0,0,SE49,2021
+SE49_14-12-2021.pdf,R.M. Occidente San Juan de Dios,22,2,0,0,2,0,0,SE49,2021
+SE49_14-12-2021.pdf,R.M. Suroriente Padre Hurtado,26,1,1,0,0,0,0,SE49,2021
+SE49_14-12-2021.pdf,R.M. Oriente Hospital del Tórax,2,0,0,0,0,0,0,SE49,2021
+SE49_14-12-2021.pdf,R.M. Oriente Hospital Militar,7,1,0,0,1,0,0,SE49,2021
+SE50_20-12-2022.pdf,R.M. Sur Exequiel González C.,16,0,0,0,0,0,0,SE50,2022
+SE50_20-12-2022.pdf,R.M. Occidente Félix Bulnes,67,13,0,5,4,3,0,SE50,2022
+SE50_20-12-2022.pdf,R.M. Occidente San Juan de Dios,65,16,0,0,2,5,1,SE50,2022
+SE50_20-12-2022.pdf,R.M. Suroriente Padre Hurtado,85,7,0,1,0,5,1,SE50,2022
+SE50_20-12-2022.pdf,R.M. Oriente Hospital del Tórax,13,3,0,0,0,1,0,SE50,2022
+SE50_20-12-2022.pdf,R.M. Oriente Hospital Militar,15,1,0,0,0,0,0,SE50,2022
+SE50_20-12-2022.pdf,"Santiago, Consultorio Steeger",5,1,0,1,0,0,0,SE50,2022
+SE50_20-12-2022.pdf,"Santiago, Consultorio Avendaño",8,2,0,0,0,2,0,SE50,2022
+SE50_20-12-2022.pdf,"Santiago, Consultorio 5",0,0,0,0,0,0,0,SE50,2022
+SE50_20-12-2022.pdf,"Santiago, Consultorio Barros Luco",0,0,0,0,0,0,0,SE50,2022
+SE50_20-12-2022.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE50,2022
+SE50_20-12-2022.pdf,Otros R.M**,9,9,0,0,0,9,0,SE50,2022
+SE01_07-01-2025.pdf,R.M. Sur Exequiel González C.,27,14,0,0,0,2,0,SE01,2025
+SE01_07-01-2025.pdf,R.M. Occidente Félix Bulnes,77,25,0,4,0,0,6,SE01,2025
+SE01_07-01-2025.pdf,R.M. Occidente San Juan de Dios,62,14,0,0,0,1,2,SE01,2025
+SE01_07-01-2025.pdf,R.M. Suroriente Padre Hurtado,75,14,0,1,0,1,6,SE01,2025
+SE01_07-01-2025.pdf,R.M. Oriente Hospital del Tórax,7,1,0,0,0,0,0,SE01,2025
+SE01_07-01-2025.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE01,2025
+SE01_07-01-2025.pdf,"Santiago, Consultorio Barros Luco",6,0,0,0,0,0,0,SE01,2025
+SE01_07-01-2025.pdf,Otros R.M**,5,5,0,0,0,1,4,SE01,2025
+SE46_19-11-2024.pdf,R.M. Sur Exequiel González C.,71,34,0,3,7,0,2,SE46,2024
+SE46_19-11-2024.pdf,R.M. Occidente Félix Bulnes,129,55,0,4,4,1,5,SE46,2024
+SE46_19-11-2024.pdf,R.M. Occidente San Juan de Dios,114,25,0,0,3,0,4,SE46,2024
+SE46_19-11-2024.pdf,R.M. Suroriente Padre Hurtado,61,4,0,1,0,0,0,SE46,2024
+SE46_19-11-2024.pdf,R.M. Oriente Hospital del Tórax,10,3,0,0,0,0,3,SE46,2024
+SE46_19-11-2024.pdf,R.M. Oriente Hospital Militar,6,4,1,0,0,0,0,SE46,2024
+SE46_19-11-2024.pdf,"Santiago, Consultorio Steeger",4,3,0,0,0,0,2,SE46,2024
+SE46_19-11-2024.pdf,"Santiago, Consultorio Avendaño",4,3,0,0,0,0,0,SE46,2024
+SE46_19-11-2024.pdf,"Santiago, Consultorio 5",10,0,0,0,0,0,0,SE46,2024
+SE46_19-11-2024.pdf,"Santiago, Consultorio Barros Luco",7,0,0,0,0,0,0,SE46,2024
+SE46_19-11-2024.pdf,"Santiago, Consultorio Ariztía",2,0,0,0,0,0,0,SE46,2024
+SE46_19-11-2024.pdf,Otros R.M**,4,4,0,0,0,0,4,SE46,2024
+SE09_03-03-2020.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE09,2020
+SE09_03-03-2020.pdf,R.M. Occidente Félix Bulnes,13,0,0,0,0,0,0,SE09,2020
+SE09_03-03-2020.pdf,R.M. Occidente San Juan de Dios,28,6,0,2,3,1,0,SE09,2020
+SE09_03-03-2020.pdf,R.M. Suroriente Padre Hurtado,9,0,0,0,0,0,0,SE09,2020
+SE09_03-03-2020.pdf,R.M. Oriente Hospital del Tórax,5,0,0,0,0,0,0,SE09,2020
+SE09_03-03-2020.pdf,R.M. Oriente Hospital Militar,7,0,0,0,0,0,0,SE09,2020
+SE09_03-03-2020.pdf,Otros R.M**,2,2,0,0,0,1,1,SE09,2020
+SE43_03-11-2022.pdf,R.M. Sur Exequiel González C.,19,2,0,0,1,1,0,SE43,2022
+SE43_03-11-2022.pdf,R.M. Occidente Félix Bulnes,73,12,1,1,3,6,0,SE43,2022
+SE43_03-11-2022.pdf,R.M. Occidente San Juan de Dios,70,17,0,0,0,5,0,SE43,2022
+SE43_03-11-2022.pdf,R.M. Suroriente Padre Hurtado,88,24,20,0,0,4,0,SE43,2022
+SE43_03-11-2022.pdf,R.M. Oriente Hospital del Tórax,21,4,0,0,1,3,0,SE43,2022
+SE43_03-11-2022.pdf,R.M. Oriente Hospital Militar,11,8,0,1,0,0,0,SE43,2022
+SE43_03-11-2022.pdf,"Santiago, Consultorio Steeger",7,2,0,0,0,2,0,SE43,2022
+SE43_03-11-2022.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,1,0,SE43,2022
+SE43_03-11-2022.pdf,"Santiago, Consultorio Barros Luco",8,0,0,0,0,0,0,SE43,2022
+SE43_03-11-2022.pdf,Otros R.M**,10,10,0,0,0,10,0,SE43,2022
+SE10_10-03-2020.pdf,R.M. Sur Exequiel González C.,14,1,0,0,1,0,0,SE10,2020
+SE10_10-03-2020.pdf,R.M. Occidente Félix Bulnes,17,2,0,0,2,0,0,SE10,2020
+SE10_10-03-2020.pdf,R.M. Occidente San Juan de Dios,35,4,0,0,4,0,0,SE10,2020
+SE10_10-03-2020.pdf,R.M. Suroriente Padre Hurtado,14,0,0,0,0,0,0,SE10,2020
+SE10_10-03-2020.pdf,R.M. Oriente Hospital del Tórax,17,0,0,0,0,0,0,SE10,2020
+SE10_10-03-2020.pdf,R.M. Oriente Hospital Militar,2,0,0,0,0,0,0,SE10,2020
+SE10_10-03-2020.pdf,Otros R.M**,5,5,0,0,0,5,0,SE10,2020
+SE21_30-05-2023.pdf,R.M. Sur Exequiel González C.,83,36,32,1,1,1,0,SE21,2023
+SE21_30-05-2023.pdf,R.M. Occidente Félix Bulnes,216,152,96,8,12,22,1,SE21,2023
+SE21_30-05-2023.pdf,R.M. Occidente San Juan de Dios,142,45,10,0,2,30,2,SE21,2023
+SE21_30-05-2023.pdf,R.M. Suroriente Padre Hurtado,1579,75,33,19,0,20,3,SE21,2023
+SE21_30-05-2023.pdf,R.M. Oriente Hospital del Tórax,60,20,11,0,0,8,0,SE21,2023
+SE21_30-05-2023.pdf,R.M. Oriente Hospital Militar,10,7,4,0,0,1,0,SE21,2023
+SE21_30-05-2023.pdf,"Santiago, Consultorio Steeger",7,7,3,0,1,3,0,SE21,2023
+SE21_30-05-2023.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,0,0,SE21,2023
+SE21_30-05-2023.pdf,"Santiago, Consultorio Barros Luco",5,1,0,0,0,1,0,SE21,2023
+SE21_30-05-2023.pdf,"Santiago, Consultorio Ariztía",10,10,3,0,2,2,0,SE21,2023
+SE21_30-05-2023.pdf,Otros R.M**,6,6,0,0,0,6,0,SE21,2023
+SE43_31-10-2023.pdf,R.M. Sur Exequiel González C.,30,0,0,0,0,0,0,SE43,2023
+SE43_31-10-2023.pdf,R.M. Occidente Félix Bulnes,93,25,0,2,13,0,2,SE43,2023
+SE43_31-10-2023.pdf,R.M. Occidente San Juan de Dios,114,15,0,0,2,0,0,SE43,2023
+SE43_31-10-2023.pdf,R.M. Suroriente Padre Hurtado,98,3,0,2,0,0,1,SE43,2023
+SE43_31-10-2023.pdf,R.M. Oriente Hospital del Tórax,83,4,0,0,2,0,1,SE43,2023
+SE43_31-10-2023.pdf,R.M. Oriente Hospital Militar,8,4,0,0,2,0,0,SE43,2023
+SE43_31-10-2023.pdf,"Santiago, Consultorio Steeger",5,2,0,0,2,0,0,SE43,2023
+SE43_31-10-2023.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE43,2023
+SE43_31-10-2023.pdf,"Santiago, Consultorio 5",3,2,0,0,0,0,1,SE43,2023
+SE43_31-10-2023.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE43,2023
+SE43_31-10-2023.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,1,0,0,SE43,2023
+SE43_31-10-2023.pdf,Otros R.M**,5,5,0,0,0,3,2,SE43,2023
+SE12_28-03-2023.pdf,R.M. Sur Exequiel González C.,38,0,0,0,0,0,0,SE12,2023
+SE12_28-03-2023.pdf,R.M. Occidente Félix Bulnes,68,7,1,2,1,0,2,SE12,2023
+SE12_28-03-2023.pdf,R.M. Occidente San Juan de Dios,85,12,0,3,1,0,2,SE12,2023
+SE12_28-03-2023.pdf,R.M. Suroriente Padre Hurtado,71,5,0,3,0,1,0,SE12,2023
+SE12_28-03-2023.pdf,R.M. Oriente Hospital del Tórax,14,2,0,1,1,0,0,SE12,2023
+SE12_28-03-2023.pdf,"Santiago, Consultorio Avendaño",8,2,0,0,0,1,1,SE12,2023
+SE12_28-03-2023.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,0,0,1,SE12,2023
+SE12_28-03-2023.pdf,Otros R.M**,6,6,0,0,0,3,3,SE12,2023
+SE27_13-07-2021.pdf,R.M. Sur Exequiel González C.,27,5,5,0,0,0,0,SE27,2021
+SE27_13-07-2021.pdf,R.M. Occidente Félix Bulnes,21,7,7,0,0,0,0,SE27,2021
+SE27_13-07-2021.pdf,R.M. Occidente San Juan de Dios,21,0,0,0,0,0,0,SE27,2021
+SE27_13-07-2021.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE27,2021
+SE27_13-07-2021.pdf,R.M. Oriente Hospital del Tórax,1,0,0,0,0,0,0,SE27,2021
+SE27_13-07-2021.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE27,2021
+SE08_28-02-2023.pdf,R.M. Sur Exequiel González C.,16,0,0,0,0,0,0,SE08,2023
+SE08_28-02-2023.pdf,R.M. Occidente Félix Bulnes,46,2,0,0,1,0,1,SE08,2023
+SE08_28-02-2023.pdf,R.M. Occidente San Juan de Dios,45,9,1,2,0,0,0,SE08,2023
+SE08_28-02-2023.pdf,R.M. Suroriente Padre Hurtado,77,17,0,13,1,1,2,SE08,2023
+SE08_28-02-2023.pdf,R.M. Oriente Hospital del Tórax,19,0,0,0,0,0,0,SE08,2023
+SE08_28-02-2023.pdf,R.M. Oriente Hospital Militar,7,4,0,0,1,0,0,SE08,2023
+SE08_28-02-2023.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE08,2023
+SE08_28-02-2023.pdf,Otros R.M**,2,2,0,0,0,0,2,SE08,2023
+SE03_26-01-2020.pdf,R.M. Sur Exequiel González C.,7,0,0,0,0,0,0,SE03,2020
+SE03_26-01-2020.pdf,R.M. Occidente Félix Bulnes,9,0,0,0,0,0,0,SE03,2020
+SE03_26-01-2020.pdf,R.M. Occidente San Juan de Dios,36,0,0,0,0,0,0,SE03,2020
+SE03_26-01-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE03,2020
+SE03_26-01-2020.pdf,R.M. Oriente Hospital del Tórax,16,0,0,0,0,0,0,SE03,2020
+SE03_26-01-2020.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE03,2020
+SE02_14-01-2025.pdf,R.M. Sur Exequiel González C.,34,18,0,2,0,0,0,SE02,2025
+SE02_14-01-2025.pdf,R.M. Occidente Félix Bulnes,92,29,0,1,3,1,4,SE02,2025
+SE02_14-01-2025.pdf,R.M. Occidente San Juan de Dios,62,9,0,0,0,0,2,SE02,2025
+SE02_14-01-2025.pdf,R.M. Suroriente Padre Hurtado,36,5,0,0,0,2,0,SE02,2025
+SE02_14-01-2025.pdf,R.M. Oriente Hospital del Tórax,12,4,0,0,0,0,0,SE02,2025
+SE02_14-01-2025.pdf,R.M. Oriente Hospital Militar,6,2,0,0,1,0,0,SE02,2025
+SE02_14-01-2025.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE02,2025
+SE02_14-01-2025.pdf,"Santiago, Consultorio Avendaño",3,2,0,1,0,1,0,SE02,2025
+SE02_14-01-2025.pdf,"Santiago, Consultorio 5",2,1,0,0,0,0,1,SE02,2025
+SE02_14-01-2025.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE02,2025
+SE02_14-01-2025.pdf,Otros R.M**,5,5,0,0,0,1,4,SE02,2025
+SE11_19-03-2019.pdf,R.M. Sur Exequiel González C.,25,1,0,0,1,0,0,SE11,2019
+SE11_19-03-2019.pdf,R.M. Occidente Félix Bulnes,31,5,0,2,2,0,0,SE11,2019
+SE11_19-03-2019.pdf,R.M. Occidente San Juan de Dios,29,1,0,0,0,0,1,SE11,2019
+SE11_19-03-2019.pdf,R.M. Suroriente Padre Hurtado,27,0,0,0,0,0,0,SE11,2019
+SE11_19-03-2019.pdf,R.M. Oriente Hospital del Tórax,8,0,0,0,0,0,0,SE11,2019
+SE11_19-03-2019.pdf,R.M. Oriente Hospital Militar,4,1,1,0,0,0,0,SE11,2019
+SE11_19-03-2019.pdf,Otros R.M**,7,7,0,0,0,6,1,SE11,2019
+SE50_17-12-2024.pdf,R.M. Sur Exequiel González C.,50,30,0,1,5,0,4,SE50,2024
+SE50_17-12-2024.pdf,R.M. Occidente Félix Bulnes,106,38,1,0,1,1,7,SE50,2024
+SE50_17-12-2024.pdf,R.M. Occidente San Juan de Dios,100,23,0,0,0,1,7,SE50,2024
+SE50_17-12-2024.pdf,R.M. Suroriente Padre Hurtado,66,17,0,1,1,1,12,SE50,2024
+SE50_17-12-2024.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE50,2024
+SE50_17-12-2024.pdf,R.M. Oriente Hospital Militar,5,1,0,1,0,0,0,SE50,2024
+SE50_17-12-2024.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE50,2024
+SE50_17-12-2024.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,0,1,SE50,2024
+SE50_17-12-2024.pdf,"Santiago, Consultorio 5",3,2,0,0,0,0,2,SE50,2024
+SE50_17-12-2024.pdf,"Santiago, Consultorio Barros Luco",5,2,0,0,0,0,2,SE50,2024
+SE50_17-12-2024.pdf,"Santiago, Consultorio Ariztía",8,5,0,0,0,0,2,SE50,2024
+SE50_17-12-2024.pdf,Otros R.M**,6,6,0,0,0,1,5,SE50,2024
+SE39_05-10-2021.pdf,R.M. Sur Exequiel González C.,34,17,17,0,0,0,0,SE39,2021
+SE39_05-10-2021.pdf,R.M. Occidente Félix Bulnes,48,12,8,2,2,0,0,SE39,2021
+SE39_05-10-2021.pdf,R.M. Occidente San Juan de Dios,23,3,2,0,1,0,0,SE39,2021
+SE39_05-10-2021.pdf,R.M. Suroriente Padre Hurtado,40,12,12,0,0,0,0,SE39,2021
+SE39_05-10-2021.pdf,R.M. Oriente Hospital del Tórax,15,2,1,0,0,0,0,SE39,2021
+SE39_05-10-2021.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE39,2021
+SE39_05-10-2021.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,1,0,0,SE39,2021
+SE39_05-10-2021.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE39,2021
+SE02_18-01-2022.pdf,R.M. Sur Exequiel González C.,18,2,0,0,0,1,0,SE02,2022
+SE02_18-01-2022.pdf,R.M. Occidente Félix Bulnes,30,4,0,0,1,3,0,SE02,2022
+SE02_18-01-2022.pdf,R.M. Occidente San Juan de Dios,50,14,0,2,0,8,0,SE02,2022
+SE02_18-01-2022.pdf,R.M. Suroriente Padre Hurtado,55,16,0,0,0,16,0,SE02,2022
+SE02_18-01-2022.pdf,R.M. Oriente Hospital del Tórax,2,1,0,0,0,1,0,SE02,2022
+SE02_18-01-2022.pdf,R.M. Oriente Hospital Militar,3,2,0,0,0,1,0,SE02,2022
+SE02_18-01-2022.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE02,2022
+SE02_18-01-2022.pdf,Otros R.M**,19,19,0,0,0,19,0,SE02,2022
+SE17_28-04-2020.pdf,R.M. Sur Exequiel González C.,2,0,0,0,0,0,0,SE17,2020
+SE17_28-04-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE17,2020
+SE17_28-04-2020.pdf,R.M. Occidente San Juan de Dios,34,0,0,0,0,0,0,SE17,2020
+SE17_28-04-2020.pdf,R.M. Suroriente Padre Hurtado,3,0,0,0,0,0,0,SE17,2020
+SE17_28-04-2020.pdf,R.M. Oriente Hospital del Tórax,22,1,0,0,0,0,0,SE17,2020
+SE17_28-04-2020.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE17,2020
+SE17_28-04-2020.pdf,"Santiago, Consultorio Ariztía",23,1,0,0,0,0,0,SE17,2020
+SE50_17-12-2019.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE50,2019
+SE50_17-12-2019.pdf,R.M. Occidente Félix Bulnes,38,1,0,0,1,0,0,SE50,2019
+SE50_17-12-2019.pdf,R.M. Occidente San Juan de Dios,40,6,0,3,3,0,0,SE50,2019
+SE50_17-12-2019.pdf,R.M. Suroriente Padre Hurtado,9,1,0,0,0,0,0,SE50,2019
+SE50_17-12-2019.pdf,R.M. Oriente Hospital del Tórax,12,2,0,0,2,0,0,SE50,2019
+SE50_17-12-2019.pdf,R.M. Oriente Hospital Militar,9,0,0,0,0,0,0,SE50,2019
+SE50_17-12-2019.pdf,Otros R.M**,1,1,0,0,0,1,0,SE50,2019
+SE37_20-09-2023.pdf,R.M. Sur Exequiel González C.,48,2,0,0,1,0,1,SE37,2023
+SE37_20-09-2023.pdf,R.M. Occidente Félix Bulnes,93,18,1,0,14,0,0,SE37,2023
+SE37_20-09-2023.pdf,R.M. Occidente San Juan de Dios,116,16,0,2,6,0,4,SE37,2023
+SE37_20-09-2023.pdf,R.M. Suroriente Padre Hurtado,103,7,2,2,1,0,0,SE37,2023
+SE37_20-09-2023.pdf,R.M. Oriente Hospital del Tórax,62,4,0,0,1,0,0,SE37,2023
+SE37_20-09-2023.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE37,2023
+SE37_20-09-2023.pdf,"Santiago, Consultorio Avendaño",8,2,0,1,0,0,1,SE37,2023
+SE37_20-09-2023.pdf,"Santiago, Consultorio 5",3,0,0,0,0,0,0,SE37,2023
+SE37_20-09-2023.pdf,"Santiago, Consultorio Ariztía",6,1,1,0,0,0,0,SE37,2023
+SE13_31-03-2020.pdf,R.M. Sur Exequiel González C.,14,3,0,1,2,0,0,SE13,2020
+SE13_31-03-2020.pdf,R.M. Occidente Félix Bulnes,49,4,0,1,3,0,0,SE13,2020
+SE13_31-03-2020.pdf,R.M. Occidente San Juan de Dios,253,34,0,14,15,5,0,SE13,2020
+SE13_31-03-2020.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE13,2020
+SE13_31-03-2020.pdf,R.M. Oriente Hospital del Tórax,46,1,0,0,0,0,0,SE13,2020
+SE13_31-03-2020.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,1,0,0,SE13,2020
+SE07_21-02-2023.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE07,2023
+SE07_21-02-2023.pdf,R.M. Occidente Félix Bulnes,51,11,0,8,1,0,2,SE07,2023
+SE07_21-02-2023.pdf,R.M. Occidente San Juan de Dios,59,6,0,0,0,0,1,SE07,2023
+SE07_21-02-2023.pdf,R.M. Suroriente Padre Hurtado,75,10,0,10,0,0,0,SE07,2023
+SE07_21-02-2023.pdf,R.M. Oriente Hospital del Tórax,7,2,0,2,0,0,0,SE07,2023
+SE07_21-02-2023.pdf,R.M. Oriente Hospital Militar,5,2,0,0,0,0,0,SE07,2023
+SE07_21-02-2023.pdf,"Santiago, Consultorio Barros Luco",2,1,0,1,0,0,0,SE07,2023
+SE07_21-02-2023.pdf,"Santiago, Consultorio Ariztía",1,1,0,1,0,0,0,SE07,2023
+SE07_21-02-2023.pdf,Otros R.M**,2,2,0,0,0,0,2,SE07,2023
+SE32_11-08-2020.pdf,R.M. Sur Exequiel González C.,7,0,0,0,0,0,0,SE32,2020
+SE32_11-08-2020.pdf,R.M. Occidente Félix Bulnes,10,1,0,0,1,0,0,SE32,2020
+SE32_11-08-2020.pdf,R.M. Occidente San Juan de Dios,158,1,0,1,0,0,0,SE32,2020
+SE32_11-08-2020.pdf,R.M. Suroriente Padre Hurtado,4,0,0,0,0,0,0,SE32,2020
+SE32_11-08-2020.pdf,R.M. Oriente Hospital del Tórax,34,3,0,0,0,0,0,SE32,2020
+SE32_11-08-2020.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE32,2020
+SE48_01-12-2020.pdf,R.M. Sur Exequiel González C.,6,0,0,0,0,0,0,SE48,2020
+SE48_01-12-2020.pdf,R.M. Occidente Félix Bulnes,16,1,0,1,0,0,0,SE48,2020
+SE48_01-12-2020.pdf,R.M. Occidente San Juan de Dios,34,1,0,1,0,0,0,SE48,2020
+SE48_01-12-2020.pdf,R.M. Suroriente Padre Hurtado,6,0,0,0,0,0,0,SE48,2020
+SE48_01-12-2020.pdf,R.M. Oriente Hospital del Tórax,23,0,0,0,0,0,0,SE48,2020
+SE13_05-04-2022.pdf,R.M. Sur Exequiel González C.,10,0,0,0,0,0,0,SE13,2022
+SE13_05-04-2022.pdf,R.M. Occidente Félix Bulnes,36,2,0,1,1,0,0,SE13,2022
+SE13_05-04-2022.pdf,R.M. Occidente San Juan de Dios,50,5,2,0,0,0,0,SE13,2022
+SE13_05-04-2022.pdf,R.M. Suroriente Padre Hurtado,83,4,1,3,0,0,0,SE13,2022
+SE13_05-04-2022.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE13,2022
+SE13_05-04-2022.pdf,"Santiago, Consultorio Steeger",4,1,0,1,0,0,0,SE13,2022
+SE13_05-04-2022.pdf,Otros R.M**,5,5,0,0,0,5,0,SE13,2022
+SE30_02-08-2022.pdf,R.M. Sur Exequiel González C.,47,15,9,0,0,3,0,SE30,2022
+SE30_02-08-2022.pdf,R.M. Occidente Félix Bulnes,82,28,15,3,0,3,0,SE30,2022
+SE30_02-08-2022.pdf,R.M. Occidente San Juan de Dios,74,25,5,1,3,7,0,SE30,2022
+SE30_02-08-2022.pdf,R.M. Suroriente Padre Hurtado,98,12,3,0,1,6,0,SE30,2022
+SE30_02-08-2022.pdf,R.M. Oriente Hospital del Tórax,26,6,0,0,0,2,0,SE30,2022
+SE30_02-08-2022.pdf,R.M. Oriente Hospital Militar,15,4,2,0,1,0,0,SE30,2022
+SE30_02-08-2022.pdf,"Santiago, Consultorio Steeger",7,2,0,0,0,1,0,SE30,2022
+SE30_02-08-2022.pdf,"Santiago, Consultorio Avendaño",6,5,0,0,0,4,0,SE30,2022
+SE30_02-08-2022.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE30,2022
+SE30_02-08-2022.pdf,"Santiago, Consultorio Barros Luco",10,0,0,0,0,0,0,SE30,2022
+SE30_02-08-2022.pdf,"Santiago, Consultorio Ariztía",7,5,1,0,0,2,0,SE30,2022
+SE30_02-08-2022.pdf,Otros R.M**,10,10,0,0,0,10,0,SE30,2022
+SE11_22-03-2022.pdf,R.M. Sur Exequiel González C.,11,0,0,0,0,0,0,SE11,2022
+SE11_22-03-2022.pdf,R.M. Occidente Félix Bulnes,36,3,0,2,0,1,0,SE11,2022
+SE11_22-03-2022.pdf,R.M. Occidente San Juan de Dios,24,1,0,0,0,0,0,SE11,2022
+SE11_22-03-2022.pdf,R.M. Suroriente Padre Hurtado,15,1,0,1,0,0,0,SE11,2022
+SE11_22-03-2022.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE11,2022
+SE11_22-03-2022.pdf,R.M. Oriente Hospital Militar,12,5,0,0,0,0,0,SE11,2022
+SE11_22-03-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE11,2022
+SE11_22-03-2022.pdf,Otros R.M**,1,1,0,0,0,1,0,SE11,2022
+SE02_14-01-2020.pdf,R.M. Sur Exequiel González C.,12,1,0,0,1,0,0,SE02,2020
+SE02_14-01-2020.pdf,R.M. Occidente Félix Bulnes,24,3,0,0,3,0,0,SE02,2020
+SE02_14-01-2020.pdf,R.M. Occidente San Juan de Dios,22,2,0,0,2,0,0,SE02,2020
+SE02_14-01-2020.pdf,R.M. Suroriente Padre Hurtado*,0,0,0,0,0,0,0,SE02,2020
+SE02_14-01-2020.pdf,R.M. Oriente Hospital del Tórax,15,0,0,0,0,0,0,SE02,2020
+SE02_14-01-2020.pdf,R.M. Oriente Hospital Militar,7,0,0,0,0,0,0,SE02,2020
+SE02_14-01-2020.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,1,0,0,SE02,2020
+SE02_14-01-2020.pdf,Otros R.M**,2,2,0,0,0,0,2,SE02,2020
+SE10_15-03-2022.pdf,R.M. Sur Exequiel González C.,10,1,0,0,0,1,0,SE10,2022
+SE10_15-03-2022.pdf,R.M. Occidente Félix Bulnes,17,3,1,2,0,0,0,SE10,2022
+SE10_15-03-2022.pdf,R.M. Occidente San Juan de Dios,53,4,1,0,0,0,0,SE10,2022
+SE10_15-03-2022.pdf,R.M. Suroriente Padre Hurtado,28,14,1,0,0,1,0,SE10,2022
+SE10_15-03-2022.pdf,R.M. Oriente Hospital del Tórax,1,0,0,0,0,0,0,SE10,2022
+SE10_15-03-2022.pdf,R.M. Oriente Hospital Militar,8,6,0,1,0,0,0,SE10,2022
+SE10_15-03-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE10,2022
+SE10_15-03-2022.pdf,Otros R.M**,4,4,0,0,0,4,0,SE10,2022
+SE35_01-09-2020.pdf,R.M. Sur Exequiel González C.,12,0,0,0,0,0,0,SE35,2020
+SE35_01-09-2020.pdf,R.M. Occidente Félix Bulnes,12,0,0,0,0,0,0,SE35,2020
+SE35_01-09-2020.pdf,R.M. Occidente San Juan de Dios,184,1,1,0,0,0,0,SE35,2020
+SE35_01-09-2020.pdf,R.M. Suroriente Padre Hurtado,4,0,0,0,0,0,0,SE35,2020
+SE35_01-09-2020.pdf,R.M. Oriente Hospital del Tórax,41,2,0,0,0,0,0,SE35,2020
+SE35_01-09-2020.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE35,2020
+SE35_01-09-2020.pdf,"Santiago, Consultorio 5",2,0,0,0,0,0,0,SE35,2020
+SE35_01-09-2020.pdf,Otros R.M**,0,0,0,0,0,0,0,SE35,2020
+SE42_24-10-2023.pdf,R.M. Sur Exequiel González C.,43,4,0,0,4,0,0,SE42,2023
+SE42_24-10-2023.pdf,R.M. Occidente Félix Bulnes,125,25,2,3,16,0,0,SE42,2023
+SE42_24-10-2023.pdf,R.M. Occidente San Juan de Dios,128,18,0,0,6,0,1,SE42,2023
+SE42_24-10-2023.pdf,R.M. Suroriente Padre Hurtado,95,9,0,3,4,0,1,SE42,2023
+SE42_24-10-2023.pdf,R.M. Oriente Hospital del Tórax,105,30,0,0,4,0,1,SE42,2023
+SE42_24-10-2023.pdf,R.M. Oriente Hospital Militar,7,4,0,0,0,0,0,SE42,2023
+SE42_24-10-2023.pdf,"Santiago, Consultorio Steeger",5,1,0,0,1,0,0,SE42,2023
+SE42_24-10-2023.pdf,"Santiago, Consultorio Avendaño",5,1,0,0,1,0,0,SE42,2023
+SE42_24-10-2023.pdf,"Santiago, Consultorio 5",5,2,0,0,0,0,0,SE42,2023
+SE42_24-10-2023.pdf,"Santiago, Consultorio Ariztía",4,0,0,0,0,0,0,SE42,2023
+SE42_24-10-2023.pdf,Otros R.M**,3,3,0,0,0,0,3,SE42,2023
+SE41_19-10-2021.pdf,R.M. Sur Exequiel González C.,18,9,6,0,3,0,0,SE41,2021
+SE41_19-10-2021.pdf,R.M. Occidente Félix Bulnes,59,35,29,0,5,0,0,SE41,2021
+SE41_19-10-2021.pdf,R.M. Occidente San Juan de Dios,29,6,4,2,0,0,0,SE41,2021
+SE41_19-10-2021.pdf,R.M. Suroriente Padre Hurtado,39,10,10,0,0,0,0,SE41,2021
+SE41_19-10-2021.pdf,R.M. Oriente Hospital del Tórax,3,0,0,0,0,0,0,SE41,2021
+SE01_12-01-2021.pdf,R.M. Sur Exequiel González C.,7,0,0,0,0,0,0,SE01,2021
+SE01_12-01-2021.pdf,R.M. Occidente Félix Bulnes,16,0,0,0,0,0,0,SE01,2021
+SE01_12-01-2021.pdf,R.M. Occidente San Juan de Dios,29,0,0,0,0,0,0,SE01,2021
+SE01_12-01-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE01,2021
+SE01_12-01-2021.pdf,R.M. Oriente Hospital del Tórax,19,0,0,0,0,0,0,SE01,2021
+SE36_12-09-2023.pdf,R.M. Sur Exequiel González C.,27,6,0,0,5,0,0,SE36,2023
+SE36_12-09-2023.pdf,R.M. Occidente Félix Bulnes,93,22,1,1,12,0,3,SE36,2023
+SE36_12-09-2023.pdf,R.M. Occidente San Juan de Dios,120,16,1,0,11,0,1,SE36,2023
+SE36_12-09-2023.pdf,R.M. Suroriente Padre Hurtado,101,7,3,4,0,0,0,SE36,2023
+SE36_12-09-2023.pdf,R.M. Oriente Hospital del Tórax,75,7,0,0,6,0,0,SE36,2023
+SE36_12-09-2023.pdf,R.M. Oriente Hospital Militar,5,4,0,0,1,0,0,SE36,2023
+SE36_12-09-2023.pdf,"Santiago, Consultorio Steeger",1,0,0,0,0,0,0,SE36,2023
+SE36_12-09-2023.pdf,"Santiago, Consultorio Avendaño",4,1,0,0,1,0,0,SE36,2023
+SE36_12-09-2023.pdf,"Santiago, Consultorio 5",9,0,0,0,0,0,0,SE36,2023
+SE36_12-09-2023.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE36,2023
+SE36_12-09-2023.pdf,"Santiago, Consultorio Ariztía",9,4,0,0,4,0,0,SE36,2023
+SE36_12-09-2023.pdf,Otros R.M**,2,2,0,0,0,0,2,SE36,2023
+SE05_05-02-2018.pdf,R.M. Sur Exequiel González C.,14,0,0,0,0,0,0,SE05,2018
+SE05_05-02-2018.pdf,R.M. Occidente Félix Bulnes,19,1,0,1,0,0,0,SE05,2018
+SE05_05-02-2018.pdf,R.M. Occidente San Juan de Dios,12,0,0,0,0,0,0,SE05,2018
+SE05_05-02-2018.pdf,R.M. Suroriente Padre Hurtado,10,0,0,0,0,0,0,SE05,2018
+SE05_05-02-2018.pdf,R.M. Oriente Hospital del Tórax,10,2,0,1,1,0,0,SE05,2018
+SE05_05-02-2018.pdf,R.M. Oriente Hospital Militar,2,0,0,0,0,0,0,SE05,2018
+SE05_05-02-2018.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE05,2018
+SE24_19-06-2023.pdf,R.M. Sur Exequiel González C.,168,104,89,2,4,0,1,SE24,2023
+SE24_19-06-2023.pdf,R.M. Occidente Félix Bulnes,273,216,155,9,7,6,5,SE24,2023
+SE24_19-06-2023.pdf,R.M. Occidente San Juan de Dios,199,53,27,9,3,3,1,SE24,2023
+SE24_19-06-2023.pdf,R.M. Suroriente Padre Hurtado,230,108,59,8,1,5,1,SE24,2023
+SE24_19-06-2023.pdf,R.M. Oriente Hospital del Tórax,51,18,8,0,0,6,0,SE24,2023
+SE24_19-06-2023.pdf,"Santiago, Consultorio Steeger",10,6,2,1,0,1,1,SE24,2023
+SE24_19-06-2023.pdf,"Santiago, Consultorio Avendaño",10,4,1,0,2,1,0,SE24,2023
+SE24_19-06-2023.pdf,"Santiago, Consultorio 5",7,1,0,0,1,0,0,SE24,2023
+SE24_19-06-2023.pdf,"Santiago, Consultorio Barros Luco",5,0,0,0,0,0,0,SE24,2023
+SE24_19-06-2023.pdf,"Santiago, Consultorio Ariztía",5,1,1,0,0,0,0,SE24,2023
+SE24_19-06-2023.pdf,Otros R.M**,4,4,0,0,0,4,0,SE24,2023
+SE45_16-11-2021.pdf,R.M. Sur Exequiel González C.,18,4,1,1,2,0,0,SE45,2021
+SE45_16-11-2021.pdf,R.M. Occidente Félix Bulnes,24,6,0,0,6,0,0,SE45,2021
+SE45_16-11-2021.pdf,R.M. Occidente San Juan de Dios,33,5,0,0,4,0,0,SE45,2021
+SE45_16-11-2021.pdf,R.M. Suroriente Padre Hurtado,27,5,2,3,0,0,0,SE45,2021
+SE45_16-11-2021.pdf,R.M. Oriente Hospital del Tórax,8,0,0,0,0,0,0,SE45,2021
+SE45_16-11-2021.pdf,R.M. Oriente Hospital Militar,13,0,0,0,0,0,0,SE45,2021
+SE45_16-11-2021.pdf,"Santiago, Consultorio Steeger",1,1,1,0,0,0,0,SE45,2021
+SE45_16-11-2021.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,1,0,0,SE45,2021
+SE45_16-11-2021.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE45,2021
+SE29_21-07-2020.pdf,R.M. Sur Exequiel González C.,12,0,0,0,0,0,0,SE29,2020
+SE29_21-07-2020.pdf,R.M. Occidente Félix Bulnes,5,0,0,0,0,0,0,SE29,2020
+SE29_21-07-2020.pdf,R.M. Occidente San Juan de Dios,145,0,0,0,0,0,0,SE29,2020
+SE29_21-07-2020.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE29,2020
+SE29_21-07-2020.pdf,R.M. Oriente Hospital del Tórax,27,1,0,0,0,0,0,SE29,2020
+SE29_21-07-2020.pdf,R.M. Oriente Hospital Militar,12,0,0,0,0,0,0,SE29,2020
+SE16_21-04-2020.pdf,R.M. Sur Exequiel González C.,8,0,0,0,0,0,0,SE16,2020
+SE16_21-04-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE16,2020
+SE16_21-04-2020.pdf,R.M. Occidente San Juan de Dios,38,0,0,0,0,0,0,SE16,2020
+SE16_21-04-2020.pdf,R.M. Suroriente Padre Hurtado,1,0,0,0,0,0,0,SE16,2020
+SE16_21-04-2020.pdf,R.M. Oriente Hospital del Tórax,11,1,0,0,0,0,0,SE16,2020
+SE16_21-04-2020.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE16,2020
+SE16_21-04-2020.pdf,"Santiago, Consultorio Ariztía",13,3,0,0,1,0,1,SE16,2020
+SE33_23-08-2022.pdf,R.M. Sur Exequiel González C.,56,8,4,0,2,1,0,SE33,2022
+SE33_23-08-2022.pdf,R.M. Occidente Félix Bulnes,99,27,5,2,6,7,0,SE33,2022
+SE33_23-08-2022.pdf,R.M. Occidente San Juan de Dios,86,27,1,0,3,8,0,SE33,2022
+SE33_23-08-2022.pdf,R.M. Suroriente Padre Hurtado,139,15,3,1,0,9,0,SE33,2022
+SE33_23-08-2022.pdf,R.M. Oriente Hospital del Tórax,19,7,0,1,0,2,0,SE33,2022
+SE33_23-08-2022.pdf,"Santiago, Consultorio Steeger",6,1,1,0,0,0,0,SE33,2022
+SE33_23-08-2022.pdf,"Santiago, Consultorio Avendaño",8,3,0,0,0,3,0,SE33,2022
+SE33_23-08-2022.pdf,"Santiago, Consultorio Barros Luco",3,1,0,0,0,1,0,SE33,2022
+SE33_23-08-2022.pdf,"Santiago, Consultorio Ariztía",7,3,1,0,0,0,0,SE33,2022
+SE33_23-08-2022.pdf,Otros R.M**,14,14,0,0,0,14,0,SE33,2022
+SE41_15-10-2019.pdf,R.M. Sur Exequiel González C.,51,8,1,0,3,0,3,SE41,2019
+SE41_15-10-2019.pdf,R.M. Occidente Félix Bulnes,57,13,0,0,3,0,2,SE41,2019
+SE41_15-10-2019.pdf,R.M. Occidente San Juan de Dios,149,22,3,3,1,0,12,SE41,2019
+SE41_15-10-2019.pdf,R.M. Suroriente Padre Hurtado,47,11,1,2,3,0,1,SE41,2019
+SE41_15-10-2019.pdf,R.M. Oriente Hospital del Tórax,31,4,0,0,1,0,0,SE41,2019
+SE41_15-10-2019.pdf,R.M. Oriente Hospital Militar,4,1,0,0,0,0,1,SE41,2019
+SE41_15-10-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE41,2019
+SE41_15-10-2019.pdf,Otros R.M**,13,13,0,0,0,3,10,SE41,2019
+SE46_22-11-2022.pdf,R.M. Sur Exequiel González C.,24,4,0,0,0,4,0,SE46,2022
+SE46_22-11-2022.pdf,R.M. Occidente Félix Bulnes,92,18,0,3,3,12,0,SE46,2022
+SE46_22-11-2022.pdf,R.M. Occidente San Juan de Dios,92,21,0,0,0,12,0,SE46,2022
+SE46_22-11-2022.pdf,R.M. Suroriente Padre Hurtado,118,13,0,2,0,10,1,SE46,2022
+SE46_22-11-2022.pdf,R.M. Oriente Hospital del Tórax,30,4,0,0,2,2,0,SE46,2022
+SE46_22-11-2022.pdf,R.M. Oriente Hospital Militar,10,9,0,0,0,2,0,SE46,2022
+SE46_22-11-2022.pdf,"Santiago, Consultorio Steeger",3,0,0,0,0,0,0,SE46,2022
+SE46_22-11-2022.pdf,"Santiago, Consultorio Avendaño",5,1,0,0,0,1,0,SE46,2022
+SE46_22-11-2022.pdf,"Santiago, Consultorio 5",7,0,0,0,0,0,0,SE46,2022
+SE46_22-11-2022.pdf,"Santiago, Consultorio Barros Luco",1,0,0,0,0,0,0,SE46,2022
+SE46_22-11-2022.pdf,"Santiago, Consultorio Ariztía",4,4,0,0,0,4,0,SE46,2022
+SE46_22-11-2022.pdf,Otros R.M**,13,13,0,0,0,11,2,SE46,2022
+SE17_03-05-2022.pdf,R.M. Sur Exequiel González C.,46,5,4,0,0,1,0,SE17,2022
+SE17_03-05-2022.pdf,R.M. Occidente Félix Bulnes,58,17,3,2,9,1,0,SE17,2022
+SE17_03-05-2022.pdf,R.M. Occidente San Juan de Dios,36,3,0,1,2,0,0,SE17,2022
+SE17_03-05-2022.pdf,R.M. Suroriente Padre Hurtado,65,5,4,1,0,0,0,SE17,2022
+SE17_03-05-2022.pdf,R.M. Oriente Hospital del Tórax,4,0,0,0,0,0,0,SE17,2022
+SE17_03-05-2022.pdf,R.M. Oriente Hospital Militar,8,5,4,0,0,0,0,SE17,2022
+SE17_03-05-2022.pdf,"Santiago, Consultorio Steeger",7,3,0,0,3,0,0,SE17,2022
+SE17_03-05-2022.pdf,"Santiago, Consultorio Avendaño",1,1,0,0,1,0,0,SE17,2022
+SE17_03-05-2022.pdf,"Santiago, Consultorio 5",1,0,0,0,0,0,0,SE17,2022
+SE17_03-05-2022.pdf,Otros R.M**,5,5,0,0,0,5,0,SE17,2022
+SE26_06-07-2021.pdf,R.M. Sur Exequiel González C.,15,4,4,0,0,0,0,SE26,2021
+SE26_06-07-2021.pdf,R.M. Occidente Félix Bulnes,21,3,2,1,0,0,0,SE26,2021
+SE26_06-07-2021.pdf,R.M. Occidente San Juan de Dios,19,0,0,0,0,0,0,SE26,2021
+SE26_06-07-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE26,2021
+SE26_06-07-2021.pdf,R.M. Oriente Hospital del Tórax,0,0,0,0,0,0,0,SE26,2021
+SE26_06-07-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE26,2021
+SE20_25-05-2021.pdf,R.M. Sur Exequiel González C.,12,0,0,0,0,0,0,SE20,2021
+SE20_25-05-2021.pdf,R.M. Occidente Félix Bulnes,25,4,1,1,1,0,0,SE20,2021
+SE20_25-05-2021.pdf,R.M. Occidente San Juan de Dios,17,0,0,0,0,0,0,SE20,2021
+SE20_25-05-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE20,2021
+SE20_25-05-2021.pdf,R.M. Oriente Hospital del Tórax,2,0,0,0,0,0,0,SE20,2021
+SE20_25-05-2021.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE20,2021
+SE20_25-05-2021.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE20,2021
+SE33_18-08-2020.pdf,R.M. Sur Exequiel González C.,9,0,0,0,0,0,0,SE33,2020
+SE33_18-08-2020.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE33,2020
+SE33_18-08-2020.pdf,R.M. Occidente San Juan de Dios,159,0,0,0,0,0,0,SE33,2020
+SE33_18-08-2020.pdf,R.M. Suroriente Padre Hurtado,5,0,0,0,0,0,0,SE33,2020
+SE33_18-08-2020.pdf,R.M. Oriente Hospital del Tórax,37,2,0,0,0,0,0,SE33,2020
+SE33_18-08-2020.pdf,R.M. Oriente Hospital Militar,4,0,0,0,0,0,0,SE33,2020
+SE14_09-04-2024.pdf,R.M. Sur Exequiel González C.,20,0,0,0,0,0,0,SE14,2024
+SE14_09-04-2024.pdf,R.M. Occidente Félix Bulnes,104,53,0,1,4,4,0,SE14,2024
+SE14_09-04-2024.pdf,R.M. Occidente San Juan de Dios,117,25,0,0,0,6,0,SE14,2024
+SE14_09-04-2024.pdf,R.M. Suroriente Padre Hurtado,110,14,0,0,0,1,0,SE14,2024
+SE14_09-04-2024.pdf,R.M. Oriente Hospital del Tórax,64,16,0,2,0,2,0,SE14,2024
+SE14_09-04-2024.pdf,R.M. Oriente Hospital Militar,10,3,0,0,0,0,0,SE14,2024
+SE14_09-04-2024.pdf,"Santiago, Consultorio Steeger",5,2,0,0,0,0,0,SE14,2024
+SE14_09-04-2024.pdf,"Santiago, Consultorio Avendaño",10,7,0,0,0,1,0,SE14,2024
+SE14_09-04-2024.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE14,2024
+SE14_09-04-2024.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE14,2024
+SE14_09-04-2024.pdf,Otros R.M**,8,8,0,0,0,8,0,SE14,2024
+SE14_09-04-2019.pdf,R.M. Sur Exequiel González C.,30,0,0,0,0,0,0,SE14,2019
+SE14_09-04-2019.pdf,R.M. Occidente Félix Bulnes,40,4,0,0,4,0,0,SE14,2019
+SE14_09-04-2019.pdf,R.M. Occidente San Juan de Dios,63,5,0,0,4,1,0,SE14,2019
+SE14_09-04-2019.pdf,R.M. Suroriente Padre Hurtado,27,2,0,0,2,0,0,SE14,2019
+SE14_09-04-2019.pdf,R.M. Oriente Hospital del Tórax,12,2,0,1,0,1,0,SE14,2019
+SE14_09-04-2019.pdf,R.M. Oriente Hospital Militar,7,2,0,1,0,1,0,SE14,2019
+SE14_09-04-2019.pdf,"Santiago, Consultorio Steeger",2,0,0,0,0,0,0,SE14,2019
+SE14_09-04-2019.pdf,"Santiago, Consultorio Ariztía",1,0,0,0,0,0,0,SE14,2019
+SE14_09-04-2019.pdf,Otros R.M**,9,9,0,0,0,9,0,SE14,2019
+SE32_14-08-2023.pdf,R.M. Sur Exequiel González C.,38,8,2,2,2,0,0,SE32,2023
+SE32_14-08-2023.pdf,R.M. Occidente Félix Bulnes*,0,0,0,0,0,0,0,SE32,2023
+SE32_14-08-2023.pdf,R.M. Occidente San Juan de Dios,112,15,6,1,3,0,2,SE32,2023
+SE32_14-08-2023.pdf,R.M. Suroriente Padre Hurtado,152,19,9,2,1,0,0,SE32,2023
+SE32_14-08-2023.pdf,R.M. Oriente Hospital del Tórax,33,4,1,1,1,0,0,SE32,2023
+SE32_14-08-2023.pdf,"Santiago, Consultorio Steeger",6,2,0,1,0,0,0,SE32,2023
+SE32_14-08-2023.pdf,"Santiago, Consultorio Avendaño",2,0,0,0,0,0,0,SE32,2023
+SE32_14-08-2023.pdf,"Santiago, Consultorio 5",11,3,2,1,0,0,0,SE32,2023
+SE32_14-08-2023.pdf,"Santiago, Consultorio Barros Luco",3,0,0,0,0,0,0,SE32,2023
+SE32_14-08-2023.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,0,0,1,SE32,2023
+SE32_14-08-2023.pdf,Otros R.M**,1,1,0,0,0,0,1,SE32,2023
+SE39_29-09-2020.pdf,R.M. Sur Exequiel González C.,5,0,0,0,0,0,0,SE39,2020
+SE39_29-09-2020.pdf,R.M. Occidente Félix Bulnes,16,0,0,0,0,0,0,SE39,2020
+SE39_29-09-2020.pdf,R.M. Occidente San Juan de Dios,233,0,0,0,0,0,0,SE39,2020
+SE39_29-09-2020.pdf,R.M. Suroriente Padre Hurtado,6,0,0,0,0,0,0,SE39,2020
+SE39_29-09-2020.pdf,R.M. Oriente Hospital del Tórax,28,3,0,0,0,0,0,SE39,2020
+SE39_29-09-2020.pdf,R.M. Oriente Hospital Militar,5,0,0,0,0,0,0,SE39,2020
+SE39_29-09-2020.pdf,"Santiago, Consultorio Ariztía",2,1,0,0,0,0,0,SE39,2020
+SE24_22-06-2022.pdf,R.M. Sur Exequiel González C.,110,61,54,1,1,1,0,SE24,2022
+SE24_22-06-2022.pdf,R.M. Occidente Félix Bulnes,177,130,104,1,4,1,0,SE24,2022
+SE24_22-06-2022.pdf,R.M. Occidente San Juan de Dios,80,28,9,1,0,5,0,SE24,2022
+SE24_22-06-2022.pdf,R.M. Suroriente Padre Hurtado,64,43,28,0,2,5,0,SE24,2022
+SE24_22-06-2022.pdf,R.M. Oriente Hospital del Tórax*,0,0,0,0,0,0,0,SE24,2022
+SE24_22-06-2022.pdf,R.M. Oriente Hospital Militar,20,11,4,0,0,2,0,SE24,2022
+SE24_22-06-2022.pdf,"Santiago, Consultorio Steeger",2,1,0,0,1,0,0,SE24,2022
+SE24_22-06-2022.pdf,"Santiago, Consultorio Avendaño",2,1,0,0,0,0,0,SE24,2022
+SE24_22-06-2022.pdf,Otros R.M**,7,7,0,0,0,7,0,SE24,2022
+SE01_07-01-2020.pdf,R.M. Sur Exequiel González C.,16,0,0,0,0,0,0,SE01,2020
+SE01_07-01-2020.pdf,R.M. Occidente Félix Bulnes,22,1,0,1,0,0,0,SE01,2020
+SE01_07-01-2020.pdf,R.M. Occidente San Juan de Dios,25,0,0,0,0,0,0,SE01,2020
+SE01_07-01-2020.pdf,R.M. Suroriente Padre Hurtado,11,0,0,0,0,0,0,SE01,2020
+SE01_07-01-2020.pdf,R.M. Oriente Hospital del Tórax,11,1,0,0,0,0,1,SE01,2020
+SE01_07-01-2020.pdf,"Santiago, Consultorio Avendaño",1,0,0,0,0,0,0,SE01,2020
+SE01_07-01-2020.pdf,Otros R.M**,2,2,0,0,0,1,1,SE01,2020
+SE05_09-02-2021.pdf,R.M. Sur Exequiel González C.,4,0,0,0,0,0,0,SE05,2021
+SE05_09-02-2021.pdf,R.M. Occidente Félix Bulnes,8,0,0,0,0,0,0,SE05,2021
+SE05_09-02-2021.pdf,R.M. Occidente San Juan de Dios,35,0,0,0,0,0,0,SE05,2021
+SE05_09-02-2021.pdf,R.M. Suroriente Padre Hurtado,0,0,0,0,0,0,0,SE05,2021
+SE05_09-02-2021.pdf,R.M. Oriente Hospital del Tórax,6,0,0,0,0,0,0,SE05,2021
+SE05_09-02-2021.pdf,R.M. Oriente Hospital Militar,6,0,0,0,0,0,0,SE05,2021
+SE25_27-06-2023.pdf,R.M. Sur Exequiel González C.,113,62,54,1,1,0,0,SE25,2023
+SE25_27-06-2023.pdf,R.M. Occidente Félix Bulnes,247,168,111,9,6,1,2,SE25,2023
+SE25_27-06-2023.pdf,R.M. Occidente San Juan de Dios,172,52,22,1,2,10,3,SE25,2023
+SE25_27-06-2023.pdf,R.M. Suroriente Padre Hurtado,232,79,53,9,0,2,1,SE25,2023
+SE25_27-06-2023.pdf,R.M. Oriente Hospital del Tórax,39,7,6,0,0,1,0,SE25,2023
+SE25_27-06-2023.pdf,"Santiago, Consultorio Steeger",10,8,3,2,0,0,1,SE25,2023
+SE25_27-06-2023.pdf,"Santiago, Consultorio Avendaño",4,1,0,0,0,0,0,SE25,2023
+SE25_27-06-2023.pdf,"Santiago, Consultorio Barros Luco",2,1,0,0,0,0,0,SE25,2023
+SE25_27-06-2023.pdf,"Santiago, Consultorio Ariztía",3,3,1,0,0,0,1,SE25,2023
+SE25_27-06-2023.pdf,Otros R.M**,4,4,0,0,0,4,0,SE25,2023
+SE41_15-10-2024.pdf,R.M. Sur Exequiel González C.,94,44,2,1,11,0,0,SE41,2024
+SE41_15-10-2024.pdf,R.M. Occidente Félix Bulnes,113,51,0,5,9,0,4,SE41,2024
+SE41_15-10-2024.pdf,R.M. Occidente San Juan de Dios,102,22,0,0,4,0,1,SE41,2024
+SE41_15-10-2024.pdf,R.M. Suroriente Padre Hurtado,68,18,1,2,0,0,2,SE41,2024
+SE41_15-10-2024.pdf,R.M. Oriente Hospital del Tórax,16,6,0,0,1,0,0,SE41,2024
+SE41_15-10-2024.pdf,R.M. Oriente Hospital Militar,7,4,0,2,0,0,0,SE41,2024
+SE41_15-10-2024.pdf,"Santiago, Consultorio Avendaño",10,6,0,0,2,0,1,SE41,2024
+SE41_15-10-2024.pdf,"Santiago, Consultorio 5",6,4,0,0,0,0,2,SE41,2024
+SE41_15-10-2024.pdf,"Santiago, Consultorio Barros Luco",8,0,0,0,0,0,0,SE41,2024
+SE41_15-10-2024.pdf,"Santiago, Consultorio Ariztía",4,3,0,0,0,1,0,SE41,2024
+SE41_15-10-2024.pdf,Otros R.M**,4,4,0,0,0,1,3,SE41,2024
